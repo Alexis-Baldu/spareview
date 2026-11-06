@@ -238,6 +238,7 @@ filtroModelo.addEventListener("change", () => {
 document.getElementById("filtro-modelo").addEventListener("change", () => {
   const modeloSeleccionado = document.getElementById("filtro-modelo").value;
   const contenedorImagen = document.getElementById("imagen");
+  if (!contenedorImagen) return;
   contenedorImagen.innerHTML = "";
   const archivo = archivosCargados.find(a => a.nombre === modeloSeleccionado);
   if (archivo) {
