@@ -1,0 +1,110 @@
+
+@media print {
+    body {
+        font-family: Arial, sans-serif;
+        font-size: 12px;
+        color: black !important;
+        background-color: white !important;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+
+    header, button {
+        display: none;
+        color: black;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        page-break-inside: avoid;
+    }
+
+    th, td {
+        
+        padding: 4px;
+        text-align: left;
+        vertical-align: top;
+    }
+
+    img {
+        max-width: 50px;
+        height: auto;
+    }
+
+    input::placeholder {
+        color: transparent !important;
+    }
+
+    input,
+    input:-webkit-autofill,
+    input:-webkit-autofill:focus,
+    input:-webkit-autofill:hover {
+        background-color: transparent !important;
+        -webkit-box-shadow: 0 0 0px 1000px white inset !important;
+        box-shadow: 0 0 0px 1000px white inset !important;
+        color: black !important;
+    }
+
+    #filtro-ejecutivo, #email-ejecutivo, #telefono-ejecutivo {
+        display: inline-block;
+        margin-right: 10px;
+    }
+
+    #filtro-ejecutivo {
+        border: none;
+        appearance: none;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        background-image: none !important
+    }
+
+    .select-servicio, .input-descripcion {
+        border: none;
+        background-color: transparent !important;
+        background-image: none !important;
+    }
+
+    #grilla-cotizador {
+        margin-top: 20px;
+    }
+
+    #totales {
+        margin-top: 20px;
+        page-break-inside: avoid;
+    }
+
+    #totales span {
+        display: block;
+        margin-bottom: 4px;
+    }
+
+    #pantalla-cotizador {
+        width: 100%;
+        margin: 0 auto;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    select {
+        appearance: none !important;
+        -webkit-appearance: none !important;
+        -moz-appearance: none !important;
+        background: none !important;
+        border: none !important;
+        pointer-events: none;
+    }
+
+    select::after {
+        display: none !important;
+    }
+
+    #descuento {
+        appearance: none !important;
+        -webkit-appearance: none !important;
+        -moz-appearance: none !important;
+        background: none !important;
+        border: none !important;
+        pointer-events: none;
+    }
+}

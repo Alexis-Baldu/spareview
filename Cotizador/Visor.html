@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+
+<html lang="es">
+  <head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <title>Cotización Repuestos ImegaVentus</title>
+    <link href="styles_responsive.css" rel="stylesheet"/>
+    <link href="print_styles.css" rel="stylesheet" media="print">
+    <link rel="shortcut icon" href="https://repuestos.ventuscorp.cl/wp-content/uploads/2018/03/FAVICON.jpg" />
+  </head>
+  <header>
+    <div id="logo" type="img">
+    <img src="https://repuestos.ventuscorp.cl/wp-content/uploads/2024/11/logo-image.svg" class="logo-footer" alt="" decoding="async" loading="lazy"/>
+    </div>  
+    <div class="boton-derecha">
+      <button onclick="guardarCotizacion()" id="boton-guardar">Guardar Cotización</button>
+      <button id="boton-imprimir" onclick="imprimirCotizacion()">Imprimir Cotización</button>
+    </div>
+  </header>
+  <body>
+    <div id="pantalla-cotizador" style="display: block;">
+      <div id="Cabecera">
+        <img id="logo-cotizador" type="img" src="..\Icon\logo-ImegaVentus_azul-01.png" class="logo-footer" decoding="async" loading="lazy"/>
+        <div id="texto-cabezera">
+          <b>IMEGA VENTUS SPA</b>
+          <p>Venta arriendo - Equipos para establecimientos gastronómicos, servicios,</p>
+          <p>Mantención y reparación de equipos, ventas al por mayor de otros productos N.C.P.</p>
+          <p>Otros productos en almacenes no especializados, otras reparaciones de enceres</p>
+          <p>Profesionales y enseres domésticos N.C.P.</p>
+          <p>Alquileres de otros tipos de maquinarias y equipos N.C.P.</p>
+          <p>Dirección: la Siembra N° 3403, Santiago, Lampa.</p>
+        </div>
+      </div>
+      <p></p>
+      <div id="Titulo-cotizador"><b>Cotización</b></div>
+      <div id="formulario-cotizacion" style="display: flex; justify-content: space-between; width: 100%; gap: 20px;">
+        <div>
+          <label for="numero-cotizacion"><strong>Número:</strong></label>
+          <input type="number" id="numero-cotizacion" name="numero-cotizacion" placeholder="Ingrese número" style="border: none; background: transparent; font-size: inherit;">
+        </div>
+        <div>
+          <label for="fecha-cotizacion"><strong>Fecha:</strong></label>
+          <input type="text" id="fecha-cotizacion" name="fecha-cotizacion" style="border: none; background: transparent; font-size: inherit;">
+        </div>
+        <div>
+          <label><strong>Pago:</strong></label>
+          <span style="display: inline-block; padding: 4px 8px;"></span>
+        </div>
+        <div>
+          <label><strong>Validez:</strong></label>
+          <span style="display: inline-block; border: none; background: transparent; font-size: inherit; padding-right: 8px">7 días</span>
+        </div>
+      </div>
+      <div id="Titulo-cotizador"><b>Datos de Cliente</b></div>
+      <div class="formulario-cliente">
+        <div class="box-1">
+          <label for="cliente"><strong>Cliente:</strong></label>
+          <input type="text" id="nombre_cliente" name="nombre_cliente" placeholder="Ingrese Nombre Cliente" style="border: none; background: transparent; font-size: inherit;">
+          <br>
+          <label type="email" for="email"><strong>Email:</strong></label>
+          <input type="text" id="email" name="email" placeholder="Ingrese Email" style="border: none; background: transparent; font-size: inherit;">
+          <br>
+          <label for="casino"><strong>Casino:</strong></label>
+          <input type="text" id="casino" name="casino" placeholder="Ingrese Casino" style="border: none; background: transparent; font-size: inherit;">
+        </div>
+        <div class="box-2">
+          <label for="direccion"><strong>Dirección:</strong></label>
+          <input type="text" id="direccion" name="direccion" placeholder="Ingrese Dirección" style="border: none; background: transparent; font-size: inherit;">
+          <br>
+          <label for="contacto"><strong>Contacto:</strong></label>
+          <input type="text" id="contacto" name="contacto" placeholder="Ingrese Contacto" style="border: none; background: transparent; font-size: inherit;">
+          </div>
+        <div class="box-3">
+          <label for="ciudad"><strong>Ciudad:</strong></label>
+          <input type="text" id="ciudad" name="ciudad" placeholder="Ingrese Ciudad" style="border: none; background: transparent; font-size: inherit;">
+          <br>
+          <label for="telefono"><strong>Teléfono:</strong></label>
+          <input type="text" id="telefono" name="telefono" placeholder="Ingrese Teléfono" style="border: none; background: transparent; font-size: inherit;">
+        </div>
+      </div>
+      <div id="Titulo-cotizador"><b>Estimado cliente, de acuerdo a lo solicitado, nos es grato cotizar lo siguiente.</b></div>
+      <table id="grilla-cotizador">
+        <thead>
+          <tr>
+            <th>Imagen</th>
+            <th>Código SAP</th>
+            <th>Descripción</th>
+            <th>Cantidad</th>
+            <th>Precio unitario</th>
+            <th>Precio Total</th>
+          </tr>
+          <div class="botones-cotizador">
+            <button id="agregar-fila">Agregar Servicio</button>
+            <button id="agregar-repuesto">Agregar Repuesto</button>
+          </div>
+        </thead>
+        <tbody id="grilla-cotizador-body"></tbody>
+        <tfoot>
+          <tr>
+            <td colspan="5" style="text-align: right;"><strong>Subtotal:</strong></td>
+            <td id="Subtotal"></td>
+          </tr>
+          <tr>
+            <td colspan="5" style="text-align: right;">
+              <strong>Dscto.<input type="number" id="descuento" value="0" min="0" max="99" onchange="recalcularTotales()" />%:</strong>
+            </td>
+            <td><span id="descuento-clp"></span></td>
+          </tr>
+          <tr>
+            <tr>
+            <td colspan="5" style="text-align: right;"><strong>Total Neto:</strong></td>
+            <td id="total-neto"></td>
+          </tr>
+            <td colspan="5" style="text-align: right;"><strong>IVA 19%:</strong></td>
+            <td id="iva"></td>
+          </tr>
+          <tr>
+            <td colspan="5" style="text-align: right;"><strong>Total con IVA:</strong></td>
+            <td id="total-con-iva"></td>
+          </tr>
+        </tfoot>
+      </table>
+      <p></p>
+      <div id="Titulo-cotizador"><b>Condiciones Generales</b></div>
+      <p></p>
+      <div class="comentario-wrapper">
+        <form>
+          <textarea id="comentario" name="comentario" rows="6" placeholder="Observaciones :"></textarea>
+        </form>
+      </div>
+      <p></p>
+      <div id="Titulo-cotizador"><b>Ejecutivo(a) de Venta</b></div>
+      <p></p>
+      <div id="datos-vendedor">
+        <div>
+          <span id="Ejecutivo"></span>
+          <br>
+          <label><strong>Email:</strong></label>
+          <span id="email-ejecutivo"></span>
+          <br>
+          <label><strong>Teléfono:</strong></label>
+          <span id="telefono-ejecutivo"></span>   
+        </div>
+      </div>
+    </div>
+    <script src="../repuestos.js"></script>
+    <script src="script_visor.js"></script>
+    <script src="Servicios.js"></script>
+  </body>
+</html>
