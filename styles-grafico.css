@@ -1,0 +1,100 @@
+/* === Estilos base Graficos === */
+.containerGrafico {
+  display: grid;
+  grid-template-columns: repeat(3, 280px);
+  gap: 20px;
+  padding: 20px;
+  justify-content: center;
+}
+
+.grafico-1, .grafico-2, .grafico-3 {
+  width: 280px;
+  height: 220px;
+  background-color: white;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+canvas#graficoImagen,
+canvas#graficoDespiece,
+canvas#graficoUbicacion {
+  width: 100% !important;
+  height: 160px !important;
+}
+
+#totalSAP, #totalModelos, #totalUbicacion {
+  text-align: center;
+  font-weight: bold;
+  color: #0b2a4a;
+
+}
+
+.containerdatos {
+  display: grid;
+  grid-template-columns: repeat(3, 280px);
+  gap: 20px;
+  padding: 20px;
+  justify-content: center;
+}
+
+.containerdatos div {
+  background-color: white;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 0;
+  width: 280px;
+}
+
+.containerdatos h3 {
+  font-size: 14px;
+  background-color: #e6e6e6;
+  padding: 8px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.containerdatos ol {
+  padding-left: 20px;
+}
+
+.lista-oculta {
+  display: none;
+  margin-bottom: 0;
+}
+
+.toggle-header {
+  cursor: pointer;
+  background-color: #e6e6e6;
+  border: 1px solid #ccc;
+  border-radius: 0;
+}
+
+/* === Estilos Responsivos === */
+@media (max-width: 768px) {
+  .containerGrafico,
+  .containerdatos {
+    grid-template-columns: 1fr;
+    margin-left: 0;
+    padding: 10px;
+  }
+
+  .grafico-1, .grafico-2, .grafico-3 {
+    width: 100%;
+    height: auto;
+  }
+
+  canvas#graficoImagen,
+  canvas#graficoDespiece,
+  canvas#graficoUbicacion {
+    width: 100% !important;
+    height: auto !important;
+  }
+
+  .containerdatos div {
+    padding: 10px;
+  }
+
+  .containerdatos ol {
+    padding-left: 20px;
+  }
+}

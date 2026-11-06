@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+
+<html lang="es">
+  <head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <title>Despiece Repuestos ImegaVentus</title>
+    <link href="styles_responsive.css" rel="stylesheet"/>
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet"/>
+    <link rel="shortcut icon" href="https://repuestos.ventuscorp.cl/wp-content/uploads/2018/03/FAVICON.jpg" />
+  </head>
+  <header>
+    <!-- Cabecera -->
+    <div id="logo" type="img">
+    <img src="https://repuestos.ventuscorp.cl/wp-content/uploads/2024/11/logo-image.svg" class="logo-footer" alt="" decoding="async" loading="lazy"/>
+    </div>
+    <button id="toggle-carrito">🛒</button>
+  </header>
+  <body>
+    <!-- Pantalla -->
+    <div id="pantalla-despiece" style="display: block;">
+      <select id="filtro-marca"></select>
+      <select id="filtro-modelo"></select>
+      <select id="filtro-canal">
+        <option value="24">24 - Venta Directa</option>
+        <option value="28">28 - Distribuidor</option>
+        <option value="29">29 - Post Venta</option>
+        <option value="30">30 - Exportación</option>
+      </select>
+      
+      <!-- Despiece -->
+      <div id="visor-despiece" style="margin-top: 20px; display: none;">
+        <embed id="embed-despiece" type="application/pdf" width="100%" height="600px" style="display: none;"/>
+        <img id="img-despiece" style="max-width: 100%; height: auto; display: none;"/>
+      </div>
+
+      <!-- Tabla Datos -->
+      <table id="grilla">
+        <thead>
+          <button class="btn-export-excel" onclick="exportarAExcel()">Exportar a Excel</button>
+          <tr>
+            <th>Imagen</th>
+            <th style="position: relative;">
+              <span class="titulo-columna">Código Fábrica</span>
+              <input class="filtro-columna" onkeyup="filtrarTabla(this)" placeholder="Buscar" type="text"/>
+            </th>
+            <th style="position: relative;">
+              <span class="titulo-columna">Código SAP</span>
+              <input class="filtro-columna" onkeyup="filtrarTabla(this)" placeholder="Buscar" type="text"/>
+            </th>
+            <th style="position: relative;">
+              <span class="titulo-columna">Reemplazo</span>
+              <input class="filtro-columna" onkeyup="filtrarTabla(this)" placeholder="Buscar" type="text"/>
+            </th>
+            <th style="position: relative;">
+              <span class="titulo-columna">Descripción</span>
+              <input class="filtro-columna" onkeyup="filtrarTabla(this)" placeholder="Buscar" type="text"/>
+            </th>
+            <th>Cantidad</th>
+            <th>Precio</th>
+            <th>Stock 1409</th>
+            <th>Stock 1524</th>
+            <th>Stock 1506</th>
+            <th>Fecha Reposición</th>
+            <th>Cantidad Reposición</th>
+            <th>Agregar</th>
+          </tr>
+        </thead>
+        <tbody id="grilla-body"></tbody>
+      </table>
+    </div>
+
+    <!-- Carrito flotante con botón de minimizar -->
+    
+    <div id="carrito-flotante" class="oculto">
+      <h3>🛒 Carrito</h3>
+      <ul id="lista-carrito"></ul>
+      <div id="total-carrito"></div>
+    </div>
+
+    <div id="sidebar">
+      <a href="index.html" class="side-link active" data-id="inicio">
+        <img type="img" src="Icon/home-alt.png" class="icon"/>
+        <span class="text">Inicio</span>
+      </a>
+      <a href="despiece.html" class="side-link" data-id="despiece">
+        <img type="img" src="Icon/department-store.png" class="icon"/>
+        <span class="text">Despiece</span>
+      </a>
+      <a href="lista.html" class="side-link" data-id="lista">
+        <img type="img" src="Icon/table-list.png" class="icon"/>
+        <span class="text">Lista</span>
+      </a>
+      <a href="Cotizador/index.html" class="side-link" data-id="cotizador" target="_blank">
+        <img type="img" src="Icon/file-detail.png" class="icon"/>
+        <span class="text">Cotizador</span>
+      </a>
+      <a href="logistica.html" class="side-link" data-id="logistica">
+        <img type="img" src="Icon/warehouse.png" class="icon"/>
+        <span class="text">Logística</span>
+      </a>
+      <a href="Comex.html" class="side-link" data-id="comex">
+        <img type="img" src="Icon/globe-americas.png" class="icon"/>
+        <span class="text">Comex</span>
+      </a>
+      <a href="Acceso.html" class="side-link" data-id="Configuracion">
+        <img type="img" src="Icon/cog.png" class="icon"/>
+        <span class="text">Config.</span>
+      </a>
+    </div>
+    <!-- Datos -->
+    <script src="Stock_1506.js"></script>
+    <script src="Stock_1524.js"></script>
+    <script src="Stock_1409.js"></script>
+    <script src="Precio.js"></script>
+    <script src="repuestos.js"></script>
+    <script src="modelos_por_marca.js"></script>
+    <script src="datos_despiece.js"></script>
+    <script src="OrdenCompra.js"></script>
+    <script src="Reemplazos.js"></script>
+    <script src="script.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+  </body>
+  <footer>
+    <!-- Pie de Página -->
+    <div class="col-md-12 sidebar text-center">
+      <aside id="text-8" class="widget widget_text">
+        <div class="textwidget">
+          <p style="color: white";">Abaldu® V 2.0</p>
+        </div>
+      </aside>
+    </div>
+  </footer>
+</html>

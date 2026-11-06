@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html lang="es">
+  <head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <title>Configuración</title>
+    <link href="styles-Config.css" rel="stylesheet"/>
+    <link rel="shortcut icon" href="https://repuestos.ventuscorp.cl/wp-content/uploads/2018/03/FAVICON.jpg" />
+  </head>
+  <header>
+    <!-- Cabecera -->
+    <div id="logo" type="img">
+    <img src="https://repuestos.ventuscorp.cl/wp-content/uploads/2024/11/logo-image.svg" class="logo-footer" alt="" decoding="async" loading="lazy"/>
+    </div>
+  </header>
+  <body>
+    <!-- Pantalla -->
+    <div id="pantalla-principal">
+    </div>
+    <div id="password-container">
+      <div id="password-box">
+        <p>Ingrese la contraseña para acceder:</p>
+        <form onsubmit="checkPassword(); return false;">
+          <input type="password" id="password-input" placeholder="Contraseña" autofocus>
+          <br><br>
+          <button onclick="checkPassword()">Entrar</button>
+        </form>
+      </div>
+    </div>
+    <!-- Datos -->
+    <script src="script-Config.js"></script>
+  </body>
+  <footer>
+    <!-- Pie de Página -->
+    <div class="col-md-12 sidebar text-center">
+      <aside id="text-8" class="widget widget_text">
+        <div class="textwidget">
+          <p style="color: white";">Abaldu® V 2.0</p>
+        </div>
+      </aside>
+    </div>
+  </footer>
+</html>

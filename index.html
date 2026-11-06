@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+
+<html lang="es">
+  <head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <title>Vista Repuestos ImegaVentus</title>
+    <link href="styles_responsive.css" rel="stylesheet"/>
+    <link href="styles-view.css" rel="stylesheet"/>
+    <link rel="shortcut icon" href="https://repuestos.ventuscorp.cl/wp-content/uploads/2018/03/FAVICON.jpg" />
+  </head>
+  <header>
+    <!-- Cabecera -->
+    <div id="logo" type="img">
+    <img src="https://repuestos.ventuscorp.cl/wp-content/uploads/2024/11/logo-image.svg" class="logo-footer" alt="" decoding="async" loading="lazy"/>
+    </div>
+    <button id="toggle-carrito">🛒</button>
+    <span id="contador-carrito" class="contador">0</span>
+  </header>
+  <body>
+    <!-- Pantalla -->
+    <div id="pantalla-despiece">
+
+      <!-- BUSCADOR -->
+      <div class="buscador-container">
+        <div class="input-group">
+          <input type="text" id="inputSAP" placeholder="Ingrese Código SAP">
+          <svg class="icono-lupa" viewBox="0 0 24 24">
+            <circle cx="11" cy="11" r="7"/>
+            <line x1="16" y1="16" x2="21" y2="21"/>
+          </svg>
+        </div>
+      </div>
+
+      <!-- RESULTADO -->
+      <div id="resultado" class="resultado-container">
+        
+        <!-- IMAGEN -->
+        <div class="imagen-box">
+          <img id="imgProducto" src="" alt="Imagen repuesto" style="display:none;">
+            <!-- BOTÓN EXPANDIR -->
+            <button class="expand-btn" onclick="abrirImagen()">
+              ⛶
+            </button>
+          </div>
+          <!-- MODAL -->
+          <div id="modalImagen" class="modal">
+            <span class="cerrar" onclick="cerrarImagen()">&times;</span>
+            <img id="imgAmpliada" class="modal-contenido">
+        </div>
+
+        <!-- DETALLE -->
+        <div class="detalle-box">
+          <div class="detalle-item">
+            <span class="valorDescripcion" id="descripcion"></span>
+          </div>
+          <div class="detalle-item">
+            <span class="label">Código SAP:</span>
+            <span class="valor" id="sap"></span>
+          </div>
+          <div class="detalle-item">
+            <span class="label">Código Fábrica:</span>
+            <span class="valor" id="fabrica"></span>
+          </div>
+          <div class="detalle-item">
+            <span class="label">Stock:</span>
+            <span class="valor" id="stock"></span>
+          </div>
+          <div class="detalle-item">
+            <span class="label">Reemplazo:</span>
+            <span class="valor" id="reemplazo"></span>
+          </div>
+        </div>
+              <!-- CARRITO -->
+        <div class="detalle-box">
+          <div class="detalle-item">
+            <span class="label">Precio:</span>
+            <span class="valor" id="precio"></span>
+          </div>
+          
+          <div id="carrito-control">
+            <div class="cantidad-box">
+              <button id="btn-menos">−</button>
+              <input type="text" id="cantidad" value="1" readonly>
+              <button id="btn-mas">+</button>
+            </div>
+            <button id="btn-agregar">AÑADIR AL CARRITO</button>
+          </div>
+
+        </div>
+      </div>
+
+      <div id="resultado" class="resultado-container">
+
+        <!-- EQUIPOS -->
+        <div class="modelos-box" id="modelos"></div>
+
+        <!-- MEDIDAS -->
+        <div class="detalle-box">
+          <div class="detalle-item">
+            <span class="valorDescripcion">Datos Logísticos</span>
+          </div>
+          <div class="detalle-item">
+            <span class="label">Alto:</span>
+            <span class="valor" id="alto"></span>
+          </div>
+          <div class="detalle-item">
+            <span class="label">Largo:</span>
+            <span class="valor" id="largo"></span>
+          </div>
+          <div class="detalle-item">
+            <span class="label">Ancho:</span>
+            <span class="valor" id="ancho"></span>
+          </div>
+          <div class="detalle-item">
+            <span class="label">Peso:</span>
+            <span class="valor" id="peso"></span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Carrito flotante con botón de minimizar -->
+    <div id="carrito-flotante" class="oculto">
+      <h3>🛒 Carrito</h3>
+      <ul id="lista-carrito"></ul>
+      <div id="total-carrito"></div>
+    </div>
+
+    <div id="sidebar">
+      <a href="index.html" class="side-link active" data-id="inicio">
+        <img type="img" src="Icon/home-alt.png" class="icon"/>
+        <span class="text">Inicio</span>
+      </a>
+      <a href="despiece.html" class="side-link" data-id="despiece">
+        <img type="img" src="Icon/department-store.png" class="icon"/>
+        <span class="text">Despiece</span>
+      </a>
+      <a href="lista.html" class="side-link" data-id="lista">
+        <img type="img" src="Icon/table-list.png" class="icon"/>
+        <span class="text">Lista</span>
+      </a>
+      <a href="Cotizador/index.html" class="side-link" data-id="cotizador" target="_blank">
+        <img type="img" src="Icon/file-detail.png" class="icon"/>
+        <span class="text">Cotizador</span>
+      </a>
+      <a href="logistica.html" class="side-link" data-id="logistica">
+        <img type="img" src="Icon/warehouse.png" class="icon"/>
+        <span class="text">Logística</span>
+      </a>
+      <a href="Comex.html" class="side-link" data-id="comex">
+        <img type="img" src="Icon/globe-americas.png" class="icon"/>
+        <span class="text">Comex</span>
+      </a>
+      <a href="Acceso.html" class="side-link" data-id="Configuracion">
+        <img type="img" src="Icon/cog.png" class="icon"/>
+        <span class="text">Config.</span>
+      </a>
+    </div>
+    <!-- 
+    <div>
+      <p id="cuenta-regresiva2">¿Cuanto falta para Fiestas Patrias?</p>
+      <div id="cuenta-regresiva">
+        <p id="dias"></p>
+        <p id="horas"></p>
+        <p id="minutos"></p>
+        <p id="segundos"></p>
+      </div>
+    </div>
+     -->
+    <!-- Datos -->
+    <script src="Stock_1506.js"></script>
+    <script src="Precio.js"></script>
+    <script src="Reemplazos.js"></script>
+    <script src="Medida.js"></script>
+    <script src="repuestos.js"></script>
+    <script src="modelos_por_marca.js"></script>
+    <script src="Ubicacion.js"></script>
+    <script src="datos_despiece.js"></script>
+    <script src="script.js"></script>
+    <script src="script-view.js"></script>
+  </body>
+  <footer>
+    <!-- Pie de Página -->
+    <div class="col-md-12 sidebar text-center">
+      <aside id="text-8" class="widget widget_text">
+        <div class="textwidget">
+          <p style="color: white";">Abaldu® V 2.0</p>
+        </div>
+      </aside>
+    </div>
+  </footer>
+</html>

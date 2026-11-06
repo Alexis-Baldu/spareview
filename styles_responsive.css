@@ -1,0 +1,849 @@
+/* === Estilos base === */
+header {
+  background-color: #0b2a4a !important;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+#logo {
+  display: flex;
+  align-items: center;  /* ✅ centra internamente */
+  height: 100%;
+}
+
+#logo img {
+  height: 40px;         /* ✅ ajusta el tamaño real */
+  width: auto;
+}
+
+img{
+  width: 100px; /* 10%; */
+}
+
+html, body {
+  font-family: 'Segoe UI', sans-serif;
+  color: #333;
+  background-color: #d9d9d9 !important; /* #0F2540; */
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+body {
+  flex: 1;
+}
+
+#sidebar {
+  background-color: #08294a !important;
+  top: 60px !important;
+  width: 130px !important;
+  height: calc(100vh - 60px);
+  border-radius: 0 !important;
+  left: 0;
+  display: flex;
+  overflow-y: auto;
+  position: fixed;
+  flex-direction: column;
+  padding-top: 10px /* Empuja sidebar debajo del header */
+}
+
+#sidebar:hover {
+  width: 130px !important; /* 115px; */
+}
+
+.side-link {
+  color: #ffffff !important; /* black; */
+  font-size: 14px;
+  padding: 10px 15px; /* 1rem; */
+
+  text-decoration: none;
+  gap: 5px;
+  display: flex;
+  /* align-items: center;
+  transition: background 0.2s ease; 
+  position: relative;*/
+}
+
+.side-link:hover {
+  background: #0f3b6d !important; /* rgba(255, 255, 255, 0.774); */
+}
+
+.icon {
+  filter: brightness(0) invert(1);
+  width: 24px;
+  height: 24px;
+}
+
+.text {
+  opacity: 1 !important; /* 0; */
+  /* white-space: nowrap;
+  transition: opacity 0.3s ease; */
+}
+
+#sidebar:hover .text {
+  opacity: 1;
+}
+
+#pantalla-despiece {
+  flex: 1;
+  overflow-y: auto;
+  height: calc(100vh - 60px);
+  padding-right: 60px;
+  scrollbar-gutter: stable;
+}
+
+#pantalla-principal, #pantalla-despiece {
+  width: calc(100% - 240px); /* 80%; */
+  background-color: #d9d9d9 !important; /* #ccc; */
+  border-radius: 0 !important; /* 15px; */
+  margin-left: 180px;
+  margin-top: 10px;
+}
+
+button {
+  position: fixed;
+  top: 20px;
+  right: 0px;
+  margin: 10px;
+  padding: 6px 12px;
+  border: none;
+  border-radius: 5px;
+  font-size: 13px;
+  cursor: pointer;
+  background-color: #4da6ff;
+  color: #fff;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #4da6ff;
+}
+
+select, #buscador-marca, #buscador-modelo, #filtro-canal {
+  padding: 6px 6px;
+  margin: 5px 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+input.filtro-columna {
+  padding: 4px 0px; /*Agrega espacio interno dentro del input (alrededor del texto), para que no se vea apretado.*/
+  margin: 5px 0; /*Agrega espacio vertical (arriba y abajo) entre el input y otros elementos. sin margen horizontal.*/
+  border-radius: 5px; /*Redondea las esquinas del input.*/
+  border: 1px solid #ccc; /*Define el color y el tamaño del píxel del borde alrededor del input.*/
+  font-size: 12px; /*Establece el tamaño del texto dentro del input.*/
+  width: 100%; /*Hace que el input ocupe todo el ancho disponible de su celda <th>.*/
+  /*width: fit-content;*/
+  box-sizing: border-box; /*Asegura que el padding y border estén incluidos dentro del ancho total del input, evitando que se desborde.*/
+  text-align: center; /*Centra el texto dentro del input. Es útil para columnas numéricas como "Cantidad", "Precio" o "Stock".*/
+}
+
+/* Estilo base para la tabla */
+#grilla {
+  width: 100%;              /* La tabla ocupa todo el ancho disponible */
+  border-collapse: collapse;
+  margin-top: 8px;
+}
+
+#grilla th,
+#grilla td {
+  font-size: 12px;          /* Tamaño de texto base */
+  word-wrap: break-word;    /* Permite dividir palabras largas */
+  overflow-wrap: break-word;
+  white-space: normal;      /* Permite saltos de línea automáticos */
+  text-align: center;
+  vertical-align: middle;   /* Centrado vertical del contenido */
+  padding: 4px;
+}
+
+table {
+  background-color: white;
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 8px;
+}
+
+/*Aplica estilos a las celdas de encabezado (<th>)*/
+th {
+  background-color: #e6e6e6 !important; /* #f2f2f2; Establece un color de fondo distinto, para distinguir los encabezados del resto de la tabla.*/
+  color: #000;
+
+  border: 1px solid #ddd;
+  padding: 4px;
+  text-align: left;
+  width: fit-content;
+  font-weight: bold; /*Hace que el texto del encabezado esté en negrita.*/
+}
+
+/*Aplica estilos a las celdas normales (<td>)*/
+td {
+  border: 1px solid #ddd;
+  padding: 4px;
+  text-align: left;
+  width: fit-content
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+/*Aplica estilos a la primera columna (Imagen)*/
+table td:nth-child(1),
+table th:nth-child(1) {
+  text-align: center;
+  width: 50px;
+}
+
+/*Aplica estilos a la tercera columna (Cód. SAP)*/
+table td:nth-child(3),
+table th:nth-child(3) {
+  text-align: center;     /* Centra horizontalmente el contenido de la segunda columna */
+  width: 80px;            /* Define un ancho fijo de 80px para mantener consistencia visual */
+  font-weight: bold;      /* Aplica negrita al texto del encabezado y contenido */
+}
+
+/*Aplica estilos a la sexta columna (Precio)*/
+table td:nth-child(6),
+table th:nth-child(6) {
+  text-align: right;
+}
+
+
+/*Aplica estilos a la segunda columna (Código SAP)*/
+#grilla-logistica td:nth-child(2),
+#grilla-logistica th:nth-child(2),
+#grilla-logistica th:nth-child(3) {
+  text-align: center;     /* Centra horizontalmente el contenido de la segunda columna */
+  width: 80px;            /* Define un ancho fijo de 80px para mantener consistencia visual */
+  font-weight: bold;      /* Aplica negrita al texto del encabezado y contenido */
+}
+
+/*Aplica estilos a la tercera columna (Cód. Fábrica)*/
+#grilla-logistica td:nth-child(3) {
+  text-align: center;     /* Centra horizontalmente el contenido de la tercera columna */
+  width: 50px;            /* Define un ancho más estrecho para esta columna */
+  font-weight: normal;    /* Evita que el texto esté en negrita, manteniéndolo más discreto */
+}
+
+/*Aplica estilos a la sexta columna (Largo)*/
+#grilla-logistica td:nth-child(6),
+#grilla-logistica th:nth-child(6) {
+  text-align: center;     /* Centra horizontalmente el contenido de la tercera columna */
+}
+
+/*Aplica estilos a la onceava columna (Stock 1524)*/
+#grilla-logistica td:nth-child(11),
+#grilla-logistica th:nth-child(11) {
+  text-align: center;     /* Centra horizontalmente el contenido de la tercera columna */
+}
+
+/*Aplica estilos a la doceava columna (Stock 1409)*/
+#grilla-logistica td:nth-child(12),
+#grilla-logistica th:nth-child(12) {
+  text-align: center;     /* Centra horizontalmente el contenido de la tercera columna */
+}
+
+#grilla-logistica th,
+#grilla-logistica td {
+  font-size: 12px;           /* Reduce el tamaño del texto para que quepa mejor en cada celda */
+  white-space: normal;       /* Permite que el texto se ajuste automáticamente y salte de línea */
+  padding: 4px;              /* Agrega espacio interno para mejorar la legibilidad */
+}
+
+#grilla td,
+#grilla th {
+  vertical-align: middle !important; /* fuerza el centrado vertical */
+  text-align: center;
+}
+
+tr:hover {
+  background-color: #f1f1f1;
+}
+
+#filtro-canal {
+  width: 170px;
+}
+
+#filtro-canal option {
+  padding: 10px;
+}
+
+footer {
+  background-color: #0b2a4a !important; /* #101A26; */
+  text-align: center;
+  padding: 1px 0;
+}
+
+/* Centrado de columnas: imagen (1), cantidad (5), stock (7) */
+table td:nth-child(1),
+table th:nth-child(1),
+table td:nth-child(5),
+table th:nth-child(5),
+table td:nth-child(7),
+table th:nth-child(7),
+table td:nth-child(8),
+table th:nth-child(8) {
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* Asegurar que el enlace y la imagen estén centrados */
+table td:nth-child(1) a {
+  display: inline-block;
+}
+
+table td:nth-child(1) img {
+  display: block;
+  margin: 0 auto;
+}
+
+#lista-carrito,
+#total-carrito {
+  display: none;
+}
+
+#toggle-carrito {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto 10px; /* Fuerza el centrado vertical */
+  width: 45px;
+  height: 45px;
+  background-color: transparent;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: background 0.3s ease;
+}
+
+#toggle-carrito:hover {
+  background: #0f3b6d !important;
+}
+
+#carrito-flotante {
+  position: fixed;
+  top: 70px !important; /* 80px;*/
+  right: 20px;
+  width: auto;
+  min-width: 280px;
+  max-height: 80vh;
+  overflow-y: auto;
+  background-color: white;
+  border: 1px solid #ccc !important; /* 2px solid #007bff; */
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  z-index: 9999;
+}
+
+#carrito-flotante h3 {
+  margin-top: 0;
+  font-size: 18px;
+  text-align: center;
+}
+
+#carrito-flotante .button#toggle-carrito {
+  position: fixed;
+  top: 4px;
+  right: 4px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  padding: 0;
+}
+
+#carrito-flotante ul {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 10px;
+}
+
+#carrito-flotante li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 6px;
+  font-size: 14px;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 4px 0;
+}
+
+#carrito-flotante li span { 
+flex: 1;
+  min-width: 120px;
+}
+
+#carrito-flotante button.eliminar {
+  position: static; /* Asegura que no se posicione fuera del <li> */
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 2px 6px;
+  cursor: pointer;
+  font-size: 10px;
+}
+
+#carrito-flotante .btn-menos {
+  position: static; /* Asegura que no se posicione fuera del <li> */
+  padding: 2px 6px;
+  font-size: 10px;
+  color: black;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  order: -1; /* Mueve este bloque al principio */
+}
+
+#carrito-flotante .btn-mas {
+  position: static; /* Asegura que no se posicione fuera del <li> */
+  padding: 2px 6px;
+  font-size: 10px;
+  color: black;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  order: -1; /* Mueve este bloque al principio */
+}
+
+#carrito-flotante.oculto {
+  width: auto;
+  min-width: auto;
+  height: auto;
+  padding: 0;
+  background-color: transparent;
+  border: none;
+  box-shadow: none;
+}
+
+#carrito-flotante.oculto h3,
+#carrito-flotante.oculto ul,
+#carrito-flotante.oculto #total-carrito {
+  display: none !important;
+}
+
+#toggle-carrito .contador-productos {
+  position: absolute;
+  top: -6px;
+  right: -6px;
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  display: flex !important;
+}
+
+#boton-extra-carrito {
+  position: absolute;
+  margin-left: 10px;
+  padding: 6px 12px;
+  border-radius: 5px;
+  border: none;
+  background-color: #4da6ff;
+  color: #fff;
+}
+
+.btn-export-excel {
+  position: relative;
+  margin-top: 0;
+  margin-bottom: 50px;
+  background-color: #007bff;
+  color: white;
+  float: right;
+}
+
+.btn-export-excel:hover {
+  background-color: #0056b3;
+}
+
+/* cuenta regresiva */
+#cuenta-regresiva {
+  position: absolute;
+  top: 45px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-family: Arial, sans-serif;
+  font-size: 1.2em;
+  color: #ccc;
+  display: flex;
+  gap: 0; /* elimina espacio entre columnas */
+  justify-content: center;
+  text-align: center;
+}
+
+#cuenta-regresiva p {
+  margin: 0 5px; /* espacio horizontal mínimo entre elementos */
+}
+
+#cuenta-regresiva2 {
+  position: absolute;
+  top: 0px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-family: Arial, sans-serif;
+  font-size: 1.2em;
+  color: #ccc;
+  justify-content: center;
+  text-align: center;
+}
+
+/* Estilo responsive */
+@media (max-width: 768px) {
+  #pantalla-principal, #pantalla-despiece {
+    width: 95%;
+    margin: 20px auto;
+    padding: 15px;
+  }
+
+  button, select {
+    width: 100%;
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  table, th, td {
+    font-size: 14px;
+  }
+
+  th, td {
+    padding: 8px;
+  }
+
+  #imagen {
+    max-width: 100%;
+    height: auto;
+    
+  }
+}
+
+@media (max-width: 480px) {
+  th, td {
+    font-size: 12px;
+    padding: 6px;
+  }
+
+  button {
+    font-size: 13px;
+  }
+}
+
+/* Estilo responsive para pantallas medianas */
+@media (max-width: 768px) {
+  #grilla-logistica th,
+  #grilla-logistica td {
+    font-size: 11px;        /* Reduce el tamaño del texto */
+    padding: 3px;           /* Menos espacio interno */
+  }
+
+  #pantalla-despiece {
+    padding: 15px;          /* Ajusta el padding del contenedor */
+  }
+}
+
+@media (max-width: 768px) {
+  #grilla th,
+  #grilla td {
+    font-size: 11px;        /* Reduce el tamaño del texto */
+    padding: 3px;           /* Menos espacio interno */
+  }
+}
+
+/* Estilo responsive para pantallas pequeñas */
+@media (max-width: 480px) {
+  #grilla-logistica th,
+  #grilla-logistica td {
+    font-size: 10px;        /* Texto compacto para móviles */
+    padding: 2px;
+  }
+
+  #pantalla-despiece {
+    padding: 10px;          /* Reduce el padding del contenedor */
+  }
+
+  .btn-export-excel {
+    font-size: 12px;
+    padding: 6px 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  #grilla th,
+  #grilla td {
+    font-size: 10px;        /* Texto compacto para móviles */
+    padding: 2px;
+  }
+
+  #pantalla-despiece {
+    padding: 10px;          /* Reduce el padding del contenedor */
+  }
+}
+
+/*Aplica estilos a Grilla comex*/
+/*Aplica estilos a la segunda columna (Posición)*/
+#grilla-comex td:nth-child(2),
+#grilla-comex th:nth-child(2) {
+  text-align: center;     /* Centra horizontalmente el contenido de la segunda columna */
+  width: 30px;            /* Define un ancho fijo de 80px para mantener consistencia visual */
+}
+
+/*Aplica estilos a la tercera columna (Código SAP)*/
+#grilla-comex td:nth-child(3),
+#grilla-comex th:nth-child(3) {
+  text-align: center;     /* Centra horizontalmente el contenido de la tercera columna */
+  width: 70px;            /* Define un ancho más estrecho para esta columna */
+  font-weight: bold;      /* Aplica negrita al texto del encabezado y contenido */
+}
+
+/*Aplica estilos a la cuarta columna (Descripción)*/
+#grilla-comex td:nth-child(4),
+#grilla-comex th:nth-child(4) {
+  text-align: left;     /* Centra horizontalmente el contenido de la tercera columna */
+  width: 300px;            /* Define un ancho más estrecho para esta columna */
+}
+
+/*Aplica estilos a la quinta columna (Almacén)*/
+#grilla-comex td:nth-child(5),
+#grilla-comex th:nth-child(5) {
+  text-align: center;     /* Centra horizontalmente el contenido de la segunda columna */
+}
+
+/*Aplica estilos a la sexta columna (Cantidad)*/
+#grilla-comex td:nth-child(6),
+#grilla-comex th:nth-child(6) {
+  text-align: center;     /* Centra horizontalmente el contenido de la tercera columna */
+}
+
+/*Aplica estilos a la septima columna (Fecha Llegada)*/
+#grilla-comex td:nth-child(7),
+#grilla-comex th:nth-child(7) {
+  text-align: center;     /* Centra horizontalmente el contenido de la tercera columna */
+}
+
+/*Aplica estilos a la octava columna (AWB-BL)*/
+#grilla-comex td:nth-child(8),
+#grilla-comex th:nth-child(8) {
+  text-align: center;     /* Centra horizontalmente el contenido de la tercera columna */
+}
+
+#grilla-comex th,
+#grilla-comex td {
+  font-size: 12px;           /* Reduce el tamaño del texto para que quepa mejor en cada celda */
+  white-space: normal;       /* Permite que el texto se ajuste automáticamente y salte de línea */
+  padding: 4px;              /* Agrega espacio interno para mejorar la legibilidad */
+}
+
+/*Aplica estilos a Grilla evidence*/
+/*Aplica estilos a la primera columna (Fecha Preparación)*/
+#grilla-evidence td:nth-child(1),
+#grilla-evidence th:nth-child(1) {
+  text-align: center;     /* Centra horizontalmente el contenido de la primera columna */
+  width: 110px;            /* Define un ancho fijo de 80px para mantener consistencia visual */
+}
+
+/*Aplica estilos a la segunda columna (Pedido)*/
+#grilla-evidence td:nth-child(2),
+#grilla-evidence th:nth-child(2) {
+  text-align: center;   /* Centra horizontalmente el contenido de la segunda columna */
+  width: 110px;         /* Define un ancho fijo de 80px para mantener consistencia visual */
+  font-weight: bold;    /* Aplica negrita al texto del encabezado y contenido */
+}
+
+/*Aplica estilos a la tercera columna (Cliente)*/
+#grilla-evidence td:nth-child(3),
+#grilla-evidence th:nth-child(3) {
+  text-align: left;     /* Centra horizontalmente el contenido de la tercera columna */
+  width: 400px;         /* Define un ancho más estrecho para esta columna */
+}
+
+/*Aplica estilos a la cuarta columna (OPL)*/
+#grilla-evidence td:nth-child(4),
+#grilla-evidence th:nth-child(4) {
+  text-align: left;    /* Centra horizontalmente el contenido de la cuarta columna */
+  width: 80px;         /* Define un ancho más estrecho para esta columna */
+}
+
+/*Aplica estilos a la quinta columna (Preparado)*/
+#grilla-evidence td:nth-child(5),
+#grilla-evidence th:nth-child(5) {
+  text-align: center;  /* Centra horizontalmente el contenido de la quinta columna */
+  width: 80px;         /* Define un ancho más estrecho para esta columna */
+}
+
+/*Aplica estilos a la sexta columna (Revisado)*/
+#grilla-evidence td:nth-child(6),
+#grilla-evidence th:nth-child(6) {
+  text-align: center;  /* Centra horizontalmente el contenido de la sexta columna */
+  width: 80px;         /* Define un ancho más estrecho para esta columna */
+}
+
+/*Aplica estilos a la octava columna (Imagen 1)*/
+#grilla-evidence td:nth-child(9),
+#grilla-evidence th:nth-child(9) {
+  text-align: center;  /* Centra horizontalmente el contenido de la octava columna */
+  width: 60px;         /* Define un ancho más estrecho para esta columna */
+}
+
+/*Aplica estilos a la octava columna (Imagen 2)*/
+#grilla-evidence td:nth-child(10),
+#grilla-evidence th:nth-child(10) {
+  text-align: center;  /* Centra horizontalmente el contenido de la novena columna */
+  width: 60px;         /* Define un ancho más estrecho para esta columna */
+}
+
+#grilla-evidence th,
+#grilla-evidence td {
+  font-size: 12px;           /* Reduce el tamaño del texto para que quepa mejor en cada celda */
+  white-space: normal;       /* Permite que el texto se ajuste automáticamente y salte de línea */
+  padding: 4px;              /* Agrega espacio interno para mejorar la legibilidad */
+}
+
+#password-container {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0,0,0,0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+#password-box {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+input[type="password"] {
+  margin-top: 10px;
+  padding: 8px 16px;
+  font-size: 16px;
+}
+
+#convertstockBtn {
+  margin-top:170px;
+  margin-right:370px;
+}
+
+#convertOCBtn {
+  margin-top:270px;
+  margin-right:370px;
+}
+
+/* === Mejoras Responsivas === */
+@media (max-width: 768px) {
+  #sidebar {
+    position: relative;
+    width: 100%;
+    border-radius: 0;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 0.5rem;
+  }
+
+  #sidebar:hover {
+    width: 100%;
+  }
+
+  .text {
+    opacity: 1;
+    position: static;
+  }
+
+  table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  th:nth-child(1), td:nth-child(1),
+  th:nth-child(3), td:nth-child(3),
+  th:nth-child(6), td:nth-child(6) {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  #sidebar {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .btn-export-excel {
+    width: 100%;
+    float: none;
+    margin-bottom: 20px;
+  }
+
+  #pantalla-principal, #pantalla-despiece {
+    padding: 10px;
+    width: 100%;
+  }
+
+  table, th, td {
+    font-size: 10px;
+    padding: 2px;
+  }
+}
+
+/* ===== TITULOS ===== */
+h2, h3 {
+  color: #0b2a4a;
+}
+
+/* ===== BLOQUES ===== */
+.containerGrafico,
+.containerdatos {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+/* Encabezado fijo */
+#pantalla-despiece {
+    height: calc(100vh - 80px);
+    overflow-y: auto;
+}
+
+#grilla-comex {
+    border-collapse: collapse;
+}
+
+#grilla-comex thead {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+#grilla-comex thead th {
+    position: sticky;
+    top: 0;
+    background: #e6e6e6 !important;
+    z-index: 999;
+}

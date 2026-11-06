@@ -1,0 +1,231 @@
+/* === Estilos base === */
+header {
+  background-color: #0b2a4a !important;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+#logo {
+  display: flex;
+  align-items: center;  /* ✅ centra internamente */
+  height: 100%;
+}
+
+#logo img {
+  height: 40px;         /* ✅ ajusta el tamaño real */
+  width: auto;
+}
+
+img{
+  width: 100px; /* 10%; */
+}
+
+html, body {
+  font-family: 'Segoe UI', sans-serif;
+  color: #333;
+  background-color: #d9d9d9 !important; /* #0F2540; */
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+body {
+  flex: 1;
+}
+
+#pantalla-principal, #pantalla-despiece {
+  width: calc(100% - 240px); /* 80%; */
+  background-color: #d9d9d9 !important; /* #ccc; */
+  border-radius: 0 !important; /* 15px; */
+  margin-left: 180px;
+  margin-top: 10px;
+}
+
+.convert {
+  display: flex;                /* Activa el modelo de caja flexible. */
+  align-items: center;          /* Centra verticalmente los elementos dentro del contenedor flex. */
+  justify-content: center;      /* Centra horizontalmente los elementos dentro del contenedor flex. */
+  gap: 10px;                    /* Espacio de 10px entre los elementos hijos dentro del contenedor. */
+  margin-bottom: 2px;           /* Agrega un espacio de 5px debajo del contenedor. */
+  border: 1px solid #ccc !important; /*2px solid #ccc;      Aplica un borde de 2px de grosor con color gris claro (#ccc). */
+  border-radius: 0 !important; /* 8px;           Redondea las esquinas del contenedor con un radio de 8px. */
+  background-color: White !important; /* #f9f9f9;   Establece un color de fondo muy suave, casi blanco. */
+}
+
+button {
+  /*margin: 10px;                            Espacio exterior alrededor del botón, separándolo de otros elementos. */
+  padding: 6px 12px;                      /* Espacio interno: 6px arriba/abajo y 12px izquierda/derecha dentro del botón. */
+  border: none;                           /* Elimina cualquier borde predeterminado del botón. */
+  border-radius: 3px !important; /* 5px;                     Redondea las esquinas del botón con un radio de 5px. */
+  font-size: 12px; /*11px;                         Tamaño de la fuente del texto dentro del botón. */
+  cursor: pointer;                        /* Cambia el cursor a una mano al pasar sobre el botón, indicando que es clickeable. */
+  background-color: #0b2a4a !important; /* #4da6ff;            Color de fondo del botón, un azul claro. */
+  color: #fff;                          /* Color del texto del botón, blanco. */
+  transition: background-color 0.3s ease; /* Suaviza el cambio de color de fondo cuando ocurre un hover en 0.3 segundos. */
+}
+
+button:hover {
+  background-color: #0f3b6d !important; /* #4da6ff; */
+}
+
+#sidebar {
+  background-color: #08294a !important;
+  top: 60px !important;
+  width: 130px !important;
+  height: calc(100vh - 60px);
+  border-radius: 0 !important;
+  left: 0;
+  display: flex;
+  overflow-y: auto;
+  position: fixed;
+  flex-direction: column;
+  padding-top: 10px /* Empuja sidebar debajo del header */
+}
+
+#sidebar:hover {
+  width: 130px !important; /* 115px; */
+}
+
+.side-link {
+  color: #ffffff !important; /* black; */
+  font-size: 14px;
+  padding: 10px 15px; /* 1rem; */
+
+  text-decoration: none;
+  gap: 5px;
+  display: flex;
+  /* align-items: center;
+  transition: background 0.2s ease; 
+  position: relative;*/
+}
+
+.side-link:hover {
+  background: #0f3b6d !important; /* rgba(255, 255, 255, 0.774); */
+}
+
+.icon {
+  filter: brightness(0) invert(1);
+  width: 24px;
+  height: 24px;
+}
+
+.text {
+  opacity: 1 !important; /* 0; */
+  /* white-space: nowrap;
+  transition: opacity 0.3s ease; */
+}
+
+#sidebar:hover .text {
+  opacity: 1;
+}
+
+#password-container {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0,0,0,0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+#password-box {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+input[type="password"] {
+  margin-top: 10px;
+  padding: 8px 16px;
+  font-size: 16px;
+}
+
+footer {
+  background-color: #0b2a4a !important; /* #101A26; */
+  text-align: center;
+  padding: 1px 0;
+  width: 100%;
+  margin-top: auto;
+}
+
+/* Estilo responsive */
+@media (max-width: 768px) {
+  #pantalla-principal {
+    width: 95%;
+    margin: 20px auto;
+    padding: 15px;
+  }
+
+  button, select {
+    width: 100%;
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  #imagen {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  button {
+    font-size: 13px;
+  }
+}
+
+/* Estilo responsive para pantallas pequeñas */
+@media (max-width: 480px) {
+  #pantalla-principal {
+    padding: 10px;          /* Reduce el padding del contenedor */
+  }
+}
+
+@media (max-width: 768px) {
+  #sidebar {
+    position: relative;
+    width: 100%;
+    border-radius: 0;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 0.5rem;
+  }
+
+  #sidebar:hover {
+    width: 100%;
+  }
+
+  .text {
+    opacity: 1;
+    position: static;
+  }
+}
+
+@media (max-width: 480px) {
+  #sidebar {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #pantalla-principal {
+    padding: 10px;
+    width: 100%;
+  }
+}
+
+/*Cambia de color al seleccionar un archivo y vuleve al color anterior cuando se convierte*/
+.convert {
+  transition: background-color 0.3s ease;
+}
+
+.convert.archivo-cargado {
+  background-color: #b6f5b6 !important;
+}
