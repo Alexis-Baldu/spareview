@@ -566,3 +566,19 @@ function exportarAExcel() {
   const wb = XLSX.utils.table_to_book(tabla, { sheet: "Detalle", raw: true });
   XLSX.writeFile(wb, "Detalle.xlsx");
 }
+
+function abrirPdfModelo(){
+    const modelo = document.getElementById("filtro-modelo").value;
+    if(!modelo){
+        alert(
+            "Debe seleccionar un modelo."
+        );
+        return;
+    }
+    const pdf =
+        `despieces/${modelo}.pdf`;
+    window.open(
+        pdf,
+        "_blank"
+    );
+}

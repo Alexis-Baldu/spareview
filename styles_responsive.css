@@ -469,7 +469,8 @@ flex: 1;
   color: #fff;
 }
 
-.btn-export-excel {
+.btn-export-excel,
+.btn-ver-pdf {
   position: relative;
   margin-top: 0;
   margin-bottom: 50px;
@@ -478,7 +479,8 @@ flex: 1;
   float: right;
 }
 
-.btn-export-excel:hover {
+.btn-export-excel:hover,
+.btn-ver-pdf:hover {
   background-color: #0056b3;
 }
 
