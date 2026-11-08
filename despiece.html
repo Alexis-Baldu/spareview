@@ -9,76 +9,14 @@
     <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet"/>
     <link rel="shortcut icon" href="https://repuestos.ventuscorp.cl/wp-content/uploads/2018/03/FAVICON.jpg" />
   </head>
-  <header>
-    <!-- Cabecera -->
-    <div id="logo" type="img">
-    <img src="https://repuestos.ventuscorp.cl/wp-content/uploads/2024/11/logo-image.svg" class="logo-footer" alt="" decoding="async" loading="lazy"/>
-    </div>
-    <button id="toggle-carrito">🛒</button>
-  </header>
   <body>
-    <!-- Pantalla -->
-    <div id="pantalla-despiece" style="display: block;">
-      <select id="filtro-marca"></select>
-      <select id="filtro-modelo"></select>
-      <select id="filtro-canal">
-        <option value="24">24 - Venta Directa</option>
-        <option value="28">28 - Distribuidor</option>
-        <option value="29">29 - Post Venta</option>
-        <option value="30">30 - Exportación</option>
-      </select>
-      
-      <!-- Despiece -->
-      <div id="visor-despiece" style="margin-top: 20px; display: none;">
-        <embed id="embed-despiece" type="application/pdf" width="100%" height="600px" style="display: none;"/>
-        <img id="img-despiece" style="max-width: 100%; height: auto; display: none;"/>
+    <header>
+      <!-- Cabecera -->
+      <div id="logo" type="img">
+      <img src="https://repuestos.ventuscorp.cl/wp-content/uploads/2024/11/logo-image.svg" class="logo-footer" alt="" decoding="async" loading="lazy"/>
       </div>
-
-      <!-- Tabla Datos -->
-      <table id="grilla">
-        <thead>
-          <button class="btn-export-excel" onclick="exportarAExcel()">Exportar a Excel</button>
-          <button class="btn-ver-pdf" onclick="abrirPdfModelo()">Ver PDF</button>
-          <tr>
-            <th>Imagen</th>
-            <th style="position: relative;">
-              <span class="titulo-columna">Código Fábrica</span>
-              <input class="filtro-columna" onkeyup="filtrarTabla(this)" placeholder="Buscar" type="text"/>
-            </th>
-            <th style="position: relative;">
-              <span class="titulo-columna">Código SAP</span>
-              <input class="filtro-columna" onkeyup="filtrarTabla(this)" placeholder="Buscar" type="text"/>
-            </th>
-            <th style="position: relative;">
-              <span class="titulo-columna">Reemplazo</span>
-              <input class="filtro-columna" onkeyup="filtrarTabla(this)" placeholder="Buscar" type="text"/>
-            </th>
-            <th style="position: relative;">
-              <span class="titulo-columna">Descripción</span>
-              <input class="filtro-columna" onkeyup="filtrarTabla(this)" placeholder="Buscar" type="text"/>
-            </th>
-            <th>Cantidad</th>
-            <th>Precio</th>
-            <th>Stock 1409</th>
-            <th>Stock 1524</th>
-            <th>Stock 1506</th>
-            <th>Fecha Reposición</th>
-            <th>Cantidad Reposición</th>
-            <th>Agregar</th>
-          </tr>
-        </thead>
-        <tbody id="grilla-body"></tbody>
-      </table>
-    </div>
-
-    <!-- Carrito flotante con botón de minimizar -->
-    
-    <div id="carrito-flotante" class="oculto">
-      <h3>🛒 Carrito</h3>
-      <ul id="lista-carrito"></ul>
-      <div id="total-carrito"></div>
-    </div>
-
+      <button id="toggle-carrito">🛒</button>
+    </header>
     <div id="sidebar">
       <a href="index.html" class="side-link active" data-id="inicio">
         <img type="img" src="Icon/home-alt.png" class="icon"/>
@@ -108,6 +46,76 @@
         <img type="img" src="Icon/cog.png" class="icon"/>
         <span class="text">Config.</span>
       </a>
+    </div>
+    <!-- Pantalla -->
+    <div id="pantalla-despiece" style="display: block;">
+      <select id="filtro-marca"></select>
+      <select id="filtro-modelo"></select>
+      <select id="filtro-canal">
+        <option value="24">24 - Venta Directa</option>
+        <option value="28">28 - Distribuidor</option>
+        <option value="29">29 - Post Venta</option>
+        <option value="30">30 - Exportación</option>
+      </select>
+      <!-- Despiece -->
+      <div id="visor-despiece" style="margin-top: 20px; display: none;">
+        <embed id="embed-despiece" type="application/pdf" width="100%" height="600px" style="display: none;"/>
+        <img id="img-despiece" style="max-width: 100%; height: auto; display: none;"/>
+      </div>
+      <button class="btn-export-excel" onclick="exportarAExcel()">Exportar a Excel</button>
+      <button class="btn-ver-pdf" onclick="abrirPdfModelo()">Ver PDF</button>
+      <!-- Tabla Datos -->
+      <div class="tabla-wrapper">
+        <table id="grilla">
+          <thead>
+            <tr class="fila-titulo">
+              <th>Imagen</th>
+              <th>Código Fábrica</th>
+              <th>Código SAP</th>
+              <th>Reemplazo</th>
+              <th>Descripción</th>
+              <th>Cantidad</th>
+              <th>Precio</th>
+              <th>Stock 1409</th>
+              <th>Stock 1524</th>
+              <th>Stock 1506</th>
+              <th>Fecha Reposición</th>
+              <th>Cantidad Reposición</th>
+              <th>Agregar</th>
+            </tr>
+            <tr class="fila-filtros">
+              <th></th>
+              <th>
+                <input class="filtro-columna" onkeyup="filtrarTabla(this)" placeholder="Buscar" type="text">
+              </th>
+              <th>
+                <input class="filtro-columna" onkeyup="filtrarTabla(this)" placeholder="Buscar" type="text"/>
+              </th>
+              <th>
+                <input class="filtro-columna" onkeyup="filtrarTabla(this)" placeholder="Buscar" type="text"/>
+              </th>
+              <th>
+                <input class="filtro-columna" onkeyup="filtrarTabla(this)" placeholder="Buscar" type="text"/>
+              </th>
+              <th><input class="filtro-columna" onkeyup="filtrarTabla(this)"></th>
+              <th><input class="filtro-columna" onkeyup="filtrarTabla(this)"></th>
+              <th><input class="filtro-columna" onkeyup="filtrarTabla(this)"></th>
+              <th><input class="filtro-columna" onkeyup="filtrarTabla(this)"></th>
+              <th><input class="filtro-columna" onkeyup="filtrarTabla(this)"></th>
+              <th><input class="filtro-columna" onkeyup="filtrarTabla(this)"></th>
+              <th><input class="filtro-columna" onkeyup="filtrarTabla(this)"></th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody id="grilla-body"></tbody>
+        </table>
+      </div>
+    </div>
+    <!-- Carrito flotante con botón de minimizar -->
+    <div id="carrito-flotante" class="oculto">
+      <h3>🛒 Carrito</h3>
+      <ul id="lista-carrito"></ul>
+      <div id="total-carrito"></div>
     </div>
     <!-- Datos -->
     <script src="Stock_1506.js"></script>
