@@ -57,54 +57,42 @@ body {
 }
 
 .side-link {
-  color: #ffffff !important; /* black; */
+  color: #ffffff !important;
   font-size: 14px;
-  padding: 10px 15px; /* 1rem; */
-
+  padding: 10px 15px;
   text-decoration: none;
   gap: 5px;
   display: flex;
-  /* align-items: center;
-  transition: background 0.2s ease; 
-  position: relative;*/
 }
-
 .side-link:hover {
-  background: #0f3b6d !important; /* rgba(255, 255, 255, 0.774); */
+  background: #0f3b6d !important;
 }
-
+#sidebar:hover .text {
+  opacity: 1;
+}
 .icon {
   filter: brightness(0) invert(1);
   width: 24px;
   height: 24px;
 }
-
 .text {
-  opacity: 1 !important; /* 0; */
-  /* white-space: nowrap;
-  transition: opacity 0.3s ease; */
+  opacity: 1 !important;
 }
-
-#sidebar:hover .text {
-  opacity: 1;
-}
-
 #pantalla-despiece {
-  flex: 1;
   overflow-y: auto;
   height: calc(100vh - 60px);
-  padding-right: 60px;
+  padding-right:0 !important;
   scrollbar-gutter: stable;
 }
-
-#pantalla-principal, #pantalla-despiece {
-  width: calc(100% - 240px); /* 80%; */
+#pantalla-principal,
+#pantalla-despiece {
+  flex:1;
+  width:auto;
+  margin-left:150px;
   background-color: #d9d9d9 !important; /* #ccc; */
   border-radius: 0 !important; /* 15px; */
-  margin-left: 180px;
   margin-top: 10px;
 }
-
 button {
   position: fixed;
   top: 20px;
@@ -515,97 +503,6 @@ flex: 1;
   text-align: center;
 }
 
-/* Estilo responsive */
-@media (max-width: 768px) {
-  #pantalla-principal, #pantalla-despiece {
-    width: 95%;
-    margin: 20px auto;
-    padding: 15px;
-  }
-
-  button, select {
-    width: 100%;
-    font-size: 14px;
-    padding: 10px;
-  }
-
-  table, th, td {
-    font-size: 14px;
-  }
-
-  th, td {
-    padding: 8px;
-  }
-
-  #imagen {
-    max-width: 100%;
-    height: auto;
-    
-  }
-}
-
-@media (max-width: 480px) {
-  th, td {
-    font-size: 12px;
-    padding: 6px;
-  }
-
-  button {
-    font-size: 13px;
-  }
-}
-
-/* Estilo responsive para pantallas medianas */
-@media (max-width: 768px) {
-  #grilla-logistica th,
-  #grilla-logistica td {
-    font-size: 11px;        /* Reduce el tamaño del texto */
-    padding: 3px;           /* Menos espacio interno */
-  }
-
-  #pantalla-despiece {
-    padding: 15px;          /* Ajusta el padding del contenedor */
-  }
-}
-
-@media (max-width: 768px) {
-  #grilla th,
-  #grilla td {
-    font-size: 11px;        /* Reduce el tamaño del texto */
-    padding: 3px;           /* Menos espacio interno */
-  }
-}
-
-/* Estilo responsive para pantallas pequeñas */
-@media (max-width: 480px) {
-  #grilla-logistica th,
-  #grilla-logistica td {
-    font-size: 10px;        /* Texto compacto para móviles */
-    padding: 2px;
-  }
-
-  #pantalla-despiece {
-    padding: 10px;          /* Reduce el padding del contenedor */
-  }
-
-  .btn-export-excel {
-    font-size: 12px;
-    padding: 6px 10px;
-  }
-}
-
-@media (max-width: 480px) {
-  #grilla th,
-  #grilla td {
-    font-size: 10px;        /* Texto compacto para móviles */
-    padding: 2px;
-  }
-
-  #pantalla-despiece {
-    padding: 10px;          /* Reduce el padding del contenedor */
-  }
-}
-
 /*Aplica estilos a Grilla comex*/
 /*Aplica estilos a la segunda columna (Posición)*/
 #grilla-comex td:nth-child(2),
@@ -759,62 +656,6 @@ input[type="password"] {
   margin-right:370px;
 }
 
-/* === Mejoras Responsivas === */
-@media (max-width: 768px) {
-  #sidebar {
-    position: relative;
-    width: 100%;
-    border-radius: 0;
-    flex-direction: row;
-    justify-content: space-around;
-    padding: 0.5rem;
-  }
-
-  #sidebar:hover {
-    width: 100%;
-  }
-
-  .text {
-    opacity: 1;
-    position: static;
-  }
-
-  table {
-    display: block;
-    overflow-x: auto;
-    white-space: nowrap;
-  }
-
-  th:nth-child(1), td:nth-child(1),
-  th:nth-child(3), td:nth-child(3),
-  th:nth-child(6), td:nth-child(6) {
-    display: none;
-  }
-}
-
-@media (max-width: 480px) {
-  #sidebar {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .btn-export-excel {
-    width: 100%;
-    float: none;
-    margin-bottom: 20px;
-  }
-
-  #pantalla-principal, #pantalla-despiece {
-    padding: 10px;
-    width: 100%;
-  }
-
-  table, th, td {
-    font-size: 10px;
-    padding: 2px;
-  }
-}
-
 /* ===== TITULOS ===== */
 h2, h3 {
   color: #0b2a4a;
@@ -825,12 +666,6 @@ h2, h3 {
 .containerdatos {
   background-color: transparent !important;
   box-shadow: none !important;
-}
-
-/* Encabezado fijo */
-#pantalla-despiece {
-    height: calc(100vh - 80px);
-    overflow-y: auto;
 }
 
 #grilla-comex {
@@ -849,3 +684,198 @@ h2, h3 {
     background: #e6e6e6 !important;
     z-index: 999;
 }
+
+/* ==========================
+   MOBILE
+========================== */
+
+@media (max-width:768px){
+    /* HEADER */
+    header{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      margin-bottom:0 !important;
+      padding-bottom:0 !important;
+    }
+    #logo img{
+        height:30px;
+    }
+    #carrito-flotante{
+      position:fixed !important;
+      top:10px !important;
+      right:10px !important;
+      left:auto !important;
+      bottom:auto !important;
+      width:auto !important;
+      min-width:auto !important;
+      z-index:999999 !important;
+    }
+    #toggle-carrito{
+      position:relative !important;
+      top:auto !important;
+      right:auto !important;
+    }
+    #sidebar{
+      position:relative !important;
+      top:auto !important;
+      left:auto !important;
+      flex-direction:row !important;
+      width:100% !important;
+      height:auto !important;
+      min-height:auto !important;
+      max-height:none !important;
+      display:grid !important;
+      grid-template-columns:repeat(7,1fr);
+      align-items:center;
+      gap:0;
+      margin:0 !important;
+      padding:4px 0 !important;
+      overflow:hidden !important;
+      background:#08294a !important;
+    }
+    .side-link{
+      display:flex;
+      flex-direction:column;
+      align-items:center;
+      justify-content:center;
+      padding:0 !important;
+      min-width:0;
+    }
+    #sidebar::-webkit-scrollbar{
+      height:4px;
+    }
+    .icon{
+      width:12px;
+      height:12px;
+    }
+    .text{
+      font-size:7px;
+      line-height:1;
+    }
+    /* CONTENEDOR */
+    #pantalla-despiece{
+      overflow:visible !important;
+      height:auto !important;
+      min-height:auto !important;
+      margin-top:0 !important;
+      padding-top:0 !important;
+    }
+    #pantalla-principal,
+    #pantalla-despiece{
+      width:100%;
+      max-width:100%;
+      overflow-x:hidden;
+      padding:8px;
+      box-sizing:border-box;
+      margin-left:0 !important;
+    }
+     /* FILTROS */
+    #filtro-marca,
+    #filtro-modelo,
+    #filtro-canal{
+        width:100%;
+        margin:5px 0;
+    }
+    /* Selectores */
+    select,
+    #filtro-canal,
+    #buscador-marca,
+    #buscador-modelo{
+        width:100%;
+        font-size:14px;
+    }
+    /* PDF */
+    #visor-despiece{
+      width:100%;
+      margin:10px 0;
+      margin-bottom:10px;
+      overflow:hidden;
+      display:block;
+      clear:both;
+    }
+    #embed-despiece,
+    iframe,
+    embed{
+      width:100%;
+      height:350px !important;
+      display:block;
+    }
+    /* Botones */
+    .btn-export-excel,
+    .btn-ver-pdf{
+        position:static;
+        float:none;
+        margin:5px;
+        min-width:140px;
+    }
+    /* Tabla */
+    .tabla-wrapper{
+      width:100%;
+      overflow-x:auto;
+      overflow-y:hidden;
+      -webkit-overflow-scrolling:touch;
+      border:1px solid #d1d5db;
+      background:white;
+    }
+    #grilla{
+      width:max-content;
+      min-width:700px;
+      table-layout:auto;
+      margin-bottom:0;
+    }
+    #grilla th,
+    #grilla td{
+        font-size:10px;
+        padding:3px 4px;
+        white-space:nowrap;
+        min-width:80px;
+    }
+    #grilla td:first-child{
+      min-width:70px;
+    }
+    #grilla td:first-child img{
+      width:50px;
+      height:auto;
+    }
+    #grilla tbody tr:last-child td{
+      border-bottom:none;
+    }
+    /* Imagenes */
+    img{
+      max-width:100%;
+      height:auto;
+    }
+    #grilla th:nth-child(6),
+    #grilla td:nth-child(6),
+    #grilla th:nth-child(8),
+    #grilla td:nth-child(8),
+    #grilla th:nth-child(9),
+    #grilla td:nth-child(9),
+    #grilla th:nth-child(11),
+    #grilla td:nth-child(11),
+    #grilla th:nth-child(12),
+    #grilla td:nth-child(12){
+        display:none;
+    }
+    .fila-titulo th{
+      background:#e6e6e6 !important;
+      font-weight:bold;
+    }
+    .fila-filtros th{
+      background:#f8fafc !important;
+      padding:2px;
+    }
+    .fila-filtros input{
+      width:100%;
+      margin:0;
+      font-size:11px;
+      box-sizing:border-box;
+    }
+    body{
+      min-height:auto !important;
+    }
+    html{
+      min-height:auto !important;
+    }
+  }
