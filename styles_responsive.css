@@ -688,7 +688,6 @@ h2, h3 {
 /* ==========================
    MOBILE
 ========================== */
-
 @media (max-width:768px){
     /* HEADER */
     header{
@@ -698,8 +697,12 @@ h2, h3 {
       margin-bottom:0 !important;
       padding-bottom:0 !important;
     }
+    #logo{
+      justify-content:center;
+    }
     #logo img{
-        height:30px;
+      height:20px !important;
+      width:auto;
     }
     #carrito-flotante{
       position:fixed !important;
@@ -719,40 +722,42 @@ h2, h3 {
     #sidebar{
       position:relative !important;
       top:auto !important;
-      left:auto !important;
       flex-direction:row !important;
       width:100% !important;
       height:auto !important;
-      min-height:auto !important;
-      max-height:none !important;
-      display:grid !important;
       grid-template-columns:repeat(7,1fr);
-      align-items:center;
-      gap:0;
-      margin:0 !important;
       padding:4px 0 !important;
-      overflow:hidden !important;
       background:#08294a !important;
     }
+    #sidebar > a{
+      flex:1 1 0;
+    }
     .side-link{
-      display:flex;
       flex-direction:column;
       align-items:center;
-      justify-content:center;
-      padding:0 !important;
-      min-width:0;
+      padding:2px 0 !important;
+      gap:2px !important;
+    }
+    .side-link:active{
+      transform:none !important;
+    }
+    .side-link:focus{
+      outline:none;
     }
     #sidebar::-webkit-scrollbar{
       height:4px;
     }
     .icon{
-      width:12px;
-      height:12px;
+    width:14px;
+    height:14px;
     }
     .text{
-      font-size:7px;
-      line-height:1;
-    }
+    display:block;
+    width:auto;
+    font-size:8px;
+    line-height:1.2;
+    white-space:nowrap;
+  }
     /* CONTENEDOR */
     #pantalla-despiece{
       overflow:visible !important;
@@ -766,7 +771,7 @@ h2, h3 {
       width:100%;
       max-width:100%;
       overflow-x:hidden;
-      padding:8px;
+      padding:0 !important;
       box-sizing:border-box;
       margin-left:0 !important;
     }
@@ -798,7 +803,7 @@ h2, h3 {
     iframe,
     embed{
       width:100%;
-      height:350px !important;
+      height:280px !important;
       display:block;
     }
     /* Botones */
@@ -820,16 +825,16 @@ h2, h3 {
     }
     #grilla{
       width:max-content;
-      min-width:700px;
+      min-width:600px;
       table-layout:auto;
       margin-bottom:0;
     }
     #grilla th,
     #grilla td{
-        font-size:10px;
-        padding:3px 4px;
-        white-space:nowrap;
-        min-width:80px;
+      font-size:10px;
+      padding:3px 4px;
+      white-space:nowrap;
+      min-width:80px;
     }
     #grilla td:first-child{
       min-width:70px;
