@@ -1,163 +1,16 @@
 
-const passwords = ["AB296123*", "xxvi2610"]; // Lista de contraseñas válidas
+const passwords = ["Imega1126*", "xxvi2610"]; // Lista de contraseñas válidas
 
 function checkPassword() {
   const input = document.getElementById("password-input").value;
 
-  if (input === "AB296123*") {
+  if (input === "Imega1126*") {
     window.location.href = "ConfigAB.html"; // Redirige a la primera página
   } else if (input === "xxvi2610") {
     window.location.href = "ConfigA.html"; // Redirige a la segunda página
   } else {
     alert("Contraseña incorrecta.");
   }
-}
-
-//Convertir Tabla_Stock_1506.CSV a Stock.JS
-async function Stock1506CSVtoJS() {
-  const fileInput = document.getElementById("csvFileStock1506");
-  const file = fileInput.files[0];
-
-  if (!file) {
-    alert("Por favor selecciona un archivo .CSV");
-    return;
-  }
-
-  const reader = new FileReader();
-  reader.onload = async function (e) {
-    const text = e.target.result;
-    const lines = text.trim().split('\n');
-    const result = [];
-
-    for (let i = 1; i < lines.length; i++) {
-      const [codigoSAP, stock, CostoInventarioTotal] = lines[i].split(';');
-      result.push({
-        codigoSAP: parseInt(codigoSAP),
-        Stock: parseFloat(stock.replace(',', '.')),
-        CostoInventarioTotal: CostoInventarioTotal.trim()
-      });
-    }
-
-    const jsContent = `const stock1506Data = ${JSON.stringify(result, null, 2)};`;
-
-    try {
-      const handle = await window.showSaveFilePicker({
-        suggestedName: "Stock_1506.js",
-        types: [{
-          description: "Archivo JavaScript",
-          accept: { "application/javascript": [".js"] }
-        }]
-      });
-
-      const writable = await handle.createWritable();
-      await writable.write(jsContent);
-      await writable.close();
-      alert("Archivo stock 1506 guardado correctamente.");
-      resetColor("csvFileStock1506");
-    } catch (err) {
-      console.error("Error al guardar el archivo:", err);
-    }
-  };
-
-  reader.readAsText(file);
-}
-
-//Convertir Tabla_Stock_1524.CSV a Stock.JS
-async function Stock1524CSVtoJS() {
-  const fileInput = document.getElementById("csvFileStock1524");
-  const file = fileInput.files[0];
-
-  if (!file) {
-    alert("Por favor selecciona un archivo .CSV");
-    return;
-  }
-
-  const reader = new FileReader();
-  reader.onload = async function (e) {
-    const text = e.target.result;
-    const lines = text.trim().split('\n');
-    const result = [];
-
-    for (let i = 1; i < lines.length; i++) {
-      const [codigoSAP, stock, CostoInventarioTotal] = lines[i].split(';');
-      result.push({
-        codigoSAP: parseInt(codigoSAP),
-        Stock: parseFloat(stock.replace(',', '.')),
-        CostoInventarioTotal: CostoInventarioTotal.trim()
-      });
-    }
-
-    const jsContent = `const stock1524Data = ${JSON.stringify(result, null, 2)};`;
-
-    try {
-      const handle = await window.showSaveFilePicker({
-        suggestedName: "Stock_1524.js",
-        types: [{
-          description: "Archivo JavaScript",
-          accept: { "application/javascript": [".js"] }
-        }]
-      });
-
-      const writable = await handle.createWritable();
-      await writable.write(jsContent);
-      await writable.close();
-      alert("Archivo stock 1524 guardado correctamente.");
-      resetColor("csvFileStock1524");
-    } catch (err) {
-      console.error("Error al guardar el archivo:", err);
-    }
-  };
-
-  reader.readAsText(file);
-}
-
-//Convertir Tabla_Stock_1409.CSV a Stock_1409.JS
-async function Stock1409CSVtoJS() {
-  const fileInput = document.getElementById("csvFileStock1409");
-  const file = fileInput.files[0];
-
-  if (!file) {
-    alert("Por favor selecciona un archivo .CSV");
-    return;
-  }
-
-  const reader = new FileReader();
-  reader.onload = async function (e) {
-    const text = e.target.result;
-    const lines = text.trim().split('\n');
-    const result = [];
-
-    for (let i = 1; i < lines.length; i++) {
-      const [codigoSAP, stock, CostoInventarioTotal] = lines[i].split(';');
-      result.push({
-        codigoSAP: parseInt(codigoSAP),
-        Stock: parseFloat(stock.replace(',', '.')),
-        CostoInventarioTotal: CostoInventarioTotal.trim()
-      });
-    }
-
-    const jsContent = `const stock1409Data = ${JSON.stringify(result, null, 2)};`;
-
-    try {
-      const handle = await window.showSaveFilePicker({
-        suggestedName: "Stock_1409.js",
-        types: [{
-          description: "Archivo JavaScript",
-          accept: { "application/javascript": [".js"] }
-        }]
-      });
-
-      const writable = await handle.createWritable();
-      await writable.write(jsContent);
-      await writable.close();
-      alert("Archivo stock 1409 guardado correctamente.");
-      resetColor("csvFileStock1409");
-    } catch (err) {
-      console.error("Error al guardar el archivo:", err);
-    }
-  };
-
-  reader.readAsText(file);
 }
 
 //Convertir Tabla_OrdenCompra.csv a OrdenCompra.js

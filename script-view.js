@@ -45,21 +45,31 @@ function buscarSAP() {
 
     document.getElementById("precio").textContent = precio || "$0";
   }
-  
-  // Stock 1506
-  let stock = "-";
-
-  if (typeof stock1506Data !== "undefined") {
-    const stockObj = stock1506Data.find(s => s.codigoSAP == repuesto.codigoSAP
-);
-
-    if (stockObj) {
-      stock = stockObj.Stock;
-    }
+  // Stock
+  let stock1409 = 0;
+  let stock1506 = 0;
+  let stock1524 = 0;
+  if (typeof datosMb52 !== "undefined") {
+    datosMb52.forEach(item => {
+      if (String(item.codigoSAP) !== String(repuesto.codigoSAP)) {
+        return;
+      }
+      if (String(item.almacen) === "1409") {
+        stock1409 += Number(item.Stock || 0);
+      }
+      if (String(item.almacen) === "1506") {
+        stock1506 += Number(item.Stock || 0);
+      }
+      if (String(item.almacen) === "1524") {
+        stock1524 += Number(item.Stock || 0);
+      }
+    });
   }
-
-  document.getElementById("stock").textContent = stock; // insertar en pantalla
-
+  const stockTotal = stock1409 + stock1506 + stock1524;
+  document.getElementById("stockTotal").textContent = stockTotal.toLocaleString("es-CL");
+  document.getElementById("stock1409").textContent = stock1409.toLocaleString("es-CL");
+  document.getElementById("stock1506").textContent = stock1506.toLocaleString("es-CL");
+  document.getElementById("stock1524").textContent = stock1524.toLocaleString("es-CL");
   // reemplazo
   let reemplazo = "-";
 
@@ -100,43 +110,63 @@ function buscarSAP() {
 
   // medidas
   const medida = medidaData.find(m => m.codigoSAP == repuesto.codigoSAP);
-
   if (medida) {
-    document.getElementById('largo').textContent = medida.largo;
-    document.getElementById('ancho').textContent = medida.ancho;
-    document.getElementById('alto').textContent = medida.alto;
-    document.getElementById('peso').textContent = medida.peso;
+    document.getElementById('largo').textContent = medida.largo + " CM";
+    document.getElementById('ancho').textContent = medida.ancho + " CM";
+    document.getElementById('alto').textContent = medida.alto + " CM";
+    document.getElementById('peso').textContent = medida.peso + " KG";
   }
 
   // imagen
   const img = document.getElementById("imgProducto");
   const link = document.getElementById("linkImagen");
   const codigo = document.getElementById("sap").textContent.trim();
-  const ruta = `imagenes/${codigo}.jpg`;
-  const fallback = `imagenes/no-image.png`;
-
   img.style.display = "block";
-
-  if (!codigo) {
-    img.src = fallback;
-    link.href = fallback;
-    return;
+  const rutas = [
+    `imagenes/${codigo}.jpg`,
+    `imagenes2/${codigo}.jpg`,
+    `imagenes3/${codigo}.jpg`
+  ];
+  const fallbacks = [
+    "imagenes/no-image.png",
+    "imagenes2/no-image.png",
+    "imagenes3/no-image.png"
+  ];
+  function buscarImagen(indice = 0) {
+    if (!codigo) {
+      buscarNoImage();
+      return;
+    }
+    if (indice >= rutas.length) {
+      buscarNoImage();
+      return;
+    }
+    const testImg = new Image();
+    testImg.onload = () => {
+      img.src = rutas[indice];
+      link.href = rutas[indice];
+    };
+    testImg.onerror = () => {
+      buscarImagen(indice + 1);
+    };
+    testImg.src = rutas[indice];
   }
-
-  const testImg = new Image();
-
-  testImg.onload = function () {
-    // La imagen existe
-    img.src = ruta;
-    link.href = ruta;
-  };
-
-  testImg.onerror = function () {
-    img.src = fallback;
-    link.href = fallback;
-  };
-
-  testImg.src = ruta;
+  function buscarNoImage(indice = 0) {
+    if (indice >= fallbacks.length) {
+      img.style.display = "none";
+      return;
+    }
+    const testImg = new Image();
+    testImg.onload = () => {
+      img.src = fallbacks[indice];
+      link.href = fallbacks[indice];
+    };
+    testImg.onerror = () => {
+      buscarNoImage(indice + 1);
+    };
+    testImg.src = fallbacks[indice];
+  }
+  buscarImagen();
 
   // modelos asociados a repuesto buscado
   const modelos = datosDespiece

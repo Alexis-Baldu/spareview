@@ -181,8 +181,17 @@ html, body, #pantalla-principal, #pantalla-despiece {
   font-weight: 500;
 }
 
+.label-stock {
+  color: #666;
+  font-weight: 200;
+}
+
 .valor {
   font-weight: 600;
+}
+
+.valor-stock {
+  font-weight: 300;
 }
 
 .detalle-item:not(:last-child) {

@@ -1,27 +1,29 @@
 // Variables globales
 let imagenes = []; // Almacena los archivos de imagen seleccionados
 let grilla = []; // Almacena los datos de despiece filtrados
-let stock1506Map = {}; // Mapa para asociar código SAP con Stock de almacén 1524
-  if (typeof stock1506Data !== "undefined") {
-    stock1506Data.forEach(item => {
-      const codigo = item.codigoSAP || item.codigoSAP;
-      stock1506Map[codigo] = item.Stock;
-    });
-  }
-let stock1524Map = {}; // Mapa para asociar código SAP con Stock de almacén 1524
-  if (typeof stock1524Data !== "undefined") {
-    stock1524Data.forEach(item => {
-      const codigo = item.codigoSAP || item.codigoSAP;
-      stock1524Map[codigo] = item.Stock;
-    });
-  }
-let stock1409Map = {}; // Mapa para asociar código SAP con Stock de almacén 1409
-  if (typeof stock1409Data !== "undefined") {
-    stock1409Data.forEach(item => {
-      const codigo = item.codigoSAP || item.codigoSAP;
-      stock1409Map[codigo] = item.Stock;
-    });
-  }
+let stock1506Map = {};
+let stock1524Map = {};
+let stock1409Map = {};
+if (typeof datosMb52 !== "undefined") {
+  datosMb52.forEach(item => {
+    const codigo = item.codigoSAP;
+    if (String(item.almacen) === "1506") {
+      stock1506Map[codigo] =
+        (stock1506Map[codigo] || 0) +
+        Number(item.Stock || 0);
+    }
+    if (String(item.almacen) === "1524") {
+      stock1524Map[codigo] =
+        (stock1524Map[codigo] || 0) +
+        Number(item.Stock || 0);
+    }
+    if (String(item.almacen) === "1409") {
+      stock1409Map[codigo] =
+        (stock1409Map[codigo] || 0) +
+        Number(item.Stock || 0);
+    }
+  });
+}
 let ubicacionMap = {}; // Mapa para asociar código SAP con las ubicaciones
   if (typeof ubicacionData !== "undefined") {
     ubicacionData.forEach(item => {
@@ -117,8 +119,24 @@ function mostrarTodosLosDatos() {
 
     fila.innerHTML = `
       <td>
-        <a href="imagenes/${dato.codigoSAP}.jpg" target="_blank">
-          <img src="imagenes/${dato.codigoSAP}.jpg" alt="" style="width: 40px; height: auto;">
+        <a href="#" target="_blank">
+          <img
+            src="imagenes/${dato.codigoSAP}.jpg"
+            alt=""
+            style="width:40px;height:auto"
+            onerror="
+              if(!this.dataset.folder){
+                this.dataset.folder='2';
+                this.src='imagenes2/${dato.codigoSAP}.jpg';
+              }else if(this.dataset.folder==='2'){
+                this.dataset.folder='3';
+                this.src='imagenes3/${dato.codigoSAP}.jpg';
+              }else{
+                this.style.display='none';
+                this.parentElement.style.display='none';
+              }
+            "
+          >
         </a>
       </td>
       <td>${dato.codigoSAP}</td>
