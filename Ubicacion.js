@@ -10288,6 +10288,10 @@ const ubicacionData = [
     "ubicacion": "EC010504"
   },
   {
+    "codigoSAP": 505210,
+    "ubicacion": "EG060801"
+  },
+  {
     "codigoSAP": 505211,
     "ubicacion": "EM030301"
   },
@@ -16049,7 +16053,7 @@ const ubicacionData = [
   },
   {
     "codigoSAP": 508316,
-    "ubicacion": "EK050401"
+    "ubicacion": "EK040101"
   },
   {
     "codigoSAP": 508317,
@@ -16586,10 +16590,6 @@ const ubicacionData = [
   {
     "codigoSAP": 508506,
     "ubicacion": "EF050801"
-  },
-  {
-    "codigoSAP": 508509,
-    "ubicacion": "0"
   },
   {
     "codigoSAP": 508510,
@@ -19216,6 +19216,10 @@ const ubicacionData = [
     "ubicacion": "EG030801"
   },
   {
+    "codigoSAP": 509350,
+    "ubicacion": "EG010802"
+  },
+  {
     "codigoSAP": 509394,
     "ubicacion": "EG020201"
   },
@@ -19634,6 +19638,10 @@ const ubicacionData = [
   {
     "codigoSAP": 509581,
     "ubicacion": "EA040804"
+  },
+  {
+    "codigoSAP": 509589,
+    "ubicacion": "EJ010803"
   },
   {
     "codigoSAP": 509593,

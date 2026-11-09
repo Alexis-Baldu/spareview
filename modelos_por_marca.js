@@ -6,9 +6,13 @@ const modelosPorMarca = {
   ],
   "ATOSA": [
     "",
-    "MPF8202GR",
+    "MBF8501CL65C",
     "MGF8403GR",
-    "MGF8451GR"
+    "MGF8406CL65C",
+    "MGF8407CL65C",
+    "MGF8413CL65C",
+    "MGF8451GR",
+    "MPF8202GR"
   ],
   "AMC": [
     "",
@@ -152,6 +156,7 @@ const modelosPorMarca = {
     "AOS101EKA1",
     "AOS101GKD1",
     "AOS201EBA2",
+    "AOS201ECA2",
     "AOS201EKA1",
     "AOS201ETA1",
     "AOS201GKD1",
@@ -182,6 +187,7 @@ const modelosPorMarca = {
     "E7NED2000",
     "E7PCED1KF0",
     "E9IILAAOMCA",
+    "E9IIMAAOMEA",
     "E9BMGHB000",
     "E9BRGHMOF0",
     "E9BSGHIPFR",
@@ -946,6 +952,7 @@ const modelosPorMarca = {
     "VC-400F",
     "VC-420RF",
     "VC-540L",
+    "VC-540L INV",
     "VC-600",
     "VC-600B",
     "VC-800",

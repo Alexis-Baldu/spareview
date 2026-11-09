@@ -6,7 +6,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 500005,
-    "Stock": 23,
+    "Stock": 22,
     "CostoInventarioTotal": "$22.534"
   },
   {
@@ -136,7 +136,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 500064,
-    "Stock": 11,
+    "Stock": 8,
     "CostoInventarioTotal": "$10.916"
   },
   {
@@ -192,7 +192,7 @@ const stock1506Data = [
   {
     "codigoSAP": 500095,
     "Stock": 1,
-    "CostoInventarioTotal": "$34.994"
+    "CostoInventarioTotal": "$35.098"
   },
   {
     "codigoSAP": 500103,
@@ -232,7 +232,7 @@ const stock1506Data = [
   {
     "codigoSAP": 500138,
     "Stock": 16,
-    "CostoInventarioTotal": "$6.728"
+    "CostoInventarioTotal": "$6.806"
   },
   {
     "codigoSAP": 500139,
@@ -317,7 +317,7 @@ const stock1506Data = [
   {
     "codigoSAP": 500166,
     "Stock": 4,
-    "CostoInventarioTotal": "$12.146"
+    "CostoInventarioTotal": "$12.199"
   },
   {
     "codigoSAP": 500167,
@@ -397,7 +397,7 @@ const stock1506Data = [
   {
     "codigoSAP": 500251,
     "Stock": 6,
-    "CostoInventarioTotal": "$242.293"
+    "CostoInventarioTotal": "$231.765"
   },
   {
     "codigoSAP": 500252,
@@ -412,12 +412,12 @@ const stock1506Data = [
   {
     "codigoSAP": 500254,
     "Stock": 4,
-    "CostoInventarioTotal": "$62.045"
+    "CostoInventarioTotal": "$54.149"
   },
   {
     "codigoSAP": 500255,
     "Stock": 4,
-    "CostoInventarioTotal": "$88.212"
+    "CostoInventarioTotal": "$82.947"
   },
   {
     "codigoSAP": 500256,
@@ -427,7 +427,7 @@ const stock1506Data = [
   {
     "codigoSAP": 500257,
     "Stock": 3,
-    "CostoInventarioTotal": "$70.626"
+    "CostoInventarioTotal": "$63.606"
   },
   {
     "codigoSAP": 500258,
@@ -437,7 +437,7 @@ const stock1506Data = [
   {
     "codigoSAP": 500263,
     "Stock": 5,
-    "CostoInventarioTotal": "$95.229"
+    "CostoInventarioTotal": "$91.017"
   },
   {
     "codigoSAP": 500266,
@@ -452,7 +452,7 @@ const stock1506Data = [
   {
     "codigoSAP": 500270,
     "Stock": 3,
-    "CostoInventarioTotal": "$115.418"
+    "CostoInventarioTotal": "$104.889"
   },
   {
     "codigoSAP": 500277,
@@ -502,7 +502,7 @@ const stock1506Data = [
   {
     "codigoSAP": 500312,
     "Stock": 4,
-    "CostoInventarioTotal": "$111.134"
+    "CostoInventarioTotal": "$105.869"
   },
   {
     "codigoSAP": 500313,
@@ -541,8 +541,8 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 500323,
-    "Stock": 6,
-    "CostoInventarioTotal": "$100.943"
+    "Stock": 5,
+    "CostoInventarioTotal": "$100.942"
   },
   {
     "codigoSAP": 500324,
@@ -556,7 +556,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 500328,
-    "Stock": 5,
+    "Stock": 4,
     "CostoInventarioTotal": "$76.699"
   },
   {
@@ -587,7 +587,7 @@ const stock1506Data = [
   {
     "codigoSAP": 500340,
     "Stock": 3,
-    "CostoInventarioTotal": "$36.430"
+    "CostoInventarioTotal": "$25.902"
   },
   {
     "codigoSAP": 500349,
@@ -626,7 +626,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 500367,
-    "Stock": 5,
+    "Stock": 4,
     "CostoInventarioTotal": "$32.832"
   },
   {
@@ -751,7 +751,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 500473,
-    "Stock": 6,
+    "Stock": 5,
     "CostoInventarioTotal": "$87.537"
   },
   {
@@ -996,18 +996,13 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 500749,
-    "Stock": 10,
+    "Stock": 8,
     "CostoInventarioTotal": "$66.987"
   },
   {
     "codigoSAP": 500751,
     "Stock": 10,
     "CostoInventarioTotal": "$1.344"
-  },
-  {
-    "codigoSAP": 500752,
-    "Stock": 5,
-    "CostoInventarioTotal": "$4.594"
   },
   {
     "codigoSAP": 500754,
@@ -1201,12 +1196,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 500846,
-    "Stock": 84,
+    "Stock": 75,
     "CostoInventarioTotal": "$3.699"
   },
   {
     "codigoSAP": 500847,
-    "Stock": 28,
+    "Stock": 14,
     "CostoInventarioTotal": "$26.367"
   },
   {
@@ -1261,13 +1256,13 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 500889,
-    "Stock": 4,
-    "CostoInventarioTotal": "$22.325"
+    "Stock": 2,
+    "CostoInventarioTotal": "$22.481"
   },
   {
     "codigoSAP": 500890,
-    "Stock": 4,
-    "CostoInventarioTotal": "$21.201"
+    "Stock": 2,
+    "CostoInventarioTotal": "$21.513"
   },
   {
     "codigoSAP": 500891,
@@ -1281,8 +1276,8 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 500895,
-    "Stock": 2,
-    "CostoInventarioTotal": "$145.937"
+    "Stock": 1,
+    "CostoInventarioTotal": "$145.936"
   },
   {
     "codigoSAP": 500898,
@@ -1391,8 +1386,8 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 500952,
-    "Stock": 29,
-    "CostoInventarioTotal": "$9.301"
+    "Stock": 28,
+    "CostoInventarioTotal": "$9.302"
   },
   {
     "codigoSAP": 500953,
@@ -1456,13 +1451,13 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 500975,
-    "Stock": 7,
-    "CostoInventarioTotal": "$54.200"
+    "Stock": 6,
+    "CostoInventarioTotal": "$54.201"
   },
   {
     "codigoSAP": 500976,
     "Stock": 8,
-    "CostoInventarioTotal": "$18.584"
+    "CostoInventarioTotal": "$18.591"
   },
   {
     "codigoSAP": 500981,
@@ -1486,7 +1481,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 500992,
-    "Stock": 10,
+    "Stock": 8,
     "CostoInventarioTotal": "$37.072"
   },
   {
@@ -1497,7 +1492,7 @@ const stock1506Data = [
   {
     "codigoSAP": 500995,
     "Stock": 3,
-    "CostoInventarioTotal": "$62.382"
+    "CostoInventarioTotal": "$62.694"
   },
   {
     "codigoSAP": 500996,
@@ -1532,12 +1527,12 @@ const stock1506Data = [
   {
     "codigoSAP": 501010,
     "Stock": 13,
-    "CostoInventarioTotal": "$219.158"
+    "CostoInventarioTotal": "$220.035"
   },
   {
     "codigoSAP": 501011,
     "Stock": 8,
-    "CostoInventarioTotal": "$248.101"
+    "CostoInventarioTotal": "$243.200"
   },
   {
     "codigoSAP": 501015,
@@ -1572,7 +1567,7 @@ const stock1506Data = [
   {
     "codigoSAP": 501035,
     "Stock": 5,
-    "CostoInventarioTotal": "$37.079"
+    "CostoInventarioTotal": "$37.141"
   },
   {
     "codigoSAP": 501037,
@@ -1587,7 +1582,7 @@ const stock1506Data = [
   {
     "codigoSAP": 501041,
     "Stock": 1,
-    "CostoInventarioTotal": "$100.151"
+    "CostoInventarioTotal": "$100.308"
   },
   {
     "codigoSAP": 501042,
@@ -1667,7 +1662,7 @@ const stock1506Data = [
   {
     "codigoSAP": 501076,
     "Stock": 2,
-    "CostoInventarioTotal": "$37.991"
+    "CostoInventarioTotal": "$38.018"
   },
   {
     "codigoSAP": 501078,
@@ -1682,7 +1677,7 @@ const stock1506Data = [
   {
     "codigoSAP": 501083,
     "Stock": 4,
-    "CostoInventarioTotal": "$106.436"
+    "CostoInventarioTotal": "$106.903"
   },
   {
     "codigoSAP": 501084,
@@ -1781,8 +1776,8 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501120,
-    "Stock": 2,
-    "CostoInventarioTotal": "$23.528"
+    "Stock": 1,
+    "CostoInventarioTotal": "$23.527"
   },
   {
     "codigoSAP": 501122,
@@ -1796,8 +1791,8 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501124,
-    "Stock": 24,
-    "CostoInventarioTotal": "$15.959"
+    "Stock": 23,
+    "CostoInventarioTotal": "$15.982"
   },
   {
     "codigoSAP": 501125,
@@ -1831,7 +1826,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501139,
-    "Stock": 2,
+    "Stock": 1,
     "CostoInventarioTotal": "$202.659"
   },
   {
@@ -1972,12 +1967,12 @@ const stock1506Data = [
   {
     "codigoSAP": 501253,
     "Stock": 2,
-    "CostoInventarioTotal": "$23.197"
+    "CostoInventarioTotal": "$23.353"
   },
   {
     "codigoSAP": 501260,
     "Stock": 2,
-    "CostoInventarioTotal": "$249.983"
+    "CostoInventarioTotal": "$251.074"
   },
   {
     "codigoSAP": 501262,
@@ -2027,7 +2022,7 @@ const stock1506Data = [
   {
     "codigoSAP": 501284,
     "Stock": 4,
-    "CostoInventarioTotal": "$7.774"
+    "CostoInventarioTotal": "$7.931"
   },
   {
     "codigoSAP": 501287,
@@ -2086,7 +2081,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501307,
-    "Stock": 3,
+    "Stock": 2,
     "CostoInventarioTotal": "$14.995"
   },
   {
@@ -2137,7 +2132,7 @@ const stock1506Data = [
   {
     "codigoSAP": 501329,
     "Stock": 6,
-    "CostoInventarioTotal": "$20.267"
+    "CostoInventarioTotal": "$20.371"
   },
   {
     "codigoSAP": 501330,
@@ -2226,7 +2221,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501390,
-    "Stock": 16,
+    "Stock": 14,
     "CostoInventarioTotal": "$2.067"
   },
   {
@@ -2246,7 +2241,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501396,
-    "Stock": 36,
+    "Stock": 16,
     "CostoInventarioTotal": "$2.319"
   },
   {
@@ -2256,7 +2251,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501398,
-    "Stock": 47,
+    "Stock": 24,
     "CostoInventarioTotal": "$19.206"
   },
   {
@@ -2286,7 +2281,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501405,
-    "Stock": 1,
+    "Stock": 13,
     "CostoInventarioTotal": "$2.047"
   },
   {
@@ -2306,7 +2301,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501415,
-    "Stock": 4,
+    "Stock": 9,
     "CostoInventarioTotal": "$8.799"
   },
   {
@@ -2326,7 +2321,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501432,
-    "Stock": 1,
+    "Stock": 2,
     "CostoInventarioTotal": "$31.741"
   },
   {
@@ -2341,7 +2336,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501438,
-    "Stock": 35,
+    "Stock": 39,
     "CostoInventarioTotal": "$5.509"
   },
   {
@@ -2411,7 +2406,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501475,
-    "Stock": 69,
+    "Stock": 68,
     "CostoInventarioTotal": "$3.902"
   },
   {
@@ -2421,7 +2416,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501486,
-    "Stock": 7,
+    "Stock": 6,
     "CostoInventarioTotal": "$56.563"
   },
   {
@@ -2436,7 +2431,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501490,
-    "Stock": 3,
+    "Stock": 1,
     "CostoInventarioTotal": "$108.352"
   },
   {
@@ -2461,7 +2456,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501518,
-    "Stock": 13,
+    "Stock": 12,
     "CostoInventarioTotal": "$46.112"
   },
   {
@@ -2498,6 +2493,11 @@ const stock1506Data = [
     "codigoSAP": 501537,
     "Stock": 10,
     "CostoInventarioTotal": "$9.886"
+  },
+  {
+    "codigoSAP": 501538,
+    "Stock": 13,
+    "CostoInventarioTotal": "$9.410"
   },
   {
     "codigoSAP": 501541,
@@ -2541,7 +2541,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501550,
-    "Stock": 243,
+    "Stock": 258,
     "CostoInventarioTotal": "$6.631"
   },
   {
@@ -2556,7 +2556,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501553,
-    "Stock": 298,
+    "Stock": 263,
     "CostoInventarioTotal": "$2.163"
   },
   {
@@ -2601,12 +2601,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501567,
-    "Stock": 625,
+    "Stock": 586,
     "CostoInventarioTotal": "$300"
   },
   {
     "codigoSAP": 501568,
-    "Stock": 188,
+    "Stock": 187,
     "CostoInventarioTotal": "$954"
   },
   {
@@ -2616,12 +2616,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501570,
-    "Stock": 266,
+    "Stock": 249,
     "CostoInventarioTotal": "$877"
   },
   {
     "codigoSAP": 501571,
-    "Stock": 1461,
+    "Stock": 1437,
     "CostoInventarioTotal": "$9"
   },
   {
@@ -2641,7 +2641,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501576,
-    "Stock": 14,
+    "Stock": 13,
     "CostoInventarioTotal": "$1.500"
   },
   {
@@ -2706,7 +2706,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501635,
-    "Stock": 3,
+    "Stock": 5,
     "CostoInventarioTotal": "$10.677"
   },
   {
@@ -2731,7 +2731,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501644,
-    "Stock": 59,
+    "Stock": 58,
     "CostoInventarioTotal": "$940"
   },
   {
@@ -2781,12 +2781,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501661,
-    "Stock": 20,
+    "Stock": 15,
     "CostoInventarioTotal": "$5.889"
   },
   {
     "codigoSAP": 501663,
-    "Stock": 1698,
+    "Stock": 1694,
     "CostoInventarioTotal": "$1.441"
   },
   {
@@ -2811,7 +2811,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501671,
-    "Stock": 244,
+    "Stock": 240,
     "CostoInventarioTotal": "$2.803"
   },
   {
@@ -2826,7 +2826,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501679,
-    "Stock": 13,
+    "Stock": 12,
     "CostoInventarioTotal": "$11.947"
   },
   {
@@ -2841,7 +2841,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501683,
-    "Stock": 97,
+    "Stock": 95,
     "CostoInventarioTotal": "$7.761"
   },
   {
@@ -2868,6 +2868,11 @@ const stock1506Data = [
     "codigoSAP": 501689,
     "Stock": 54,
     "CostoInventarioTotal": "$561"
+  },
+  {
+    "codigoSAP": 501690,
+    "Stock": 8,
+    "CostoInventarioTotal": "$5.891"
   },
   {
     "codigoSAP": 501691,
@@ -3046,7 +3051,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501770,
-    "Stock": 16,
+    "Stock": 14,
     "CostoInventarioTotal": "$31.122"
   },
   {
@@ -3056,7 +3061,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501772,
-    "Stock": 8,
+    "Stock": 6,
     "CostoInventarioTotal": "$6.122"
   },
   {
@@ -3076,7 +3081,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501778,
-    "Stock": 1443,
+    "Stock": 1442,
     "CostoInventarioTotal": "$626"
   },
   {
@@ -3086,7 +3091,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501783,
-    "Stock": 9,
+    "Stock": 3,
     "CostoInventarioTotal": "$8.916"
   },
   {
@@ -3100,14 +3105,9 @@ const stock1506Data = [
     "CostoInventarioTotal": "$0"
   },
   {
-    "codigoSAP": 501789,
-    "Stock": 2,
-    "CostoInventarioTotal": "$58.285"
-  },
-  {
     "codigoSAP": 501790,
-    "Stock": 25,
-    "CostoInventarioTotal": "$18.761"
+    "Stock": 24,
+    "CostoInventarioTotal": "$18.762"
   },
   {
     "codigoSAP": 501791,
@@ -3136,7 +3136,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501802,
-    "Stock": 17,
+    "Stock": 13,
     "CostoInventarioTotal": "$29.342"
   },
   {
@@ -3176,7 +3176,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501816,
-    "Stock": 9,
+    "Stock": 11,
     "CostoInventarioTotal": "$7.345"
   },
   {
@@ -3201,13 +3201,13 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501824,
-    "Stock": 12,
+    "Stock": 11,
     "CostoInventarioTotal": "$18.033"
   },
   {
     "codigoSAP": 501825,
-    "Stock": 9,
-    "CostoInventarioTotal": "$25.536"
+    "Stock": 6,
+    "CostoInventarioTotal": "$25.537"
   },
   {
     "codigoSAP": 501826,
@@ -3216,7 +3216,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501827,
-    "Stock": 19,
+    "Stock": 18,
     "CostoInventarioTotal": "$588"
   },
   {
@@ -3226,7 +3226,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501829,
-    "Stock": 63,
+    "Stock": 62,
     "CostoInventarioTotal": "$3.279"
   },
   {
@@ -3261,22 +3261,22 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501837,
-    "Stock": 2,
-    "CostoInventarioTotal": "$19.583"
+    "Stock": 3,
+    "CostoInventarioTotal": "$19.582"
   },
   {
     "codigoSAP": 501838,
-    "Stock": 22,
+    "Stock": 20,
     "CostoInventarioTotal": "$1.770"
   },
   {
     "codigoSAP": 501839,
-    "Stock": 297,
+    "Stock": 298,
     "CostoInventarioTotal": "$3.063"
   },
   {
     "codigoSAP": 501840,
-    "Stock": 9,
+    "Stock": 10,
     "CostoInventarioTotal": "$807"
   },
   {
@@ -3296,7 +3296,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501844,
-    "Stock": 10,
+    "Stock": 3,
     "CostoInventarioTotal": "$9.413"
   },
   {
@@ -3311,7 +3311,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501847,
-    "Stock": 2010,
+    "Stock": 2006,
     "CostoInventarioTotal": "$491"
   },
   {
@@ -3326,7 +3326,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501850,
-    "Stock": 539,
+    "Stock": 537,
     "CostoInventarioTotal": "$137"
   },
   {
@@ -3336,12 +3336,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501854,
-    "Stock": 292,
+    "Stock": 288,
     "CostoInventarioTotal": "$8.640"
   },
   {
     "codigoSAP": 501856,
-    "Stock": 148,
+    "Stock": 146,
     "CostoInventarioTotal": "$725"
   },
   {
@@ -3356,22 +3356,22 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501861,
-    "Stock": 25,
+    "Stock": 23,
     "CostoInventarioTotal": "$281"
   },
   {
     "codigoSAP": 501862,
-    "Stock": 1919,
+    "Stock": 1917,
     "CostoInventarioTotal": "$329"
   },
   {
     "codigoSAP": 501863,
-    "Stock": 95,
+    "Stock": 76,
     "CostoInventarioTotal": "$2.174"
   },
   {
     "codigoSAP": 501864,
-    "Stock": 59,
+    "Stock": 56,
     "CostoInventarioTotal": "$5.368"
   },
   {
@@ -3411,12 +3411,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501914,
-    "Stock": 3,
+    "Stock": 5,
     "CostoInventarioTotal": "$50.132"
   },
   {
     "codigoSAP": 501917,
-    "Stock": 23,
+    "Stock": 38,
     "CostoInventarioTotal": "$2.381"
   },
   {
@@ -3431,7 +3431,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501921,
-    "Stock": 3,
+    "Stock": 2,
     "CostoInventarioTotal": "$129.972"
   },
   {
@@ -3446,7 +3446,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501925,
-    "Stock": 2,
+    "Stock": 4,
     "CostoInventarioTotal": "$9.408"
   },
   {
@@ -3465,8 +3465,13 @@ const stock1506Data = [
     "CostoInventarioTotal": "$41.125"
   },
   {
+    "codigoSAP": 501933,
+    "Stock": 15,
+    "CostoInventarioTotal": "$12.323"
+  },
+  {
     "codigoSAP": 501934,
-    "Stock": 97,
+    "Stock": 100,
     "CostoInventarioTotal": "$10.952"
   },
   {
@@ -3531,7 +3536,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501955,
-    "Stock": 21,
+    "Stock": 19,
     "CostoInventarioTotal": "$4.609"
   },
   {
@@ -3545,13 +3550,18 @@ const stock1506Data = [
     "CostoInventarioTotal": "$2.557"
   },
   {
+    "codigoSAP": 501963,
+    "Stock": 10,
+    "CostoInventarioTotal": "$15.000"
+  },
+  {
     "codigoSAP": 501966,
     "Stock": 1,
     "CostoInventarioTotal": "$15.728"
   },
   {
     "codigoSAP": 501967,
-    "Stock": 11,
+    "Stock": 7,
     "CostoInventarioTotal": "$1.393"
   },
   {
@@ -3561,17 +3571,17 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501969,
-    "Stock": 5,
+    "Stock": 12,
     "CostoInventarioTotal": "$5"
   },
   {
     "codigoSAP": 501973,
-    "Stock": 7,
+    "Stock": 8,
     "CostoInventarioTotal": "$8"
   },
   {
     "codigoSAP": 501977,
-    "Stock": 31,
+    "Stock": 32,
     "CostoInventarioTotal": "$1.026"
   },
   {
@@ -3581,7 +3591,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501979,
-    "Stock": 2,
+    "Stock": 3,
     "CostoInventarioTotal": "$0"
   },
   {
@@ -3593,6 +3603,11 @@ const stock1506Data = [
     "codigoSAP": 501984,
     "Stock": 12,
     "CostoInventarioTotal": "$967"
+  },
+  {
+    "codigoSAP": 501986,
+    "Stock": 11,
+    "CostoInventarioTotal": "$2.109"
   },
   {
     "codigoSAP": 501992,
@@ -3611,7 +3626,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501995,
-    "Stock": 24,
+    "Stock": 23,
     "CostoInventarioTotal": "$1.931"
   },
   {
@@ -3621,7 +3636,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 501998,
-    "Stock": 25,
+    "Stock": 21,
     "CostoInventarioTotal": "$1.831"
   },
   {
@@ -3651,7 +3666,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502006,
-    "Stock": 5,
+    "Stock": 4,
     "CostoInventarioTotal": "$4.309"
   },
   {
@@ -3736,7 +3751,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502032,
-    "Stock": 34,
+    "Stock": 20,
     "CostoInventarioTotal": "$7.761"
   },
   {
@@ -3791,7 +3806,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502048,
-    "Stock": 11,
+    "Stock": 10,
     "CostoInventarioTotal": "$0"
   },
   {
@@ -3811,7 +3826,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502056,
-    "Stock": 66,
+    "Stock": 62,
     "CostoInventarioTotal": "$6.558"
   },
   {
@@ -3871,7 +3886,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502072,
-    "Stock": 27,
+    "Stock": 25,
     "CostoInventarioTotal": "$927"
   },
   {
@@ -3916,7 +3931,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502090,
-    "Stock": 16,
+    "Stock": 15,
     "CostoInventarioTotal": "$0"
   },
   {
@@ -3926,7 +3941,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502093,
-    "Stock": 5,
+    "Stock": 2,
     "CostoInventarioTotal": "$5.204"
   },
   {
@@ -3943,11 +3958,6 @@ const stock1506Data = [
     "codigoSAP": 502098,
     "Stock": 19,
     "CostoInventarioTotal": "$2.037"
-  },
-  {
-    "codigoSAP": 502099,
-    "Stock": 4,
-    "CostoInventarioTotal": "$4.300"
   },
   {
     "codigoSAP": 502101,
@@ -3995,14 +4005,14 @@ const stock1506Data = [
     "CostoInventarioTotal": "$1.220"
   },
   {
-    "codigoSAP": 502114,
-    "Stock": 1,
-    "CostoInventarioTotal": "$320"
-  },
-  {
     "codigoSAP": 502116,
     "Stock": 6,
     "CostoInventarioTotal": "$2.500"
+  },
+  {
+    "codigoSAP": 502117,
+    "Stock": 7,
+    "CostoInventarioTotal": "$2.266"
   },
   {
     "codigoSAP": 502126,
@@ -4033,6 +4043,11 @@ const stock1506Data = [
     "codigoSAP": 502137,
     "Stock": 1,
     "CostoInventarioTotal": "$1.000"
+  },
+  {
+    "codigoSAP": 502144,
+    "Stock": 1,
+    "CostoInventarioTotal": "$2.500"
   },
   {
     "codigoSAP": 502150,
@@ -4075,6 +4090,11 @@ const stock1506Data = [
     "CostoInventarioTotal": "$1.249"
   },
   {
+    "codigoSAP": 502175,
+    "Stock": 3,
+    "CostoInventarioTotal": "$3.467"
+  },
+  {
     "codigoSAP": 502176,
     "Stock": 2,
     "CostoInventarioTotal": "$2.277"
@@ -4091,7 +4111,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502181,
-    "Stock": 34,
+    "Stock": 36,
     "CostoInventarioTotal": "$6.741"
   },
   {
@@ -4166,12 +4186,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502223,
-    "Stock": 4,
+    "Stock": 5,
     "CostoInventarioTotal": "$100"
   },
   {
     "codigoSAP": 502224,
-    "Stock": 4,
+    "Stock": 3,
     "CostoInventarioTotal": "$50.040"
   },
   {
@@ -4201,7 +4221,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502236,
-    "Stock": 68,
+    "Stock": 64,
     "CostoInventarioTotal": "$1.420"
   },
   {
@@ -4221,7 +4241,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502240,
-    "Stock": 225,
+    "Stock": 222,
     "CostoInventarioTotal": "$19.055"
   },
   {
@@ -4315,11 +4335,6 @@ const stock1506Data = [
     "CostoInventarioTotal": "$2.355"
   },
   {
-    "codigoSAP": 502276,
-    "Stock": 4,
-    "CostoInventarioTotal": "$4.647"
-  },
-  {
     "codigoSAP": 502277,
     "Stock": 11,
     "CostoInventarioTotal": "$7.858"
@@ -4330,8 +4345,13 @@ const stock1506Data = [
     "CostoInventarioTotal": "$20.934"
   },
   {
+    "codigoSAP": 502280,
+    "Stock": 3,
+    "CostoInventarioTotal": "$0"
+  },
+  {
     "codigoSAP": 502283,
-    "Stock": 1,
+    "Stock": 2,
     "CostoInventarioTotal": "$23.001"
   },
   {
@@ -4371,7 +4391,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502305,
-    "Stock": 13,
+    "Stock": 8,
     "CostoInventarioTotal": "$9.015"
   },
   {
@@ -4401,7 +4421,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502315,
-    "Stock": 39,
+    "Stock": 37,
     "CostoInventarioTotal": "$4.978"
   },
   {
@@ -4431,7 +4451,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502322,
-    "Stock": 4,
+    "Stock": 3,
     "CostoInventarioTotal": "$7.650"
   },
   {
@@ -4455,11 +4475,6 @@ const stock1506Data = [
     "CostoInventarioTotal": "$5.996"
   },
   {
-    "codigoSAP": 502336,
-    "Stock": 3,
-    "CostoInventarioTotal": "$30.460"
-  },
-  {
     "codigoSAP": 502338,
     "Stock": 8,
     "CostoInventarioTotal": "$0"
@@ -4468,11 +4483,6 @@ const stock1506Data = [
     "codigoSAP": 502341,
     "Stock": 19,
     "CostoInventarioTotal": "$7.328"
-  },
-  {
-    "codigoSAP": 502342,
-    "Stock": 5,
-    "CostoInventarioTotal": "$65.713"
   },
   {
     "codigoSAP": 502343,
@@ -4495,13 +4505,8 @@ const stock1506Data = [
     "CostoInventarioTotal": "$12.518"
   },
   {
-    "codigoSAP": 502352,
-    "Stock": 3,
-    "CostoInventarioTotal": "$18.113"
-  },
-  {
     "codigoSAP": 502358,
-    "Stock": 8,
+    "Stock": 14,
     "CostoInventarioTotal": "$3.000"
   },
   {
@@ -4521,13 +4526,18 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502366,
-    "Stock": 112,
+    "Stock": 110,
     "CostoInventarioTotal": "$6.614"
   },
   {
     "codigoSAP": 502369,
     "Stock": 84,
     "CostoInventarioTotal": "$23.454"
+  },
+  {
+    "codigoSAP": 502373,
+    "Stock": 19,
+    "CostoInventarioTotal": "$7.000"
   },
   {
     "codigoSAP": 502374,
@@ -4586,7 +4596,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502399,
-    "Stock": 17,
+    "Stock": 8,
     "CostoInventarioTotal": "$7.000"
   },
   {
@@ -4616,8 +4626,13 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502414,
-    "Stock": 33,
+    "Stock": 24,
     "CostoInventarioTotal": "$5.870"
+  },
+  {
+    "codigoSAP": 502420,
+    "Stock": 1,
+    "CostoInventarioTotal": "$100"
   },
   {
     "codigoSAP": 502426,
@@ -4636,7 +4651,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502429,
-    "Stock": 17,
+    "Stock": 15,
     "CostoInventarioTotal": "$2.670"
   },
   {
@@ -4646,7 +4661,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502431,
-    "Stock": 14,
+    "Stock": 22,
     "CostoInventarioTotal": "$26.695"
   },
   {
@@ -4831,7 +4846,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502524,
-    "Stock": 20,
+    "Stock": 18,
     "CostoInventarioTotal": "$19.561"
   },
   {
@@ -4863,6 +4878,11 @@ const stock1506Data = [
     "codigoSAP": 502536,
     "Stock": 1,
     "CostoInventarioTotal": "$0"
+  },
+  {
+    "codigoSAP": 502537,
+    "Stock": 8,
+    "CostoInventarioTotal": "$40.258"
   },
   {
     "codigoSAP": 502538,
@@ -5053,6 +5073,11 @@ const stock1506Data = [
     "codigoSAP": 502656,
     "Stock": 25,
     "CostoInventarioTotal": "$559"
+  },
+  {
+    "codigoSAP": 502660,
+    "Stock": 9,
+    "CostoInventarioTotal": "$719"
   },
   {
     "codigoSAP": 502663,
@@ -5341,7 +5366,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502866,
-    "Stock": 1,
+    "Stock": 2,
     "CostoInventarioTotal": "$83.718"
   },
   {
@@ -5366,7 +5391,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502882,
-    "Stock": 6,
+    "Stock": 5,
     "CostoInventarioTotal": "$53.051"
   },
   {
@@ -5396,7 +5421,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502889,
-    "Stock": 15,
+    "Stock": 14,
     "CostoInventarioTotal": "$47.765"
   },
   {
@@ -5480,6 +5505,11 @@ const stock1506Data = [
     "CostoInventarioTotal": "$3.690"
   },
   {
+    "codigoSAP": 502947,
+    "Stock": 12,
+    "CostoInventarioTotal": "$32.904"
+  },
+  {
     "codigoSAP": 502948,
     "Stock": 52,
     "CostoInventarioTotal": "$14.739"
@@ -5536,7 +5566,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 502969,
-    "Stock": 6,
+    "Stock": 5,
     "CostoInventarioTotal": "$3.395"
   },
   {
@@ -5711,7 +5741,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 503021,
-    "Stock": 10,
+    "Stock": 8,
     "CostoInventarioTotal": "$30.228"
   },
   {
@@ -5756,7 +5786,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 503036,
-    "Stock": 295,
+    "Stock": 577,
     "CostoInventarioTotal": "$9.870"
   },
   {
@@ -5766,7 +5796,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 503038,
-    "Stock": 457,
+    "Stock": 470,
     "CostoInventarioTotal": "$8.996"
   },
   {
@@ -5900,6 +5930,11 @@ const stock1506Data = [
     "CostoInventarioTotal": "$5.865"
   },
   {
+    "codigoSAP": 503106,
+    "Stock": 4,
+    "CostoInventarioTotal": "$44.836"
+  },
+  {
     "codigoSAP": 503120,
     "Stock": 106,
     "CostoInventarioTotal": "$1.075"
@@ -5923,6 +5958,11 @@ const stock1506Data = [
     "codigoSAP": 503134,
     "Stock": 4,
     "CostoInventarioTotal": "$4.784"
+  },
+  {
+    "codigoSAP": 503137,
+    "Stock": 6,
+    "CostoInventarioTotal": "$64.860"
   },
   {
     "codigoSAP": 503139,
@@ -6006,7 +6046,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 503170,
-    "Stock": 52,
+    "Stock": 51,
     "CostoInventarioTotal": "$1.829"
   },
   {
@@ -6061,8 +6101,8 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 503185,
-    "Stock": 4,
-    "CostoInventarioTotal": "$44.495"
+    "Stock": 3,
+    "CostoInventarioTotal": "$44.494"
   },
   {
     "codigoSAP": 503188,
@@ -6116,7 +6156,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 503203,
-    "Stock": 3,
+    "Stock": 4,
     "CostoInventarioTotal": "$8.818"
   },
   {
@@ -6136,7 +6176,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 503208,
-    "Stock": 11,
+    "Stock": 12,
     "CostoInventarioTotal": "$48.604"
   },
   {
@@ -6156,12 +6196,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 503212,
-    "Stock": 36,
+    "Stock": 37,
     "CostoInventarioTotal": "$3.935"
   },
   {
     "codigoSAP": 503213,
-    "Stock": 3,
+    "Stock": 1,
     "CostoInventarioTotal": "$35.216"
   },
   {
@@ -6206,7 +6246,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 503225,
-    "Stock": 18,
+    "Stock": 17,
     "CostoInventarioTotal": "$12.517"
   },
   {
@@ -6275,13 +6315,8 @@ const stock1506Data = [
     "CostoInventarioTotal": "$15.977"
   },
   {
-    "codigoSAP": 503252,
-    "Stock": 2,
-    "CostoInventarioTotal": "$1.000"
-  },
-  {
     "codigoSAP": 503253,
-    "Stock": 2,
+    "Stock": 3,
     "CostoInventarioTotal": "$32.787"
   },
   {
@@ -6306,8 +6341,8 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 503264,
-    "Stock": 2,
-    "CostoInventarioTotal": "$165.881"
+    "Stock": 1,
+    "CostoInventarioTotal": "$165.880"
   },
   {
     "codigoSAP": 503267,
@@ -6371,8 +6406,8 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 503292,
-    "Stock": 5,
-    "CostoInventarioTotal": "$19.879"
+    "Stock": 3,
+    "CostoInventarioTotal": "$19.884"
   },
   {
     "codigoSAP": 503294,
@@ -6387,11 +6422,11 @@ const stock1506Data = [
   {
     "codigoSAP": 503302,
     "Stock": 15,
-    "CostoInventarioTotal": "$12.418"
+    "CostoInventarioTotal": "$12.419"
   },
   {
     "codigoSAP": 503303,
-    "Stock": 23,
+    "Stock": 31,
     "CostoInventarioTotal": "$14.306"
   },
   {
@@ -6451,7 +6486,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 503337,
-    "Stock": 85,
+    "Stock": 84,
     "CostoInventarioTotal": "$9.123"
   },
   {
@@ -6731,7 +6766,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 503495,
-    "Stock": 6,
+    "Stock": 9,
     "CostoInventarioTotal": "$109.399"
   },
   {
@@ -6991,7 +7026,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 503636,
-    "Stock": 4,
+    "Stock": 3,
     "CostoInventarioTotal": "$8.876"
   },
   {
@@ -7071,7 +7106,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 503663,
-    "Stock": 11,
+    "Stock": 7,
     "CostoInventarioTotal": "$2.963"
   },
   {
@@ -7356,7 +7391,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 503815,
-    "Stock": 2,
+    "Stock": 4,
     "CostoInventarioTotal": "$0"
   },
   {
@@ -7381,7 +7416,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 503833,
-    "Stock": 13,
+    "Stock": 14,
     "CostoInventarioTotal": "$3.238"
   },
   {
@@ -7406,12 +7441,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 503842,
-    "Stock": 85,
+    "Stock": 78,
     "CostoInventarioTotal": "$4.164"
   },
   {
     "codigoSAP": 503843,
-    "Stock": 24,
+    "Stock": 12,
     "CostoInventarioTotal": "$12.954"
   },
   {
@@ -7521,7 +7556,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 503943,
-    "Stock": 22,
+    "Stock": 21,
     "CostoInventarioTotal": "$40.340"
   },
   {
@@ -7651,7 +7686,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504034,
-    "Stock": 4,
+    "Stock": 12,
     "CostoInventarioTotal": "$3.223"
   },
   {
@@ -7736,7 +7771,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504088,
-    "Stock": 22,
+    "Stock": 21,
     "CostoInventarioTotal": "$5.000"
   },
   {
@@ -7751,7 +7786,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504094,
-    "Stock": 423,
+    "Stock": 419,
     "CostoInventarioTotal": "$5.273"
   },
   {
@@ -7791,12 +7826,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504108,
-    "Stock": 319,
+    "Stock": 321,
     "CostoInventarioTotal": "$6.793"
   },
   {
     "codigoSAP": 504109,
-    "Stock": 95,
+    "Stock": 97,
     "CostoInventarioTotal": "$1.954"
   },
   {
@@ -7813,6 +7848,11 @@ const stock1506Data = [
     "codigoSAP": 504114,
     "Stock": 107,
     "CostoInventarioTotal": "$4.962"
+  },
+  {
+    "codigoSAP": 504115,
+    "Stock": 4,
+    "CostoInventarioTotal": "$21.400"
   },
   {
     "codigoSAP": 504116,
@@ -7836,7 +7876,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504121,
-    "Stock": 14,
+    "Stock": 12,
     "CostoInventarioTotal": "$9.900"
   },
   {
@@ -7880,6 +7920,11 @@ const stock1506Data = [
     "CostoInventarioTotal": "$0"
   },
   {
+    "codigoSAP": 504144,
+    "Stock": 1,
+    "CostoInventarioTotal": "$707"
+  },
+  {
     "codigoSAP": 504150,
     "Stock": 14,
     "CostoInventarioTotal": "$100"
@@ -7891,7 +7936,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504155,
-    "Stock": 9,
+    "Stock": 15,
     "CostoInventarioTotal": "$26.567"
   },
   {
@@ -7911,7 +7956,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504161,
-    "Stock": 58,
+    "Stock": 57,
     "CostoInventarioTotal": "$127.713"
   },
   {
@@ -7926,7 +7971,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504166,
-    "Stock": 158,
+    "Stock": 157,
     "CostoInventarioTotal": "$126.232"
   },
   {
@@ -8066,7 +8111,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504213,
-    "Stock": 20,
+    "Stock": 19,
     "CostoInventarioTotal": "$2.961"
   },
   {
@@ -8081,7 +8126,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504219,
-    "Stock": 22,
+    "Stock": 16,
     "CostoInventarioTotal": "$462"
   },
   {
@@ -8211,7 +8256,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504282,
-    "Stock": 15,
+    "Stock": 14,
     "CostoInventarioTotal": "$17.933"
   },
   {
@@ -8266,7 +8311,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504310,
-    "Stock": 93,
+    "Stock": 89,
     "CostoInventarioTotal": "$28.653"
   },
   {
@@ -8286,7 +8331,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504316,
-    "Stock": 34,
+    "Stock": 32,
     "CostoInventarioTotal": "$9.054"
   },
   {
@@ -8296,12 +8341,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504318,
-    "Stock": 11,
-    "CostoInventarioTotal": "$0"
+    "Stock": 9,
+    "CostoInventarioTotal": "$52"
   },
   {
     "codigoSAP": 504319,
-    "Stock": 17,
+    "Stock": 15,
     "CostoInventarioTotal": "$7.294"
   },
   {
@@ -8312,7 +8357,7 @@ const stock1506Data = [
   {
     "codigoSAP": 504321,
     "Stock": 1,
-    "CostoInventarioTotal": "$5.932"
+    "CostoInventarioTotal": "$6.400"
   },
   {
     "codigoSAP": 504322,
@@ -8321,7 +8366,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504324,
-    "Stock": 13,
+    "Stock": 11,
     "CostoInventarioTotal": "$2.750"
   },
   {
@@ -8371,13 +8416,8 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504337,
-    "Stock": 24,
+    "Stock": 23,
     "CostoInventarioTotal": "$64.916"
-  },
-  {
-    "codigoSAP": 504338,
-    "Stock": 1,
-    "CostoInventarioTotal": "$23.421"
   },
   {
     "codigoSAP": 504339,
@@ -8406,7 +8446,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504344,
-    "Stock": 11,
+    "Stock": 10,
     "CostoInventarioTotal": "$4.086"
   },
   {
@@ -8416,8 +8456,8 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504346,
-    "Stock": 64,
-    "CostoInventarioTotal": "$14.907"
+    "Stock": 61,
+    "CostoInventarioTotal": "$15.013"
   },
   {
     "codigoSAP": 504347,
@@ -8441,7 +8481,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504352,
-    "Stock": 15,
+    "Stock": 14,
     "CostoInventarioTotal": "$6.821"
   },
   {
@@ -8521,27 +8561,27 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504423,
-    "Stock": 39,
+    "Stock": 37,
     "CostoInventarioTotal": "$5.436"
   },
   {
     "codigoSAP": 504424,
-    "Stock": 11,
+    "Stock": 10,
     "CostoInventarioTotal": "$6.700"
   },
   {
     "codigoSAP": 504425,
-    "Stock": 22,
+    "Stock": 21,
     "CostoInventarioTotal": "$13.685"
   },
   {
     "codigoSAP": 504426,
-    "Stock": 9,
+    "Stock": 8,
     "CostoInventarioTotal": "$9.277"
   },
   {
     "codigoSAP": 504427,
-    "Stock": 13,
+    "Stock": 11,
     "CostoInventarioTotal": "$4.455"
   },
   {
@@ -8586,7 +8626,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504473,
-    "Stock": 220,
+    "Stock": 214,
     "CostoInventarioTotal": "$18.565"
   },
   {
@@ -8601,17 +8641,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504476,
-    "Stock": 57,
+    "Stock": 96,
     "CostoInventarioTotal": "$3.788"
   },
   {
-    "codigoSAP": 504477,
-    "Stock": 1,
-    "CostoInventarioTotal": "$3.102"
-  },
-  {
     "codigoSAP": 504480,
-    "Stock": 242,
+    "Stock": 244,
     "CostoInventarioTotal": "$4.392"
   },
   {
@@ -8636,12 +8671,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504488,
-    "Stock": 146,
+    "Stock": 136,
     "CostoInventarioTotal": "$14.995"
   },
   {
     "codigoSAP": 504493,
-    "Stock": 13,
+    "Stock": 5,
     "CostoInventarioTotal": "$10.934"
   },
   {
@@ -8671,17 +8706,17 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504510,
-    "Stock": 21,
+    "Stock": 19,
     "CostoInventarioTotal": "$19.300"
   },
   {
     "codigoSAP": 504511,
-    "Stock": 16,
+    "Stock": 11,
     "CostoInventarioTotal": "$5.943"
   },
   {
     "codigoSAP": 504512,
-    "Stock": 3,
+    "Stock": 1,
     "CostoInventarioTotal": "$11.000"
   },
   {
@@ -8696,7 +8731,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504518,
-    "Stock": 39,
+    "Stock": 37,
     "CostoInventarioTotal": "$0"
   },
   {
@@ -8706,7 +8741,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504529,
-    "Stock": 5,
+    "Stock": 3,
     "CostoInventarioTotal": "$0"
   },
   {
@@ -8761,7 +8796,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504555,
-    "Stock": 3,
+    "Stock": 7,
     "CostoInventarioTotal": "$42.847"
   },
   {
@@ -8776,7 +8811,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504559,
-    "Stock": 29,
+    "Stock": 28,
     "CostoInventarioTotal": "$32.632"
   },
   {
@@ -8791,17 +8826,17 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504564,
-    "Stock": 4,
+    "Stock": 42,
     "CostoInventarioTotal": "$21.588"
   },
   {
     "codigoSAP": 504566,
-    "Stock": 69,
+    "Stock": 65,
     "CostoInventarioTotal": "$8.043"
   },
   {
     "codigoSAP": 504567,
-    "Stock": 17,
+    "Stock": 7,
     "CostoInventarioTotal": "$10.416"
   },
   {
@@ -8816,7 +8851,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504574,
-    "Stock": 4,
+    "Stock": 6,
     "CostoInventarioTotal": "$80.008"
   },
   {
@@ -8875,11 +8910,6 @@ const stock1506Data = [
     "CostoInventarioTotal": "$5.211"
   },
   {
-    "codigoSAP": 504588,
-    "Stock": 1,
-    "CostoInventarioTotal": "$12.105"
-  },
-  {
     "codigoSAP": 504590,
     "Stock": 1,
     "CostoInventarioTotal": "$12.737"
@@ -8901,12 +8931,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504598,
-    "Stock": 4,
+    "Stock": 6,
     "CostoInventarioTotal": "$85.704"
   },
   {
     "codigoSAP": 504600,
-    "Stock": 12,
+    "Stock": 9,
     "CostoInventarioTotal": "$10.924"
   },
   {
@@ -8923,11 +8953,6 @@ const stock1506Data = [
     "codigoSAP": 504607,
     "Stock": 5,
     "CostoInventarioTotal": "$3.362"
-  },
-  {
-    "codigoSAP": 504616,
-    "Stock": 1,
-    "CostoInventarioTotal": "$90.368"
   },
   {
     "codigoSAP": 504617,
@@ -8951,8 +8976,8 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504625,
-    "Stock": 2,
-    "CostoInventarioTotal": "$80.862"
+    "Stock": 1,
+    "CostoInventarioTotal": "$80.861"
   },
   {
     "codigoSAP": 504626,
@@ -8961,7 +8986,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504628,
-    "Stock": 14,
+    "Stock": 13,
     "CostoInventarioTotal": "$69.753"
   },
   {
@@ -8996,12 +9021,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504636,
-    "Stock": 12,
+    "Stock": 14,
     "CostoInventarioTotal": "$103.494"
   },
   {
     "codigoSAP": 504637,
-    "Stock": 5,
+    "Stock": 4,
     "CostoInventarioTotal": "$32.648"
   },
   {
@@ -9171,12 +9196,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504723,
-    "Stock": 47,
+    "Stock": 43,
     "CostoInventarioTotal": "$4.928"
   },
   {
     "codigoSAP": 504724,
-    "Stock": 206,
+    "Stock": 106,
     "CostoInventarioTotal": "$14"
   },
   {
@@ -9191,7 +9216,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504728,
-    "Stock": 6,
+    "Stock": 1,
     "CostoInventarioTotal": "$2.499"
   },
   {
@@ -9201,13 +9226,13 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504731,
-    "Stock": 13,
+    "Stock": 10,
     "CostoInventarioTotal": "$8.235"
   },
   {
     "codigoSAP": 504732,
-    "Stock": 13,
-    "CostoInventarioTotal": "$1.084"
+    "Stock": 3,
+    "CostoInventarioTotal": "$1.083"
   },
   {
     "codigoSAP": 504733,
@@ -9226,7 +9251,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504739,
-    "Stock": 28,
+    "Stock": 22,
     "CostoInventarioTotal": "$4.387"
   },
   {
@@ -9251,7 +9276,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504744,
-    "Stock": 8,
+    "Stock": 3,
     "CostoInventarioTotal": "$5.762"
   },
   {
@@ -9261,7 +9286,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504746,
-    "Stock": 4,
+    "Stock": 1,
     "CostoInventarioTotal": "$1.672"
   },
   {
@@ -9281,18 +9306,13 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504750,
-    "Stock": 51,
+    "Stock": 25,
     "CostoInventarioTotal": "$607"
   },
   {
     "codigoSAP": 504751,
     "Stock": 43,
     "CostoInventarioTotal": "$0"
-  },
-  {
-    "codigoSAP": 504753,
-    "Stock": 1,
-    "CostoInventarioTotal": "$3.345"
   },
   {
     "codigoSAP": 504754,
@@ -9306,12 +9326,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504756,
-    "Stock": 3,
+    "Stock": 66,
     "CostoInventarioTotal": "$1.009"
   },
   {
     "codigoSAP": 504757,
-    "Stock": 94,
+    "Stock": 87,
     "CostoInventarioTotal": "$1.799"
   },
   {
@@ -9326,17 +9346,17 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504760,
-    "Stock": 108,
+    "Stock": 98,
     "CostoInventarioTotal": "$11.215"
   },
   {
     "codigoSAP": 504762,
-    "Stock": 20,
+    "Stock": 14,
     "CostoInventarioTotal": "$4.760"
   },
   {
     "codigoSAP": 504763,
-    "Stock": 29,
+    "Stock": 1,
     "CostoInventarioTotal": "$4.690"
   },
   {
@@ -9346,12 +9366,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504765,
-    "Stock": 49,
+    "Stock": 30,
     "CostoInventarioTotal": "$10.736"
   },
   {
     "codigoSAP": 504766,
-    "Stock": 9,
+    "Stock": 7,
     "CostoInventarioTotal": "$2.513"
   },
   {
@@ -9361,7 +9381,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504768,
-    "Stock": 7,
+    "Stock": 2,
     "CostoInventarioTotal": "$0"
   },
   {
@@ -9386,12 +9406,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504774,
-    "Stock": 194,
+    "Stock": 192,
     "CostoInventarioTotal": "$2.450"
   },
   {
     "codigoSAP": 504775,
-    "Stock": 14,
+    "Stock": 11,
     "CostoInventarioTotal": "$5.587"
   },
   {
@@ -9401,28 +9421,23 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504777,
-    "Stock": 5,
+    "Stock": 3,
     "CostoInventarioTotal": "$849"
   },
   {
     "codigoSAP": 504778,
-    "Stock": 3,
-    "CostoInventarioTotal": "$140.981"
+    "Stock": 2,
+    "CostoInventarioTotal": "$140.982"
   },
   {
     "codigoSAP": 504779,
-    "Stock": 26,
+    "Stock": 24,
     "CostoInventarioTotal": "$1.710"
   },
   {
-    "codigoSAP": 504780,
-    "Stock": 3,
-    "CostoInventarioTotal": "$1.911"
-  },
-  {
     "codigoSAP": 504781,
-    "Stock": 3,
-    "CostoInventarioTotal": "$24.365"
+    "Stock": 21,
+    "CostoInventarioTotal": "$15.319"
   },
   {
     "codigoSAP": 504782,
@@ -9441,17 +9456,17 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504787,
-    "Stock": 13,
+    "Stock": 12,
     "CostoInventarioTotal": "$0"
   },
   {
     "codigoSAP": 504790,
-    "Stock": 72,
+    "Stock": 57,
     "CostoInventarioTotal": "$3.394"
   },
   {
     "codigoSAP": 504794,
-    "Stock": 64,
+    "Stock": 39,
     "CostoInventarioTotal": "$3.302"
   },
   {
@@ -9461,12 +9476,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504796,
-    "Stock": 32,
+    "Stock": 29,
     "CostoInventarioTotal": "$31.940"
   },
   {
     "codigoSAP": 504797,
-    "Stock": 11,
+    "Stock": 37,
     "CostoInventarioTotal": "$45.769"
   },
   {
@@ -9476,17 +9491,17 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504801,
-    "Stock": 285,
+    "Stock": 281,
     "CostoInventarioTotal": "$680"
   },
   {
     "codigoSAP": 504802,
-    "Stock": 51,
+    "Stock": 49,
     "CostoInventarioTotal": "$860"
   },
   {
     "codigoSAP": 504803,
-    "Stock": 25,
+    "Stock": 23,
     "CostoInventarioTotal": "$4.840"
   },
   {
@@ -9496,12 +9511,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504808,
-    "Stock": 21,
+    "Stock": 20,
     "CostoInventarioTotal": "$5.000"
   },
   {
     "codigoSAP": 504811,
-    "Stock": 7,
+    "Stock": 5,
     "CostoInventarioTotal": "$1.681"
   },
   {
@@ -9511,12 +9526,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504813,
-    "Stock": 6,
+    "Stock": 3,
     "CostoInventarioTotal": "$571"
   },
   {
     "codigoSAP": 504814,
-    "Stock": 50,
+    "Stock": 40,
     "CostoInventarioTotal": "$2.460"
   },
   {
@@ -9566,7 +9581,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504824,
-    "Stock": 137,
+    "Stock": 117,
     "CostoInventarioTotal": "$3.374"
   },
   {
@@ -9576,13 +9591,13 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504826,
-    "Stock": 30,
+    "Stock": 27,
     "CostoInventarioTotal": "$3.490"
   },
   {
     "codigoSAP": 504827,
-    "Stock": 27,
-    "CostoInventarioTotal": "$3.486"
+    "Stock": 24,
+    "CostoInventarioTotal": "$3.487"
   },
   {
     "codigoSAP": 504828,
@@ -9597,7 +9612,7 @@ const stock1506Data = [
   {
     "codigoSAP": 504830,
     "Stock": 100,
-    "CostoInventarioTotal": "$12.953"
+    "CostoInventarioTotal": "$12.952"
   },
   {
     "codigoSAP": 504831,
@@ -9621,27 +9636,27 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504835,
-    "Stock": 21,
+    "Stock": 19,
     "CostoInventarioTotal": "$6.215"
   },
   {
     "codigoSAP": 504836,
-    "Stock": 4,
+    "Stock": 1,
     "CostoInventarioTotal": "$2.260"
   },
   {
     "codigoSAP": 504837,
-    "Stock": 51,
+    "Stock": 34,
     "CostoInventarioTotal": "$803"
   },
   {
     "codigoSAP": 504838,
-    "Stock": 9,
+    "Stock": 7,
     "CostoInventarioTotal": "$14.970"
   },
   {
     "codigoSAP": 504839,
-    "Stock": 143,
+    "Stock": 139,
     "CostoInventarioTotal": "$244"
   },
   {
@@ -9651,18 +9666,13 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504841,
-    "Stock": 56,
+    "Stock": 48,
     "CostoInventarioTotal": "$840"
   },
   {
     "codigoSAP": 504842,
     "Stock": 19,
     "CostoInventarioTotal": "$1.397"
-  },
-  {
-    "codigoSAP": 504843,
-    "Stock": 9,
-    "CostoInventarioTotal": "$2.260"
   },
   {
     "codigoSAP": 504844,
@@ -9701,7 +9711,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504855,
-    "Stock": 38,
+    "Stock": 21,
     "CostoInventarioTotal": "$1.636"
   },
   {
@@ -9736,7 +9746,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504862,
-    "Stock": 177,
+    "Stock": 173,
     "CostoInventarioTotal": "$2.549"
   },
   {
@@ -9756,7 +9766,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504870,
-    "Stock": 10,
+    "Stock": 6,
     "CostoInventarioTotal": "$9.290"
   },
   {
@@ -9796,8 +9806,8 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504880,
-    "Stock": 2,
-    "CostoInventarioTotal": "$2.513"
+    "Stock": 1,
+    "CostoInventarioTotal": "$2.512"
   },
   {
     "codigoSAP": 504881,
@@ -9816,7 +9826,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504884,
-    "Stock": 1553,
+    "Stock": 1453,
     "CostoInventarioTotal": "$14"
   },
   {
@@ -9836,12 +9846,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504895,
-    "Stock": 5,
+    "Stock": 3,
     "CostoInventarioTotal": "$9.234"
   },
   {
     "codigoSAP": 504896,
-    "Stock": 34,
+    "Stock": 32,
     "CostoInventarioTotal": "$16.759"
   },
   {
@@ -9951,7 +9961,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504942,
-    "Stock": 196,
+    "Stock": 96,
     "CostoInventarioTotal": "$39"
   },
   {
@@ -9971,7 +9981,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504949,
-    "Stock": 35,
+    "Stock": 25,
     "CostoInventarioTotal": "$1.460"
   },
   {
@@ -9981,12 +9991,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504951,
-    "Stock": 36,
+    "Stock": 26,
     "CostoInventarioTotal": "$1.504"
   },
   {
     "codigoSAP": 504953,
-    "Stock": 18,
+    "Stock": 10,
     "CostoInventarioTotal": "$3.069"
   },
   {
@@ -10036,13 +10046,8 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504973,
-    "Stock": 30,
+    "Stock": 27,
     "CostoInventarioTotal": "$6.500"
-  },
-  {
-    "codigoSAP": 504976,
-    "Stock": 1,
-    "CostoInventarioTotal": "$28.152"
   },
   {
     "codigoSAP": 504977,
@@ -10066,7 +10071,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504981,
-    "Stock": 520,
+    "Stock": 420,
     "CostoInventarioTotal": "$27"
   },
   {
@@ -10076,8 +10081,8 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 504988,
-    "Stock": 8,
-    "CostoInventarioTotal": "$3.385"
+    "Stock": 38,
+    "CostoInventarioTotal": "$2.241"
   },
   {
     "codigoSAP": 504992,
@@ -10116,7 +10121,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 505002,
-    "Stock": 12,
+    "Stock": 112,
     "CostoInventarioTotal": "$2.200"
   },
   {
@@ -10181,7 +10186,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 505031,
-    "Stock": 10,
+    "Stock": 9,
     "CostoInventarioTotal": "$20.169"
   },
   {
@@ -10191,7 +10196,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 505034,
-    "Stock": 10,
+    "Stock": 8,
     "CostoInventarioTotal": "$5.381"
   },
   {
@@ -10201,7 +10206,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 505037,
-    "Stock": 92,
+    "Stock": 108,
     "CostoInventarioTotal": "$884"
   },
   {
@@ -10226,18 +10231,18 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 505053,
-    "Stock": 8,
+    "Stock": 7,
     "CostoInventarioTotal": "$3.704"
   },
   {
     "codigoSAP": 505054,
-    "Stock": 589,
+    "Stock": 588,
     "CostoInventarioTotal": "$975"
   },
   {
     "codigoSAP": 505055,
-    "Stock": 52,
-    "CostoInventarioTotal": "$64"
+    "Stock": 152,
+    "CostoInventarioTotal": "$759"
   },
   {
     "codigoSAP": 505056,
@@ -10271,7 +10276,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 505077,
-    "Stock": 21,
+    "Stock": 13,
     "CostoInventarioTotal": "$18.156"
   },
   {
@@ -10321,7 +10326,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 505103,
-    "Stock": 3,
+    "Stock": 1,
     "CostoInventarioTotal": "$0"
   },
   {
@@ -10356,7 +10361,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 505118,
-    "Stock": 10,
+    "Stock": 19,
     "CostoInventarioTotal": "$55.042"
   },
   {
@@ -10485,13 +10490,8 @@ const stock1506Data = [
     "CostoInventarioTotal": "$25.506"
   },
   {
-    "codigoSAP": 505170,
-    "Stock": 106,
-    "CostoInventarioTotal": "$16.997"
-  },
-  {
     "codigoSAP": 505172,
-    "Stock": 2,
+    "Stock": 1,
     "CostoInventarioTotal": "$48.609"
   },
   {
@@ -10520,6 +10520,11 @@ const stock1506Data = [
     "CostoInventarioTotal": "$2.985"
   },
   {
+    "codigoSAP": 505195,
+    "Stock": 2,
+    "CostoInventarioTotal": "$100"
+  },
+  {
     "codigoSAP": 505196,
     "Stock": 33,
     "CostoInventarioTotal": "$5.445"
@@ -10533,6 +10538,11 @@ const stock1506Data = [
     "codigoSAP": 505199,
     "Stock": 1,
     "CostoInventarioTotal": "$0"
+  },
+  {
+    "codigoSAP": 505210,
+    "Stock": 3,
+    "CostoInventarioTotal": "$982"
   },
   {
     "codigoSAP": 505211,
@@ -10606,7 +10616,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 505259,
-    "Stock": 8,
+    "Stock": 6,
     "CostoInventarioTotal": "$4.202"
   },
   {
@@ -10652,7 +10662,7 @@ const stock1506Data = [
   {
     "codigoSAP": 505284,
     "Stock": 2,
-    "CostoInventarioTotal": "$54.044"
+    "CostoInventarioTotal": "$43.514"
   },
   {
     "codigoSAP": 505285,
@@ -10741,7 +10751,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 505350,
-    "Stock": 10,
+    "Stock": 7,
     "CostoInventarioTotal": "$54.329"
   },
   {
@@ -10761,7 +10771,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 505369,
-    "Stock": 1,
+    "Stock": 74,
     "CostoInventarioTotal": "$4.347"
   },
   {
@@ -10836,8 +10846,8 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 505397,
-    "Stock": 5,
-    "CostoInventarioTotal": "$5.737"
+    "Stock": 4,
+    "CostoInventarioTotal": "$5.738"
   },
   {
     "codigoSAP": 505400,
@@ -10848,16 +10858,6 @@ const stock1506Data = [
     "codigoSAP": 505402,
     "Stock": 17,
     "CostoInventarioTotal": "$10.799"
-  },
-  {
-    "codigoSAP": 505404,
-    "Stock": 7,
-    "CostoInventarioTotal": "$18.800"
-  },
-  {
-    "codigoSAP": 505406,
-    "Stock": 8,
-    "CostoInventarioTotal": "$13.262"
   },
   {
     "codigoSAP": 505410,
@@ -11002,7 +11002,7 @@ const stock1506Data = [
   {
     "codigoSAP": 505489,
     "Stock": 2,
-    "CostoInventarioTotal": "$88.997"
+    "CostoInventarioTotal": "$78.468"
   },
   {
     "codigoSAP": 505490,
@@ -11126,8 +11126,8 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 505554,
-    "Stock": 3,
-    "CostoInventarioTotal": "$21.323"
+    "Stock": 6,
+    "CostoInventarioTotal": "$32.752"
   },
   {
     "codigoSAP": 505555,
@@ -11166,7 +11166,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 505574,
-    "Stock": 11,
+    "Stock": 1,
     "CostoInventarioTotal": "$3.353"
   },
   {
@@ -11241,7 +11241,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 505617,
-    "Stock": 7,
+    "Stock": 6,
     "CostoInventarioTotal": "$422.150"
   },
   {
@@ -11273,6 +11273,11 @@ const stock1506Data = [
     "codigoSAP": 505625,
     "Stock": 5,
     "CostoInventarioTotal": "$10.105"
+  },
+  {
+    "codigoSAP": 505630,
+    "Stock": 10,
+    "CostoInventarioTotal": "$0"
   },
   {
     "codigoSAP": 505633,
@@ -11357,7 +11362,7 @@ const stock1506Data = [
   {
     "codigoSAP": 505678,
     "Stock": 3,
-    "CostoInventarioTotal": "$81.906"
+    "CostoInventarioTotal": "$81.924"
   },
   {
     "codigoSAP": 505680,
@@ -11421,7 +11426,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 505721,
-    "Stock": 25,
+    "Stock": 100,
     "CostoInventarioTotal": "$5.153"
   },
   {
@@ -11461,7 +11466,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 505733,
-    "Stock": 6,
+    "Stock": 4,
     "CostoInventarioTotal": "$48.268"
   },
   {
@@ -11488,11 +11493,6 @@ const stock1506Data = [
     "codigoSAP": 505741,
     "Stock": 8,
     "CostoInventarioTotal": "$581"
-  },
-  {
-    "codigoSAP": 505744,
-    "Stock": 3,
-    "CostoInventarioTotal": "$134.161"
   },
   {
     "codigoSAP": 505746,
@@ -11631,7 +11631,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 505838,
-    "Stock": 5,
+    "Stock": 3,
     "CostoInventarioTotal": "$47.672"
   },
   {
@@ -11682,7 +11682,7 @@ const stock1506Data = [
   {
     "codigoSAP": 505860,
     "Stock": 1,
-    "CostoInventarioTotal": "$260.048"
+    "CostoInventarioTotal": "$249.522"
   },
   {
     "codigoSAP": 505861,
@@ -11810,6 +11810,11 @@ const stock1506Data = [
     "CostoInventarioTotal": "$0"
   },
   {
+    "codigoSAP": 505929,
+    "Stock": 2,
+    "CostoInventarioTotal": "$2.986"
+  },
+  {
     "codigoSAP": 505930,
     "Stock": 1,
     "CostoInventarioTotal": "$30.339"
@@ -11822,7 +11827,7 @@ const stock1506Data = [
   {
     "codigoSAP": 505934,
     "Stock": 8,
-    "CostoInventarioTotal": "$82.894"
+    "CostoInventarioTotal": "$82.901"
   },
   {
     "codigoSAP": 505939,
@@ -11866,7 +11871,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 505979,
-    "Stock": 12,
+    "Stock": 11,
     "CostoInventarioTotal": "$51.926"
   },
   {
@@ -11893,6 +11898,11 @@ const stock1506Data = [
     "codigoSAP": 506004,
     "Stock": 13,
     "CostoInventarioTotal": "$10.061"
+  },
+  {
+    "codigoSAP": 506029,
+    "Stock": 1,
+    "CostoInventarioTotal": "$934.314"
   },
   {
     "codigoSAP": 506030,
@@ -12005,11 +12015,6 @@ const stock1506Data = [
     "CostoInventarioTotal": "$0"
   },
   {
-    "codigoSAP": 506120,
-    "Stock": 5,
-    "CostoInventarioTotal": "$21.558"
-  },
-  {
     "codigoSAP": 506124,
     "Stock": 4,
     "CostoInventarioTotal": "$1.938"
@@ -12040,14 +12045,14 @@ const stock1506Data = [
     "CostoInventarioTotal": "$0"
   },
   {
-    "codigoSAP": 506136,
-    "Stock": 1,
-    "CostoInventarioTotal": "$0"
-  },
-  {
     "codigoSAP": 506138,
     "Stock": 18,
     "CostoInventarioTotal": "$0"
+  },
+  {
+    "codigoSAP": 506141,
+    "Stock": 1,
+    "CostoInventarioTotal": "$13"
   },
   {
     "codigoSAP": 506144,
@@ -12081,7 +12086,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 506158,
-    "Stock": 20,
+    "Stock": 21,
     "CostoInventarioTotal": "$32.329"
   },
   {
@@ -12150,18 +12155,13 @@ const stock1506Data = [
     "CostoInventarioTotal": "$54.512"
   },
   {
-    "codigoSAP": 506247,
-    "Stock": 286,
-    "CostoInventarioTotal": "$0"
-  },
-  {
     "codigoSAP": 506248,
     "Stock": 4,
     "CostoInventarioTotal": "$935"
   },
   {
     "codigoSAP": 506249,
-    "Stock": 5,
+    "Stock": 4,
     "CostoInventarioTotal": "$6.163"
   },
   {
@@ -12211,7 +12211,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 506274,
-    "Stock": 21,
+    "Stock": 19,
     "CostoInventarioTotal": "$23.997"
   },
   {
@@ -12271,7 +12271,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 506315,
-    "Stock": 2242,
+    "Stock": 1742,
     "CostoInventarioTotal": "$180"
   },
   {
@@ -12322,11 +12322,11 @@ const stock1506Data = [
   {
     "codigoSAP": 506348,
     "Stock": 1,
-    "CostoInventarioTotal": "$17.438"
+    "CostoInventarioTotal": "$43.706"
   },
   {
     "codigoSAP": 506352,
-    "Stock": 1500,
+    "Stock": 1400,
     "CostoInventarioTotal": "$36"
   },
   {
@@ -12428,6 +12428,16 @@ const stock1506Data = [
     "codigoSAP": 506416,
     "Stock": 1,
     "CostoInventarioTotal": "$200"
+  },
+  {
+    "codigoSAP": 506417,
+    "Stock": 3,
+    "CostoInventarioTotal": "$410"
+  },
+  {
+    "codigoSAP": 506437,
+    "Stock": 6,
+    "CostoInventarioTotal": "$0"
   },
   {
     "codigoSAP": 506464,
@@ -12578,6 +12588,16 @@ const stock1506Data = [
     "codigoSAP": 506649,
     "Stock": 21,
     "CostoInventarioTotal": "$2.206"
+  },
+  {
+    "codigoSAP": 506657,
+    "Stock": 1,
+    "CostoInventarioTotal": "$0"
+  },
+  {
+    "codigoSAP": 506659,
+    "Stock": 1,
+    "CostoInventarioTotal": "$0"
   },
   {
     "codigoSAP": 506691,
@@ -12742,11 +12762,11 @@ const stock1506Data = [
   {
     "codigoSAP": 506938,
     "Stock": 8,
-    "CostoInventarioTotal": "$39.881"
+    "CostoInventarioTotal": "$39.901"
   },
   {
     "codigoSAP": 506953,
-    "Stock": 8,
+    "Stock": 11,
     "CostoInventarioTotal": "$2.782"
   },
   {
@@ -12845,8 +12865,13 @@ const stock1506Data = [
     "CostoInventarioTotal": "$3.627"
   },
   {
+    "codigoSAP": 507006,
+    "Stock": 10,
+    "CostoInventarioTotal": "$4.048"
+  },
+  {
     "codigoSAP": 507007,
-    "Stock": 12,
+    "Stock": 8,
     "CostoInventarioTotal": "$558"
   },
   {
@@ -12890,14 +12915,9 @@ const stock1506Data = [
     "CostoInventarioTotal": "$6.028"
   },
   {
-    "codigoSAP": 507024,
-    "Stock": 4,
-    "CostoInventarioTotal": "$87.077"
-  },
-  {
     "codigoSAP": 507026,
-    "Stock": 8,
-    "CostoInventarioTotal": "$4.314"
+    "Stock": 7,
+    "CostoInventarioTotal": "$4.313"
   },
   {
     "codigoSAP": 507028,
@@ -12971,7 +12991,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 507057,
-    "Stock": 5,
+    "Stock": 7,
     "CostoInventarioTotal": "$15.341"
   },
   {
@@ -13008,11 +13028,6 @@ const stock1506Data = [
     "codigoSAP": 507070,
     "Stock": 6,
     "CostoInventarioTotal": "$148.927"
-  },
-  {
-    "codigoSAP": 507071,
-    "Stock": 6,
-    "CostoInventarioTotal": "$147.257"
   },
   {
     "codigoSAP": 507072,
@@ -13181,7 +13196,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 507125,
-    "Stock": 2,
+    "Stock": 3,
     "CostoInventarioTotal": "$113.413"
   },
   {
@@ -13206,7 +13221,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 507132,
-    "Stock": 10,
+    "Stock": 8,
     "CostoInventarioTotal": "$9.247"
   },
   {
@@ -13226,7 +13241,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 507136,
-    "Stock": 8,
+    "Stock": 6,
     "CostoInventarioTotal": "$18.557"
   },
   {
@@ -13246,8 +13261,13 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 507140,
-    "Stock": 112,
+    "Stock": 108,
     "CostoInventarioTotal": "$4.171"
+  },
+  {
+    "codigoSAP": 507141,
+    "Stock": 1,
+    "CostoInventarioTotal": "$297.168"
   },
   {
     "codigoSAP": 507142,
@@ -13322,7 +13342,7 @@ const stock1506Data = [
   {
     "codigoSAP": 507165,
     "Stock": 3,
-    "CostoInventarioTotal": "$59.615"
+    "CostoInventarioTotal": "$59.621"
   },
   {
     "codigoSAP": 507197,
@@ -13475,11 +13495,6 @@ const stock1506Data = [
     "CostoInventarioTotal": "$9.974"
   },
   {
-    "codigoSAP": 507427,
-    "Stock": 5,
-    "CostoInventarioTotal": "$27.004"
-  },
-  {
     "codigoSAP": 507430,
     "Stock": 2,
     "CostoInventarioTotal": "$37.192"
@@ -13611,8 +13626,8 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 507507,
-    "Stock": 2,
-    "CostoInventarioTotal": "$199.986"
+    "Stock": 1,
+    "CostoInventarioTotal": "$199.985"
   },
   {
     "codigoSAP": 507508,
@@ -13668,11 +13683,6 @@ const stock1506Data = [
     "codigoSAP": 507520,
     "Stock": 1,
     "CostoInventarioTotal": "$91.652"
-  },
-  {
-    "codigoSAP": 507521,
-    "Stock": 1,
-    "CostoInventarioTotal": "$45.445"
   },
   {
     "codigoSAP": 507526,
@@ -13732,7 +13742,7 @@ const stock1506Data = [
   {
     "codigoSAP": 507551,
     "Stock": 1,
-    "CostoInventarioTotal": "$54.598"
+    "CostoInventarioTotal": "$54.643"
   },
   {
     "codigoSAP": 507557,
@@ -13746,7 +13756,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 507560,
-    "Stock": 12500,
+    "Stock": 11280,
     "CostoInventarioTotal": "$234"
   },
   {
@@ -13786,8 +13796,8 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 507579,
-    "Stock": 6,
-    "CostoInventarioTotal": "$66.580"
+    "Stock": 5,
+    "CostoInventarioTotal": "$66.579"
   },
   {
     "codigoSAP": 507582,
@@ -13818,11 +13828,6 @@ const stock1506Data = [
     "codigoSAP": 507592,
     "Stock": 10,
     "CostoInventarioTotal": "$3.660"
-  },
-  {
-    "codigoSAP": 507594,
-    "Stock": 1,
-    "CostoInventarioTotal": "$530.035"
   },
   {
     "codigoSAP": 507605,
@@ -13966,7 +13971,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 507661,
-    "Stock": 16,
+    "Stock": 14,
     "CostoInventarioTotal": "$72.601"
   },
   {
@@ -13976,7 +13981,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 507663,
-    "Stock": 156,
+    "Stock": 151,
     "CostoInventarioTotal": "$4.763"
   },
   {
@@ -14051,7 +14056,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 507691,
-    "Stock": 13,
+    "Stock": 12,
     "CostoInventarioTotal": "$14.377"
   },
   {
@@ -14125,6 +14130,11 @@ const stock1506Data = [
     "CostoInventarioTotal": "$35.308"
   },
   {
+    "codigoSAP": 507729,
+    "Stock": 10,
+    "CostoInventarioTotal": "$1.964"
+  },
+  {
     "codigoSAP": 507731,
     "Stock": 17,
     "CostoInventarioTotal": "$5.598"
@@ -14170,13 +14180,18 @@ const stock1506Data = [
     "CostoInventarioTotal": "$0"
   },
   {
+    "codigoSAP": 507764,
+    "Stock": 2,
+    "CostoInventarioTotal": "$0"
+  },
+  {
     "codigoSAP": 507765,
     "Stock": 83,
     "CostoInventarioTotal": "$0"
   },
   {
     "codigoSAP": 507766,
-    "Stock": 48,
+    "Stock": 47,
     "CostoInventarioTotal": "$0"
   },
   {
@@ -14246,7 +14261,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 507793,
-    "Stock": 3,
+    "Stock": 2,
     "CostoInventarioTotal": "$0"
   },
   {
@@ -14331,7 +14346,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 507812,
-    "Stock": 73,
+    "Stock": 72,
     "CostoInventarioTotal": "$17.339"
   },
   {
@@ -15051,17 +15066,17 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 508064,
-    "Stock": 10,
+    "Stock": 5,
     "CostoInventarioTotal": "$968"
   },
   {
     "codigoSAP": 508065,
-    "Stock": 13,
+    "Stock": 9,
     "CostoInventarioTotal": "$28.597"
   },
   {
     "codigoSAP": 508066,
-    "Stock": 12,
+    "Stock": 10,
     "CostoInventarioTotal": "$32.262"
   },
   {
@@ -15070,9 +15085,9 @@ const stock1506Data = [
     "CostoInventarioTotal": "$15.917"
   },
   {
-    "codigoSAP": 508068,
+    "codigoSAP": 508069,
     "Stock": 5,
-    "CostoInventarioTotal": "$50.643"
+    "CostoInventarioTotal": "$50.634"
   },
   {
     "codigoSAP": 508070,
@@ -15196,7 +15211,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 508111,
-    "Stock": 2,
+    "Stock": 3,
     "CostoInventarioTotal": "$0"
   },
   {
@@ -15251,7 +15266,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 508124,
-    "Stock": 6,
+    "Stock": 5,
     "CostoInventarioTotal": "$72.912"
   },
   {
@@ -15271,7 +15286,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 508128,
-    "Stock": 4,
+    "Stock": 2,
     "CostoInventarioTotal": "$108.225"
   },
   {
@@ -15310,18 +15325,8 @@ const stock1506Data = [
     "CostoInventarioTotal": "$176.829"
   },
   {
-    "codigoSAP": 508139,
-    "Stock": 1,
-    "CostoInventarioTotal": "$168.851"
-  },
-  {
-    "codigoSAP": 508140,
-    "Stock": 1,
-    "CostoInventarioTotal": "$252.876"
-  },
-  {
     "codigoSAP": 508141,
-    "Stock": 1,
+    "Stock": 7,
     "CostoInventarioTotal": "$279.845"
   },
   {
@@ -15338,11 +15343,6 @@ const stock1506Data = [
     "codigoSAP": 508145,
     "Stock": 4,
     "CostoInventarioTotal": "$273.441"
-  },
-  {
-    "codigoSAP": 508146,
-    "Stock": 1,
-    "CostoInventarioTotal": "$396.465"
   },
   {
     "codigoSAP": 508147,
@@ -15916,8 +15916,8 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 508271,
-    "Stock": 3,
-    "CostoInventarioTotal": "$14.712"
+    "Stock": 2,
+    "CostoInventarioTotal": "$14.713"
   },
   {
     "codigoSAP": 508272,
@@ -16096,7 +16096,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 508311,
-    "Stock": 2,
+    "Stock": 4,
     "CostoInventarioTotal": "$279.390"
   },
   {
@@ -16116,7 +16116,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 508315,
-    "Stock": 2,
+    "Stock": 4,
     "CostoInventarioTotal": "$40.733"
   },
   {
@@ -16543,6 +16543,11 @@ const stock1506Data = [
     "codigoSAP": 508458,
     "Stock": 1,
     "CostoInventarioTotal": "$1.361.227"
+  },
+  {
+    "codigoSAP": 508459,
+    "Stock": 15,
+    "CostoInventarioTotal": "$2.076"
   },
   {
     "codigoSAP": 508460,
@@ -16992,7 +16997,7 @@ const stock1506Data = [
   {
     "codigoSAP": 508694,
     "Stock": 4,
-    "CostoInventarioTotal": "$8.384"
+    "CostoInventarioTotal": "$8.437"
   },
   {
     "codigoSAP": 508697,
@@ -17062,7 +17067,7 @@ const stock1506Data = [
   {
     "codigoSAP": 508719,
     "Stock": 2,
-    "CostoInventarioTotal": "$120.714"
+    "CostoInventarioTotal": "$120.793"
   },
   {
     "codigoSAP": 508720,
@@ -17086,7 +17091,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 508728,
-    "Stock": 18,
+    "Stock": 17,
     "CostoInventarioTotal": "$4.552"
   },
   {
@@ -17126,7 +17131,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 508745,
-    "Stock": 4,
+    "Stock": 2,
     "CostoInventarioTotal": "$2.513"
   },
   {
@@ -17360,11 +17365,6 @@ const stock1506Data = [
     "CostoInventarioTotal": "$31.798"
   },
   {
-    "codigoSAP": 508796,
-    "Stock": 3,
-    "CostoInventarioTotal": "$572.439"
-  },
-  {
     "codigoSAP": 508797,
     "Stock": 5,
     "CostoInventarioTotal": "$12.181"
@@ -17441,12 +17441,12 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 508815,
-    "Stock": 53,
+    "Stock": 51,
     "CostoInventarioTotal": "$72.063"
   },
   {
     "codigoSAP": 508816,
-    "Stock": 52,
+    "Stock": 51,
     "CostoInventarioTotal": "$67.907"
   },
   {
@@ -17620,11 +17620,6 @@ const stock1506Data = [
     "CostoInventarioTotal": "$149.103"
   },
   {
-    "codigoSAP": 508882,
-    "Stock": 1,
-    "CostoInventarioTotal": "$502.359"
-  },
-  {
     "codigoSAP": 508885,
     "Stock": 5,
     "CostoInventarioTotal": "$60.128"
@@ -17633,11 +17628,6 @@ const stock1506Data = [
     "codigoSAP": 508887,
     "Stock": 300,
     "CostoInventarioTotal": "$61.112"
-  },
-  {
-    "codigoSAP": 508888,
-    "Stock": 1,
-    "CostoInventarioTotal": "$164.982"
   },
   {
     "codigoSAP": 508890,
@@ -17658,11 +17648,6 @@ const stock1506Data = [
     "codigoSAP": 508894,
     "Stock": 1,
     "CostoInventarioTotal": "$203.788"
-  },
-  {
-    "codigoSAP": 508896,
-    "Stock": 1,
-    "CostoInventarioTotal": "$42.271"
   },
   {
     "codigoSAP": 508901,
@@ -18311,7 +18296,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 509062,
-    "Stock": 7,
+    "Stock": 5,
     "CostoInventarioTotal": "$126.257"
   },
   {
@@ -18632,7 +18617,7 @@ const stock1506Data = [
   {
     "codigoSAP": 509144,
     "Stock": 3,
-    "CostoInventarioTotal": "$65.168"
+    "CostoInventarioTotal": "$65.183"
   },
   {
     "codigoSAP": 509145,
@@ -18675,13 +18660,8 @@ const stock1506Data = [
     "CostoInventarioTotal": "$13.431"
   },
   {
-    "codigoSAP": 509154,
-    "Stock": 1,
-    "CostoInventarioTotal": "$40.425"
-  },
-  {
     "codigoSAP": 509155,
-    "Stock": 1,
+    "Stock": 2,
     "CostoInventarioTotal": "$138.038"
   },
   {
@@ -18910,13 +18890,8 @@ const stock1506Data = [
     "CostoInventarioTotal": "$32.249"
   },
   {
-    "codigoSAP": 509269,
-    "Stock": 3,
-    "CostoInventarioTotal": "$0"
-  },
-  {
     "codigoSAP": 509270,
-    "Stock": 5,
+    "Stock": 8,
     "CostoInventarioTotal": "$0"
   },
   {
@@ -18992,32 +18967,32 @@ const stock1506Data = [
   {
     "codigoSAP": 509305,
     "Stock": 2,
-    "CostoInventarioTotal": "26265,5"
+    "CostoInventarioTotal": "$15.147"
   },
   {
     "codigoSAP": 509309,
     "Stock": 2,
-    "CostoInventarioTotal": "86816"
+    "CostoInventarioTotal": "$75.696"
   },
   {
     "codigoSAP": 509310,
     "Stock": 4,
-    "CostoInventarioTotal": "19972"
+    "CostoInventarioTotal": "$8.850"
   },
   {
     "codigoSAP": 509312,
     "Stock": 2,
-    "CostoInventarioTotal": "$54.115"
+    "CostoInventarioTotal": "$42.995"
   },
   {
     "codigoSAP": 509313,
     "Stock": 2,
-    "CostoInventarioTotal": "32317,5"
+    "CostoInventarioTotal": "$21.199"
   },
   {
     "codigoSAP": 509315,
     "Stock": 1,
-    "CostoInventarioTotal": "$20.932"
+    "CostoInventarioTotal": "$9.816"
   },
   {
     "codigoSAP": 509319,
@@ -19052,7 +19027,7 @@ const stock1506Data = [
   {
     "codigoSAP": 509333,
     "Stock": 2,
-    "CostoInventarioTotal": "32447"
+    "CostoInventarioTotal": "$32.447"
   },
   {
     "codigoSAP": 509334,
@@ -19077,6 +19052,11 @@ const stock1506Data = [
   {
     "codigoSAP": 509348,
     "Stock": 6,
+    "CostoInventarioTotal": "$0"
+  },
+  {
+    "codigoSAP": 509350,
+    "Stock": 1,
     "CostoInventarioTotal": "$0"
   },
   {
@@ -19121,7 +19101,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 509418,
-    "Stock": 12,
+    "Stock": 14,
     "CostoInventarioTotal": "$0"
   },
   {
@@ -19136,7 +19116,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 509422,
-    "Stock": 25,
+    "Stock": 24,
     "CostoInventarioTotal": "$0"
   },
   {
@@ -19171,7 +19151,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 509444,
-    "Stock": 12,
+    "Stock": 11,
     "CostoInventarioTotal": "$8.389"
   },
   {
@@ -19186,7 +19166,7 @@ const stock1506Data = [
   },
   {
     "codigoSAP": 509462,
-    "Stock": 4,
+    "Stock": 2,
     "CostoInventarioTotal": "$0"
   },
   {

@@ -3165,6 +3165,30 @@ const datosDespiece = [
     "codigoFabrica": "0400197",
     "codigoSAP": 500318,
     "cantidad": 1,
+    "modelo": "MBF8501CL65C"
+  },
+  {
+    "codigoFabrica": "0400197",
+    "codigoSAP": 500318,
+    "cantidad": 1,
+    "modelo": "MGF8406CL65C"
+  },
+  {
+    "codigoFabrica": "0400197",
+    "codigoSAP": 500318,
+    "cantidad": 1,
+    "modelo": "MGF8407CL65C"
+  },
+  {
+    "codigoFabrica": "0400197",
+    "codigoSAP": 500318,
+    "cantidad": 1,
+    "modelo": "MGF8413CL65C"
+  },
+  {
+    "codigoFabrica": "0400197",
+    "codigoSAP": 500318,
+    "cantidad": 1,
     "modelo": "VF1PS-700V"
   },
   {
@@ -3202,6 +3226,12 @@ const datosDespiece = [
     "codigoSAP": 500320,
     "cantidad": 1,
     "modelo": "VR4PS-1000"
+  },
+  {
+    "codigoFabrica": "0400271",
+    "codigoSAP": 500320,
+    "cantidad": 1,
+    "modelo": "TR-102"
   },
   {
     "codigoFabrica": "0400338",
@@ -33618,10 +33648,28 @@ const datosDespiece = [
     "modelo": "ST-305-SH"
   },
   {
-    "codigoFabrica": "102042700002R014",
+    "codigoFabrica": "M503358",
+    "codigoSAP": 503617,
+    "cantidad": 1,
+    "modelo": "ST-295"
+  },
+  {
+    "codigoFabrica": "M503358",
     "codigoSAP": 503617,
     "cantidad": 1,
     "modelo": "ST-305-SH"
+  },
+  {
+    "codigoFabrica": "M500186",
+    "codigoSAP": 503618,
+    "cantidad": 1,
+    "modelo": "SJ-295"
+  },
+  {
+    "codigoFabrica": "M500186",
+    "codigoSAP": 503618,
+    "cantidad": 1,
+    "modelo": "ST-295"
   },
   {
     "codigoFabrica": "M500186",
@@ -33648,7 +33696,7 @@ const datosDespiece = [
     "modelo": "SJ-295"
   },
   {
-    "codigoFabrica": "102042700003R406",
+    "codigoFabrica": "M572081",
     "codigoSAP": 503622,
     "cantidad": 1,
     "modelo": "SJ-295"
@@ -33660,25 +33708,43 @@ const datosDespiece = [
     "modelo": "SJ-295"
   },
   {
-    "codigoFabrica": "102042700003R415",
+    "codigoFabrica": "M500186",
+    "codigoSAP": 503623,
+    "cantidad": 1,
+    "modelo": "ST-295"
+  },
+  {
+    "codigoFabrica": "M500186",
+    "codigoSAP": 503623,
+    "cantidad": 1,
+    "modelo": "ST-305-SH"
+  },
+  {
+    "codigoFabrica": "M572681",
     "codigoSAP": 503624,
     "cantidad": 1,
     "modelo": "SJ-295"
   },
   {
-    "codigoFabrica": "102042700003R420",
+    "codigoFabrica": "M572345",
     "codigoSAP": 503625,
     "cantidad": 1,
     "modelo": "SJ-295"
   },
   {
-    "codigoFabrica": "102042700003R421",
+    "codigoFabrica": "M572830",
     "codigoSAP": 503626,
     "cantidad": 1,
     "modelo": "SJ-295"
   },
   {
-    "codigoFabrica": "102042700003R422",
+    "codigoFabrica": "M572830",
+    "codigoSAP": 503626,
+    "cantidad": 1,
+    "modelo": "ST-305-SH"
+  },
+  {
+    "codigoFabrica": "M571215",
     "codigoSAP": 503627,
     "cantidad": 1,
     "modelo": "SJ-295"
@@ -33688,6 +33754,30 @@ const datosDespiece = [
     "codigoSAP": 503628,
     "cantidad": 1,
     "modelo": "SJ-295"
+  },
+  {
+    "codigoFabrica": "M570140",
+    "codigoSAP": 503628,
+    "cantidad": 1,
+    "modelo": "ST-295"
+  },
+  {
+    "codigoFabrica": "M570140",
+    "codigoSAP": 503628,
+    "cantidad": 1,
+    "modelo": "ST-305-SH"
+  },
+  {
+    "codigoFabrica": "M503352",
+    "codigoSAP": 503629,
+    "cantidad": 1,
+    "modelo": "M-22 RW2"
+  },
+  {
+    "codigoFabrica": "M503352",
+    "codigoSAP": 503629,
+    "cantidad": 1,
+    "modelo": "MJ-22"
   },
   {
     "codigoFabrica": "M503352",
@@ -39090,7 +39180,7 @@ const datosDespiece = [
     "modelo": "VBMS-5"
   },
   {
-    "codigoFabrica": "103011300012R020",
+    "codigoFabrica": "S0308802",
     "codigoSAP": 504141,
     "cantidad": 1,
     "modelo": "VBMS-1"
@@ -39172,6 +39262,12 @@ const datosDespiece = [
     "codigoSAP": 504146,
     "cantidad": 1,
     "modelo": "VBMS-6"
+  },
+  {
+    "codigoFabrica": "S0311808",
+    "codigoSAP": 504147,
+    "cantidad": 1,
+    "modelo": "VBMS-1"
   },
   {
     "codigoFabrica": "103011300014R023",
@@ -41994,7 +42090,7 @@ const datosDespiece = [
     "modelo": "VENEBMA-4E"
   },
   {
-    "codigoFabrica": "103101300001R016",
+    "codigoFabrica": "S0302806",
     "codigoSAP": 504486,
     "cantidad": 1,
     "modelo": "VBMS-1"
@@ -46368,8 +46464,38 @@ const datosDespiece = [
     "modelo": "ST-295"
   },
   {
+    "codigoFabrica": "M530779",
+    "codigoSAP": 505086,
+    "cantidad": 1,
+    "modelo": "ST-305-SH"
+  },
+  {
     "codigoFabrica": "M571093",
     "codigoSAP": 505087,
+    "cantidad": 1,
+    "modelo": "ST-295"
+  },
+  {
+    "codigoFabrica": "M571093",
+    "codigoSAP": 505087,
+    "cantidad": 1,
+    "modelo": "SJ-295"
+  },
+  {
+    "codigoFabrica": "M571093",
+    "codigoSAP": 505087,
+    "cantidad": 1,
+    "modelo": "ST-305-SH"
+  },
+  {
+    "codigoFabrica": "M572226",
+    "codigoSAP": 505088,
+    "cantidad": 1,
+    "modelo": "SJ-295"
+  },
+  {
+    "codigoFabrica": "M572226",
+    "codigoSAP": 505088,
     "cantidad": 1,
     "modelo": "ST-295"
   },
@@ -46377,7 +46503,7 @@ const datosDespiece = [
     "codigoFabrica": "M572226",
     "codigoSAP": 505088,
     "cantidad": 1,
-    "modelo": "SJ-295"
+    "modelo": "ST-305-SH"
   },
   {
     "codigoFabrica": "NAC1007 1260",
@@ -52158,10 +52284,16 @@ const datosDespiece = [
     "modelo": "VSPH-128"
   },
   {
-    "codigoFabrica": "101013400004R004",
+    "codigoFabrica": "W0201282",
     "codigoSAP": 505942,
     "cantidad": 1,
     "modelo": "VR4PS-1000"
+  },
+  {
+    "codigoFabrica": "W0201282",
+    "codigoSAP": 505942,
+    "cantidad": 1,
+    "modelo": "TR-102"
   },
   {
     "codigoFabrica": "101013500003R307",
@@ -84628,5 +84760,161 @@ const datosDespiece = [
     "codigoSAP": 509648,
     "cantidad": 1,
     "modelo": "IHEXAGON"
+  },
+  {
+    "codigoFabrica": "",
+    "codigoSAP": 509649,
+    "cantidad": 1,
+    "modelo": "VC-540L INV"
+  },
+  {
+    "codigoFabrica": "",
+    "codigoSAP": 509650,
+    "cantidad": 1,
+    "modelo": "KRF25-2"
+  },
+  {
+    "codigoFabrica": "",
+    "codigoSAP": 509650,
+    "cantidad": 1,
+    "modelo": "KRF45-4H"
+  },
+  {
+    "codigoFabrica": "",
+    "codigoSAP": 509650,
+    "cantidad": 1,
+    "modelo": "MBF8501CL65C"
+  },
+  {
+    "codigoFabrica": "",
+    "codigoSAP": 509650,
+    "cantidad": 1,
+    "modelo": "MGF8406CL65C"
+  },
+  {
+    "codigoFabrica": "",
+    "codigoSAP": 509650,
+    "cantidad": 1,
+    "modelo": "MGF8407CL65C"
+  },
+  {
+    "codigoFabrica": "",
+    "codigoSAP": 509650,
+    "cantidad": 1,
+    "modelo": "MGF8413CL65C"
+  },
+  {
+    "codigoFabrica": "",
+    "codigoSAP": 509650,
+    "cantidad": 1,
+    "modelo": "VF1PS-700V"
+  },
+  {
+    "codigoFabrica": "",
+    "codigoSAP": 509650,
+    "cantidad": 1,
+    "modelo": "VF2PS-600"
+  },
+  {
+    "codigoFabrica": "",
+    "codigoSAP": 509650,
+    "cantidad": 1,
+    "modelo": "VF4PS-1000"
+  },
+  {
+    "codigoFabrica": "",
+    "codigoSAP": 509650,
+    "cantidad": 1,
+    "modelo": "VG-122A"
+  },
+  {
+    "codigoFabrica": "",
+    "codigoSAP": 509650,
+    "cantidad": 1,
+    "modelo": "VMF2PS-260"
+  },
+  {
+    "codigoFabrica": "0C7866",
+    "codigoSAP": 509651,
+    "cantidad": 1,
+    "modelo": "E7INED2000"
+  },
+  {
+    "codigoFabrica": "0C7866",
+    "codigoSAP": 509651,
+    "cantidad": 1,
+    "modelo": "E7INED200P"
+  },
+  {
+    "codigoFabrica": "0C7866",
+    "codigoSAP": 509651,
+    "cantidad": 1,
+    "modelo": "E7INEH4000"
+  },
+  {
+    "codigoFabrica": "0C7866",
+    "codigoSAP": 509651,
+    "cantidad": 1,
+    "modelo": "E7INEH400P"
+  },
+  {
+    "codigoFabrica": "0CK106",
+    "codigoSAP": 509652,
+    "cantidad": 1,
+    "modelo": "ECOE101K2A0"
+  },
+  {
+    "codigoFabrica": "0CK106",
+    "codigoSAP": 509652,
+    "cantidad": 1,
+    "modelo": "ECOE201K2A0"
+  },
+  {
+    "codigoFabrica": "0CK106",
+    "codigoSAP": 509652,
+    "cantidad": 1,
+    "modelo": "ECOE202C2A0"
+  },
+  {
+    "codigoFabrica": "0CK106",
+    "codigoSAP": 509652,
+    "cantidad": 1,
+    "modelo": "ECOG101K2H0"
+  },
+  {
+    "codigoFabrica": "0CK106",
+    "codigoSAP": 509652,
+    "cantidad": 1,
+    "modelo": "ECOG201K2H0"
+  },
+  {
+    "codigoFabrica": "",
+    "codigoSAP": 509653,
+    "cantidad": 1,
+    "modelo": "VCG-4AI"
+  },
+  {
+    "codigoFabrica": "M577373",
+    "codigoSAP": 509654,
+    "cantidad": 1,
+    "modelo": "SJ-295"
+  },
+  {
+    "codigoFabrica": "M502135",
+    "codigoSAP": 509655,
+    "cantidad": 1,
+    "modelo": "SJ-295"
+  },
+  {
+    "codigoFabrica": "M502135",
+    "codigoSAP": 509655,
+    "cantidad": 1,
+    "modelo": "ST-295"
+  },
+  {
+    "codigoFabrica": "M502135",
+    "codigoSAP": 509655,
+    "cantidad": 1,
+    "modelo": "ST-305-SH"
   }
 ];
