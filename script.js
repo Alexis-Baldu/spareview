@@ -175,15 +175,23 @@ filtroModelo.addEventListener("change", () => {
             alt=""
             style="width:40px;height:auto"
             onerror="
-              if(!this.dataset.folder){
-                this.dataset.folder='2';
+              if(!this.dataset.step){
+                this.dataset.step='1';
+                this.src='imagenes/${dato.codigoSAP}.JPG';
+              }else if(this.dataset.step==='1'){
+                this.dataset.step='2';
                 this.src='imagenes2/${dato.codigoSAP}.jpg';
-              }else if(this.dataset.folder==='2'){
-                this.dataset.folder='3';
+              }else if(this.dataset.step==='2'){
+                this.dataset.step='3';
+                this.src='imagenes2/${dato.codigoSAP}.JPG';
+              }else if(this.dataset.step==='3'){
+                this.dataset.step='4';
                 this.src='imagenes3/${dato.codigoSAP}.jpg';
+              }else if(this.dataset.step==='4'){
+                this.dataset.step='5';
+                this.src='imagenes3/${dato.codigoSAP}.JPG';
               }else{
-                this.style.display='none';
-                this.parentElement.style.display='none';
+                this.closest('td').innerHTML = '';
               }
             "
           >
