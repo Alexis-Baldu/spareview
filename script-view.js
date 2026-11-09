@@ -124,8 +124,11 @@ function buscarSAP() {
   img.style.display = "block";
   const rutas = [
     `imagenes/${codigo}.jpg`,
+    `imagenes/${codigo}.JPG`,
     `imagenes2/${codigo}.jpg`,
-    `imagenes3/${codigo}.jpg`
+    `imagenes2/${codigo}.JPG`,
+    `imagenes3/${codigo}.jpg`,
+    `imagenes3/${codigo}.JPG`
   ];
   const fallbacks = [
     "imagenes/no-image.png",
