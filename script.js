@@ -1,6 +1,6 @@
 // Variables globales
-let imagenes = []; // Almacena los archivos de imagen seleccionados
-let grilla = []; // Almacena los datos de despiece filtrados
+let imagenes = []; // Almacena los archivos de imagen seleccionados.
+let grilla = []; // Almacena los datos de despiece filtrados.
 let archivosCargados = JSON.parse(localStorage.getItem("archivosCargados") || "[]"); // Recupera archivos guardados previamente del almacenamiento local
 let stock1409Map = {};
 let stock1506Map = {};
