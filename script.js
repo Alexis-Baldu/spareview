@@ -169,34 +169,32 @@ filtroModelo.addEventListener("change", () => {
     
       fila.innerHTML = `
       <td>
-        <a target="_blank">
-          <img
-            src="imagenes/${dato.codigoSAP}.jpg"
-            alt=""
-            style="width:40px;height:auto"
-            onload="this.parentElement.href=this.src"
-            onerror="
-              if(!this.dataset.step){
-                this.dataset.step='1';
-                this.src='imagenes/${dato.codigoSAP}.JPG';
-              }else if(this.dataset.step==='1'){
-                this.dataset.step='2';
-                this.src='imagenes2/${dato.codigoSAP}.jpg';
-              }else if(this.dataset.step==='2'){
-                this.dataset.step='3';
-                this.src='imagenes2/${dato.codigoSAP}.JPG';
-              }else if(this.dataset.step==='3'){
-                this.dataset.step='4';
-                this.src='imagenes3/${dato.codigoSAP}.jpg';
-              }else if(this.dataset.step==='4'){
-                this.dataset.step='5';
-                this.src='imagenes3/${dato.codigoSAP}.JPG';
-              }else{
-                this.closest('td').innerHTML='';
-              }
-            "
-          >
-        </a>
+        <img
+          src="imagenes/${dato.codigoSAP}.jpg"
+          alt=""
+          style="width:40px;height:auto;cursor:pointer"
+          onclick="window.open(this.src, '_blank')"
+          onerror="
+            if(!this.dataset.step){
+              this.dataset.step='1';
+              this.src='imagenes/${dato.codigoSAP}.JPG';
+            }else if(this.dataset.step==='1'){
+              this.dataset.step='2';
+              this.src='imagenes2/${dato.codigoSAP}.jpg';
+            }else if(this.dataset.step==='2'){
+              this.dataset.step='3';
+              this.src='imagenes2/${dato.codigoSAP}.JPG';
+            }else if(this.dataset.step==='3'){
+              this.dataset.step='4';
+              this.src='imagenes3/${dato.codigoSAP}.jpg';
+            }else if(this.dataset.step==='4'){
+              this.dataset.step='5';
+              this.src='imagenes3/${dato.codigoSAP}.JPG';
+            }else{
+              this.closest('td').innerHTML='';
+            }
+          "
+        >
       </td>
       <td>${dato.codigoFabrica}</td>
       <td>${dato.codigoSAP}</a></td>
