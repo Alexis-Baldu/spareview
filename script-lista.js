@@ -199,11 +199,12 @@ function obtenerReposicion(codigoSAP) {
 
     fila.innerHTML = `
       <td>
-        <a href="#" target="_blank">
+        <a target="_blank">
           <img
             src="imagenes/${dato.codigoSAP}.jpg"
             alt=""
             style="width:40px;height:auto"
+            onload="this.parentElement.href=this.src"
             onerror="
               if(!this.dataset.step){
                 this.dataset.step='1';
@@ -221,7 +222,7 @@ function obtenerReposicion(codigoSAP) {
                 this.dataset.step='5';
                 this.src='imagenes3/${dato.codigoSAP}.JPG';
               }else{
-                this.closest('td').innerHTML = '';
+                this.closest('td').innerHTML='';
               }
             "
           >
