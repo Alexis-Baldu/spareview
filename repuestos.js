@@ -694,7 +694,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500093,
-    "descripcion": "\"FILTRO AGUA 3/4\"\" M-F 048746\"",
+    "descripcion": "FILTRO AGUA 3/4 M-F 048746",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640068"
@@ -1240,7 +1240,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500171,
-    "descripcion": "\"COPLA METAL EMT LISA 3/4\"\" DW394134-PT\"",
+    "descripcion": "COPLA METAL EMT LISA 3/4 DW394134-PT",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "771446205"
@@ -2444,7 +2444,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500343,
-    "descripcion": "\"TUERCA PLASTICO 1,1/4\"\"\"",
+    "descripcion": "TUERCA PLASTICO 1,1/4",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640066"
@@ -4306,7 +4306,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500609,
-    "descripcion": "\"0W23KB VALVULA INGRESO AGUA G 1,1/4\"\"\"",
+    "descripcion": "0W23KB VALVULA INGRESO AGUA G 1,1/4",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640229"
@@ -6168,10 +6168,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500875,
-    "descripcion": "\"BURLETE PUERTA",
-    "tipoMaterial": " L=610 MM\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "BURLETE PUERTA L=610 MM",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 500876,
@@ -6210,17 +6210,17 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500881,
-    "descripcion": "\"ELECTRODO DETECTOR",
-    "tipoMaterial": " CABLE= 850MM\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "ELECTRODO DETECTOR CABLE= 850MM",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 500882,
-    "descripcion": "\"ELECTRODO DETECTOR",
-    "tipoMaterial": " CABLE= 850MM\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "ELECTRODO DETECTOR CABLE= 850MM",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 500883,
@@ -6231,10 +6231,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500884,
-    "descripcion": "\"PRESOSTATO AGUA",
-    "tipoMaterial": " 0,2 BAR\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "PRESOSTATO AGUA 0,2 BAR",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 500885,
@@ -6371,10 +6371,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500904,
-    "descripcion": "\"BURLETE PUERTA",
-    "tipoMaterial": " 725X630MM\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "BURLETE PUERTA 725X630MM",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 500905,
@@ -6392,10 +6392,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500907,
-    "descripcion": "\"ELECTROVALV.",
-    "tipoMaterial": " V380",
-    "fechaCreacion": "230V 50/60HZ",
-    "Proveedor": " 3 VIAS\""
+    "descripcion": "ELECTROVALV. V380 230V 50/60HZ 3 VIAS",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 500908,
@@ -6567,10 +6567,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500932,
-    "descripcion": "\"O-RING",
-    "tipoMaterial": " 153-VITON 49.2*3.53 0C3128\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "O-RING 153-VITON 49.2*3.53 0C3128",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 500933,
@@ -6602,24 +6602,24 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500937,
-    "descripcion": "\"HEATING ELEMENT",
-    "tipoMaterial": " 1500W 230V\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "HEATING ELEMENT 1500W 230V",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 500938,
-    "descripcion": "\"PIPE FITTING",
-    "tipoMaterial": " PILOT LOWER     *\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "PIPE FITTING PILOT LOWER     *",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 500939,
-    "descripcion": "\"BICONO",
-    "tipoMaterial": " ØI = 7MM. 0C3645\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "BICONO ØI = 7MM. 0C3645",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 500940,
@@ -6630,10 +6630,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500941,
-    "descripcion": "\"GRUPO QUEMADOR PILOTO",
-    "tipoMaterial": " KIT\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "GRUPO QUEMADOR PILOTO KIT",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 500942,
@@ -6847,10 +6847,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500972,
-    "descripcion": "\"AISLANTE",
-    "tipoMaterial": " FOR BULB\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "AISLANTE FOR BULB",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 500973,
@@ -6896,10 +6896,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500979,
-    "descripcion": "\"SUCTION  WALL",
-    "tipoMaterial": " AOSQ 202 GAS\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "SUCTION  WALL AOSQ 202 GAS",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 500980,
@@ -6945,14 +6945,14 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500986,
-    "descripcion": "\"PATA 2\"\" AOS 0C4892\"",
+    "descripcion": "PATA 2 AOS 0C4892",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640068"
   },
   {
     "codigoSAP": 500987,
-    "descripcion": "FILTRO DE AIRE 061 - 101 ONE",
+    "descripcion": "FILTRO AIRE PANEL CONTROL 0C4934",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640068"
@@ -7015,17 +7015,17 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500996,
-    "descripcion": "\"CONDUCTO DE AGUA",
-    "tipoMaterial": " ONE 102/202 LIV.C\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "CONDUCTO DE AGUA ONE 102/202 LIV.C",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 500997,
-    "descripcion": "\"CONDUCTO DE AGUA",
-    "tipoMaterial": " ONE 061-101-201 LIV. C\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "CONDUCTO DE AGUA ONE 061-101-201 LIV. C",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 500998,
@@ -7071,10 +7071,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501004,
-    "descripcion": "\"MANDO",
-    "tipoMaterial": " ØE=60MM",
-    "fechaCreacion": "Ø PIVOTE=8MM",
-    "Proveedor": "Repuesto"
+    "descripcion": "MANDO ØE=60MM Ø PIVOTE=8MM",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501005,
@@ -7085,24 +7085,24 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501006,
-    "descripcion": "\"MANDO",
-    "tipoMaterial": " ØE=60MM",
-    "fechaCreacion": "Ø PERNO=8MM",
-    "Proveedor": "Repuesto"
+    "descripcion": "MANDO ØE=60MM Ø PERNO=8MM",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501007,
-    "descripcion": "\"GUIA SURTIDOR DE LAVADO",
-    "tipoMaterial": " KIT\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "GUIA SURTIDOR DE LAVADO KIT",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501008,
-    "descripcion": "\"ENCENDEDOR PIEZOELECTRICO",
-    "tipoMaterial": " KIT\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "ENCENDEDOR PIEZOELECTRICO KIT",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501009,
@@ -7393,10 +7393,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501050,
-    "descripcion": "\"DOOR GLASS",
-    "tipoMaterial": " 644X421MM",
-    "fechaCreacion": "EXTERNAL",
-    "Proveedor": "Repuesto"
+    "descripcion": "DOOR GLASS 644X421MM EXTERNAL",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501051,
@@ -7533,7 +7533,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501070,
-    "descripcion": "\"VALVULA GAS 230V 50HZ 3/4\"\" 0C7600\"",
+    "descripcion": "VALVULA GAS 230V 50HZ 3/4 0C7600",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640068"
@@ -7701,10 +7701,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501094,
-    "descripcion": "\"CONMUTADOR",
-    "tipoMaterial": " 11 POLE 4POS.(NT PDX2013-05)\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "CONMUTADOR 11 POLE 4POS.(NT PDX2013-05)",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501095,
@@ -7722,10 +7722,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501097,
-    "descripcion": "\"TRANSFORMADOR",
-    "tipoMaterial": " KIT\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "TRANSFORMADOR KIT",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501098,
@@ -7743,10 +7743,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501100,
-    "descripcion": "\"KIT MANILLA FCF6",
-    "tipoMaterial": " GAS/ELT.\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "KIT MANILLA FCF6 GAS/ELT.",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501101,
@@ -8044,10 +8044,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501143,
-    "descripcion": "\"DETECTOR SEGURIDAD",
-    "tipoMaterial": " XBM20/30\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "DETECTOR SEGURIDAD XBM20/30",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501144,
@@ -8058,10 +8058,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501145,
-    "descripcion": "\"GUARNICION/JUNTA",
-    "tipoMaterial": " 28X40X7 (JEU X5)\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "GUARNICION/JUNTA 28X40X7 (JEU X5)",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501146,
@@ -8121,10 +8121,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501154,
-    "descripcion": "\"PRESOSTATO",
-    "tipoMaterial": " NIVEL 40/15-55/35\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "PRESOSTATO NIVEL 40/15-55/35",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501155,
@@ -8135,7 +8135,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501156,
-    "descripcion": "\"TAPON 1\"\"F SURT.LAVADO 0E5016\"",
+    "descripcion": "TAPON 1F SURT.LAVADO 0E5016",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640068"
@@ -8149,10 +8149,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501158,
-    "descripcion": "\"JUNTA TORICA",
-    "tipoMaterial": " ØI=5,23X2,62MM\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "JUNTA TORICA ØI=5,23X2,62MM",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501159,
@@ -8184,10 +8184,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501163,
-    "descripcion": "\"INTERRUPTOR.PUESTA MARCHA",
-    "tipoMaterial": " 3-P\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "INTERRUPTOR.PUESTA MARCHA 3-P",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501164,
@@ -8205,10 +8205,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501166,
-    "descripcion": "\"MUELLE PUERTA",
-    "tipoMaterial": " 38X0.5 MM\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "MUELLE PUERTA 38X0.5 MM",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501167,
@@ -8240,10 +8240,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501171,
-    "descripcion": "\"TUBO GOMA",
-    "tipoMaterial": " ØI=15MM",
-    "fechaCreacion": "ØE=23MM",
-    "Proveedor": " AL METRO\""
+    "descripcion": "TUBO GOMA ØI=15MM ØE=23MM AL METRO",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501172,
@@ -8303,10 +8303,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501180,
-    "descripcion": "\"INYECTOR",
-    "tipoMaterial": " 1,37MM\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "INYECTOR 1,37MM",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501181,
@@ -8373,17 +8373,17 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501190,
-    "descripcion": "\"RUEDA LAVAVAJILLAS",
-    "tipoMaterial": " 40/16MM",
-    "fechaCreacion": "GRIS",
-    "Proveedor": "Repuesto"
+    "descripcion": "RUEDA LAVAVAJILLAS 40/16MM GRIS",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501191,
-    "descripcion": "\"TERMISTOR LN-",
-    "tipoMaterial": "PT 1000\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "TERMISTOR LN-PT 1000",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501192,
@@ -8408,17 +8408,17 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501195,
-    "descripcion": "\"DISCO EXPULSOR",
-    "tipoMaterial": " TR17",
-    "fechaCreacion": "GRIS (23038)",
-    "Proveedor": "Repuesto"
+    "descripcion": "DISCO EXPULSOR TR17 GRIS (23038)",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501196,
-    "descripcion": "\"RODAMIENTO",
-    "tipoMaterial": " 6203 2 RS\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "RODAMIENTO 6203 2 RS",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501197,
@@ -8436,10 +8436,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501199,
-    "descripcion": "\"TARJETA ELECTRONICA",
-    "tipoMaterial": " MONOF.",
-    "fechaCreacion": "220/240V",
-    "Proveedor": "Repuesto"
+    "descripcion": "TARJETA ELECTRONICA MONOF. 220/240V",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501200,
@@ -8737,7 +8737,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501242,
-    "descripcion": "\"VALVULA SOLENOIDE 24V 3/8\"\" 0L0948\"",
+    "descripcion": "VALVULA SOLENOIDE 24V 3/8 0L0948",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640068"
@@ -8765,10 +8765,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501246,
-    "descripcion": "\"HEATING ELEMENT",
-    "tipoMaterial": " 6000W 230V\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "HEATING ELEMENT 6000W 230V",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501247,
@@ -9710,10 +9710,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501381,
-    "descripcion": "\"CABLEADO",
-    "tipoMaterial": " BCF30 6 GN1/1 240/3/60\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "CABLEADO BCF30 6 GN1/1 240/3/60",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 501382,
@@ -11908,7 +11908,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501695,
-    "descripcion": "\"FILTRO SECADOR 3/8\"\" SO (VSP-25PRO)\"",
+    "descripcion": "FILTRO SECADOR 3/8 SO (VSP-25PRO)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640162"
@@ -16752,7 +16752,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 502387,
-    "descripcion": "\"FILTRO SECADOR DML-052 1/4\"\" SO 023Z-5053\"",
+    "descripcion": "FILTRO SECADOR DML-052 1/4 SO 023Z-5053",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "799982307"
@@ -25390,7 +25390,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 503621,
-    "descripcion": "\"POLEA SUPERIOR 14\"\" (3 AL 7) (ST-295)\"",
+    "descripcion": "POLEA SUPERIOR 14 (3 AL 7) (ST-295)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640053"
@@ -26104,14 +26104,14 @@ window.repuestos = [
   },
   {
     "codigoSAP": 503723,
-    "descripcion": "\"KIT ARANDELA GRAFITO 8\"\" 4 UNID(LAR15/2)\"",
+    "descripcion": "KIT ARANDELA GRAFITO 8 4 UNID(LAR15/2)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640062"
   },
   {
     "codigoSAP": 503724,
-    "descripcion": "\"ARANDELA GRAFITO 1/4\"\" (LAR15/2)\"",
+    "descripcion": "ARANDELA GRAFITO 1/4 (LAR15/2)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640062"
@@ -31291,14 +31291,14 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504464,
-    "descripcion": "\"REJILLA CROMADA 5/8\"\"X13/16\"\" (AF-35/50)\"",
+    "descripcion": "REJILLA CROMADA 5/8X13/16 (AF-35/50)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "Descontinuado"
   },
   {
     "codigoSAP": 504465,
-    "descripcion": "\"VALVULA DRENAJE NSF 1\"\" (AF-35/50)\"",
+    "descripcion": "VALVULA DRENAJE NSF 1 (AF-35/50)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "Descontinuado"
@@ -31326,7 +31326,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504469,
-    "descripcion": "\"KIT CONVERSION GLP COLEC 3/4\"\" (AF-35/50)\"",
+    "descripcion": "KIT CONVERSION GLP COLEC 3/4 (AF-35/50)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "Descontinuado"
@@ -31914,7 +31914,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504553,
-    "descripcion": "\"P7801 - MANILLA P-50 3/16\"\" PR-631\"",
+    "descripcion": "P7801 - MANILLA P-50 3/16 PR-631",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640052"
@@ -31942,7 +31942,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504557,
-    "descripcion": "\"P55 - PRISIONERO ALLEN S/C 1/4\"\"X 5/16\"\"\"",
+    "descripcion": "P55 - PRISIONERO ALLEN S/C 1/4X 5/16",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640052"
@@ -32376,10 +32376,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504619,
-    "descripcion": "\"DETERGENT HOSE",
-    "tipoMaterial": " 1PCS=2120MM",
-    "fechaCreacion": "RED 0CK326",
-    "Proveedor": "Repuesto"
+    "descripcion": "DETERGENT HOSE 1PCS=2120MM RED 0CK326",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 504620,
@@ -33146,21 +33146,21 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504729,
-    "descripcion": "\"CAÑERIA COBRE 1/2\"\" TIPO \"\"M\"\" (X METRO)\"",
+    "descripcion": "CAÑERIA COBRE 1/2 TIPO M (X METRO)",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504730,
-    "descripcion": "\"CAÑERIA COBRE 3/4\"\" TIPO \"\"L\"\" (X METRO)\"",
+    "descripcion": "CAÑERIA COBRE 3/4 TIPO L (X METRO)",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504731,
-    "descripcion": "\"CAÑERIA COBRE 3/4\"\" TIPO \"\"M\"\" (X METRO)\"",
+    "descripcion": "CAÑERIA COBRE 3/4 TIPO M (X METRO)",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
@@ -33216,28 +33216,28 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504739,
-    "descripcion": "\"CODO BRONCE 3/4\"\" HI - HE\"",
+    "descripcion": "CODO BRONCE 3/4 HI - HE",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504740,
-    "descripcion": "\"CODO BRONCE 3/4\"\" SO - HE\"",
+    "descripcion": "CODO BRONCE 3/4 SO - HE",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504741,
-    "descripcion": "\"CODO BRONCE 1,1/4\"\" SO-HI\"",
+    "descripcion": "CODO BRONCE 1,1/4 SO-HI",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504742,
-    "descripcion": "\"CODO BRONCE 3/4\"\" SO - HI\"",
+    "descripcion": "CODO BRONCE 3/4 SO - HI",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
@@ -33251,21 +33251,21 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504744,
-    "descripcion": "\"CODO BRONCE 1,1/4\"\" SO\"",
+    "descripcion": "CODO BRONCE 1,1/4 SO",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504745,
-    "descripcion": "\"CODO BRONCE 1\"\" SO\"",
+    "descripcion": "CODO BRONCE 1 SO",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504746,
-    "descripcion": "\"CODO BRONCE 3/4\"\" SO\"",
+    "descripcion": "CODO BRONCE 3/4 SO",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
@@ -33321,14 +33321,14 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504754,
-    "descripcion": "\"COPLA PVC SANITARIO 1,1/4\"\" HI\"",
+    "descripcion": "COPLA PVC SANITARIO 1,1/4 HI",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "Descontinuado"
   },
   {
     "codigoSAP": 504755,
-    "descripcion": "\"COPLA REDUCCION PVC SANITARIO 50 - 40MM\"\"\"",
+    "descripcion": "COPLA REDUCCION PVC SANITARIO 50 - 40MM",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
@@ -33412,14 +33412,14 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504767,
-    "descripcion": "\"DISCO CORTE INOX ESMERIL 4,5\"\"\"",
+    "descripcion": "DISCO CORTE INOX ESMERIL 4,5",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "760607290"
   },
   {
     "codigoSAP": 504768,
-    "descripcion": "\"DISCO TRASLAPADO LIJA ESMERIL 4,5\"\"\"",
+    "descripcion": "DISCO TRASLAPADO LIJA ESMERIL 4,5",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "760607290"
@@ -33517,21 +33517,21 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504782,
-    "descripcion": "\"FILM POLIPROPILENO ROJO 500MM 20MY 2\"\"\"",
+    "descripcion": "FILM POLIPROPILENO ROJO 500MM 20MY 2",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "99521380K"
   },
   {
     "codigoSAP": 504783,
-    "descripcion": "\"FILM POLIPROPILENO TRANSP 500MM 20MY 2\"\"\"",
+    "descripcion": "FILM POLIPROPILENO TRANSP 500MM 20MY 2",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "99521380K"
   },
   {
     "codigoSAP": 504784,
-    "descripcion": "\"FILM POLIPROPILENO VERDE 500MM 20MY 2\"\"\"",
+    "descripcion": "FILM POLIPROPILENO VERDE 500MM 20MY 2",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "99521380K"
@@ -33692,10 +33692,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504807,
-    "descripcion": "\"GUARNICION CIERRE PTA.",
-    "tipoMaterial": " 503X477MM 089689\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-12-2022"
+    "descripcion": "GUARNICION CIERRE PTA. 503X477MM 089689",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-12-2022",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 504808,
@@ -33811,7 +33811,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504824,
-    "descripcion": "\"SIFON LAVAPLATOS PVC 1,1/2\"\"\"",
+    "descripcion": "SIFON LAVAPLATOS PVC 1,1/2",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
@@ -33888,14 +33888,14 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504835,
-    "descripcion": "\"TEE BRONCE 1,1/4\"\" SO\"",
+    "descripcion": "TEE BRONCE 1,1/4 SO",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504836,
-    "descripcion": "\"TEE BRONCE 3/4\"\" SO\"",
+    "descripcion": "TEE BRONCE 3/4 SO",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
@@ -33916,7 +33916,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504839,
-    "descripcion": "\"TEFLON AGUA 1/2\"\"\"",
+    "descripcion": "TEFLON AGUA 1/2",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
@@ -33930,56 +33930,56 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504841,
-    "descripcion": "\"TEFLON GAS 1/2\"\" AMARILLO\"",
+    "descripcion": "TEFLON GAS 1/2 AMARILLO",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504842,
-    "descripcion": "\"TERMINAL BRONCE 1\"\" SO - HE\"",
+    "descripcion": "TERMINAL BRONCE 1 SO - HE",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504843,
-    "descripcion": "\"TERMINAL BRONCE 3/4\"\" SO - HE\"",
+    "descripcion": "TERMINAL BRONCE 3/4 SO - HE",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504844,
-    "descripcion": "\"TERMINAL BRONCE 1,1/4\"\" SO - HI\"",
+    "descripcion": "TERMINAL BRONCE 1,1/4 SO - HI",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504845,
-    "descripcion": "\"TERMINAL BRONCE 3/4\"\" SO - HI\"",
+    "descripcion": "TERMINAL BRONCE 3/4 SO - HI",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504846,
-    "descripcion": "\"TERMINAL BRONCE 1/2\"\" SO X 3/4\"\" SO\"",
+    "descripcion": "TERMINAL BRONCE 1/2 SO X 3/4 SO",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504847,
-    "descripcion": "\"TERMINAL BRONCE 3/4\"\" SO - 1\"\" HI\"",
+    "descripcion": "TERMINAL BRONCE 3/4 SO - 1 HI",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504848,
-    "descripcion": "\"TERMINAL BRONCE 3/4\"\" SO - HI\"",
+    "descripcion": "TERMINAL BRONCE 3/4 SO - HI",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "Descontinuado"
@@ -34063,7 +34063,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504860,
-    "descripcion": "\"UNION AMERICANA 1,1/4\"\"\"",
+    "descripcion": "UNION AMERICANA 1,1/4",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
@@ -34154,7 +34154,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504873,
-    "descripcion": "\"CAÑERIA COBRE 1,1/2\"\" TIPO \"\"M\"\" (X METRO)\"",
+    "descripcion": "CAÑERIA COBRE 1,1/2 TIPO M (X METRO)",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
@@ -34175,7 +34175,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504876,
-    "descripcion": "\"BUSHING BRONCE 1\"\"HI X 3/4 HE\"",
+    "descripcion": "BUSHING BRONCE 1HI X 3/4 HE",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
@@ -34238,7 +34238,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504885,
-    "descripcion": "\"CODO BRONCE 2\"\" SO\"",
+    "descripcion": "CODO BRONCE 2 SO",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
@@ -34252,7 +34252,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504887,
-    "descripcion": "\"ABRAZADERA CABLE ACERADO 1/8\"\"\"",
+    "descripcion": "ABRAZADERA CABLE ACERADO 1/8",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "774157107"
@@ -34301,35 +34301,35 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504894,
-    "descripcion": "\"CODO BRONCE 2\"\" HI-SO\"",
+    "descripcion": "CODO BRONCE 2 HI-SO",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504895,
-    "descripcion": "\"COPLA BRONCE REDUCION 2\"\" SO X 1,1/4\"\" SO\"",
+    "descripcion": "COPLA BRONCE REDUCION 2 SO X 1,1/4 SO",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504896,
-    "descripcion": "\"CAÑERIA COBRE 2\"\" TIPO \"\"M\"\" (1/2 METRO)\"",
+    "descripcion": "CAÑERIA COBRE 2 TIPO M (1/2 METRO)",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504897,
-    "descripcion": "\"CAÑERIA BRONCE 1\"\" TIPO \"\"L\"\" (X METRO)\"",
+    "descripcion": "CAÑERIA BRONCE 1 TIPO L (X METRO)",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504898,
-    "descripcion": "\"CAÑERIA COBRE 1/2\"\" TIPO \"\"L\"\" (X METRO)\"",
+    "descripcion": "CAÑERIA COBRE 1/2 TIPO L (X METRO)",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
@@ -34434,7 +34434,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504913,
-    "descripcion": "\"TERMINAL BRONCE 1/2\"\" SO - HE\"",
+    "descripcion": "TERMINAL BRONCE 1/2 SO - HE",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
@@ -34469,14 +34469,14 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504918,
-    "descripcion": "\"TEE MANGUERA 1/2\"\" X 1/8\"\"\"",
+    "descripcion": "TEE MANGUERA 1/2 X 1/8",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "965762000"
   },
   {
     "codigoSAP": 504919,
-    "descripcion": "\"ADAPTADOR MANGUERA MACHO 1/2\"\" X 1/8\"\"\"",
+    "descripcion": "ADAPTADOR MANGUERA MACHO 1/2 X 1/8",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "965762000"
@@ -34511,21 +34511,21 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504924,
-    "descripcion": "\"CAÑERIA COBRE 2\"\" TIPO \"\"M\"\" (X METRO)\"",
+    "descripcion": "CAÑERIA COBRE 2 TIPO M (X METRO)",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504925,
-    "descripcion": "\"COPLA BRONCE 1\"\" SO\"",
+    "descripcion": "COPLA BRONCE 1 SO",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504926,
-    "descripcion": "\"TORNILLO ROSCALATA 1,1/4\"\" GOLILLA-TARUGO\"",
+    "descripcion": "TORNILLO ROSCALATA 1,1/4 GOLILLA-TARUGO",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "10352489K"
@@ -34539,21 +34539,21 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504928,
-    "descripcion": "\"HILO G2 NC 1/4\"\" ZN (X METRO)\"",
+    "descripcion": "HILO G2 NC 1/4 ZN (X METRO)",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "79895640K"
   },
   {
     "codigoSAP": 504929,
-    "descripcion": "\"TUERCA HEXAGONAL GS NC ZN 1/4\"\"-20 ZN\"",
+    "descripcion": "TUERCA HEXAGONAL GS NC ZN 1/4-20 ZN",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "760607290"
   },
   {
     "codigoSAP": 504930,
-    "descripcion": "\"ABRAZADERA CABLE ACERADO 1/8\"\"\"",
+    "descripcion": "ABRAZADERA CABLE ACERADO 1/8",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "79895640K"
@@ -34581,7 +34581,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504934,
-    "descripcion": "\"PERNO 1/4\"\"X2\"\"\"",
+    "descripcion": "PERNO 1/4X2",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "762346532"
@@ -34602,7 +34602,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504937,
-    "descripcion": "\"CAÑERIA COBRE 1,1/4\"\" TIPO \"\"L\"\" (X METRO)\"",
+    "descripcion": "CAÑERIA COBRE 1,1/4 TIPO L (X METRO)",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
@@ -34623,7 +34623,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504940,
-    "descripcion": "\"TERMINAL BRONCE 1/2\"\" SO X 3/4\"\" HE\"",
+    "descripcion": "TERMINAL BRONCE 1/2 SO X 3/4 HE",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
@@ -34651,7 +34651,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504944,
-    "descripcion": "\"PERNO 1/4\"\" X 2,1/2\"\"\"",
+    "descripcion": "PERNO 1/4 X 2,1/2",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "774157107"
@@ -34798,14 +34798,14 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504965,
-    "descripcion": "\"TEE BRONCE 2\"\" X 2\"\" X 1,1/4\"\" SO\"",
+    "descripcion": "TEE BRONCE 2 X 2 X 1,1/4 SO",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504966,
-    "descripcion": "\"ABRAZADERA 2\"\" 32-51MM\"",
+    "descripcion": "ABRAZADERA 2 32-51MM",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
@@ -34819,7 +34819,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504968,
-    "descripcion": "\"MANGUERA CAMION 1,1/2”X20\"\"\"",
+    "descripcion": "MANGUERA CAMION 1,1/2”X20",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "77549073K"
@@ -34868,14 +34868,14 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504975,
-    "descripcion": "\"ABRAZADERA 2\"\" METALICA\"",
+    "descripcion": "ABRAZADERA 2 METALICA",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 504976,
-    "descripcion": "\"MANGUERA CAMION 2\"\"X20\"\"\"",
+    "descripcion": "MANGUERA CAMION 2X20",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "77549073K"
@@ -34924,7 +34924,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 504983,
-    "descripcion": "\"CODO PVC HIDRAULICO 2\"\"X90° HI-HI\"",
+    "descripcion": "CODO PVC HIDRAULICO 2X90° HI-HI",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
@@ -35064,7 +35064,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505003,
-    "descripcion": "\"PERNO HEXAGONAL INOX.A2 2\"\"X1/4\"",
+    "descripcion": "PERNO HEXAGONAL INOX.A2 2X1/4",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "762346532"
@@ -35106,7 +35106,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505009,
-    "descripcion": "\"TORNILLO ROSCALATA BIND INOX 10X2\"\" 1/2\"",
+    "descripcion": "TORNILLO ROSCALATA BIND INOX 10X2 1/2",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "774157107"
@@ -35162,7 +35162,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505017,
-    "descripcion": "\"ABRAZADERA 1\"\" 19-27MM\"",
+    "descripcion": "ABRAZADERA 1 19-27MM",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
@@ -35176,7 +35176,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505019,
-    "descripcion": "\"MANGUERA 2\"\" VAPOR 230°C REFORZADA 250PSI\"",
+    "descripcion": "MANGUERA 2 VAPOR 230°C REFORZADA 250PSI",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "965762000"
@@ -35218,7 +35218,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505025,
-    "descripcion": "\"TARUGO AUTOPERFORANT VOLCANITA 1/2X1\"\"1/2\"",
+    "descripcion": "TARUGO AUTOPERFORANT VOLCANITA 1/2X11/2",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "969210606"
@@ -35239,7 +35239,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505028,
-    "descripcion": "\"TERMINAL HE 1\"\" PLANSA\"",
+    "descripcion": "TERMINAL HE 1 PLANSA",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
@@ -35260,7 +35260,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505031,
-    "descripcion": "\"MANGUERA CAMION 1,1/4\"\" X 20\"\"\"",
+    "descripcion": "MANGUERA CAMION 1,1/4 X 20",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "77549073K"
@@ -35288,14 +35288,14 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505035,
-    "descripcion": "\"TORNILLO ROSCALATA 8X1\"\"1/2\"",
+    "descripcion": "TORNILLO ROSCALATA 8X11/2",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "774157107"
   },
   {
     "codigoSAP": 505036,
-    "descripcion": "\"DISCO DESBASTE ESMERIL 4,5\"\"\"",
+    "descripcion": "DISCO DESBASTE ESMERIL 4,5",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "760607290"
@@ -35358,7 +35358,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505045,
-    "descripcion": "\"CANCAMO CERRADA  2\"\" 1/2\"",
+    "descripcion": "CANCAMO CERRADA  2 1/2",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "201181070"
@@ -35463,7 +35463,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505060,
-    "descripcion": "\"ABRAZADERA OMEGA 3/4\"\"\"",
+    "descripcion": "ABRAZADERA OMEGA 3/4",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "763422801"
@@ -35568,21 +35568,21 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505075,
-    "descripcion": "\"KIT DE PERNOS Y GOLILLAS 1/4 x 2\"\"\"",
+    "descripcion": "KIT DE PERNOS Y GOLILLAS 1/4 x 2",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "762346532"
   },
   {
     "codigoSAP": 505076,
-    "descripcion": "\"TORNILLO ROSCALATA 8 x 2\"\" 1/2\"",
+    "descripcion": "TORNILLO ROSCALATA 8 x 2 1/2",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "762346532"
   },
   {
     "codigoSAP": 505077,
-    "descripcion": "\"CAÑERIA COBRE 1,1/4\"\" TIPO \"\"M\"\" (X METRO)\"",
+    "descripcion": "CAÑERIA COBRE 1,1/4 TIPO M (X METRO)",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "769017909"
@@ -35631,14 +35631,14 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505084,
-    "descripcion": "\"MANGUERA MALLAFLEX 25MM 1\"\"\"",
+    "descripcion": "MANGUERA MALLAFLEX 25MM 1",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "798815709"
   },
   {
     "codigoSAP": 505085,
-    "descripcion": "\"CINTA PERMACE 2 \"\" x 40mt\"",
+    "descripcion": "CINTA PERMACE 2  x 40mt",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "201181070"
@@ -36149,28 +36149,28 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505158,
-    "descripcion": "\"CINTA CORTA HUESO CBT4223/4-108\"\"(SJ-295)\"",
+    "descripcion": "CINTA CORTA HUESO CBT4223/4-108(SJ-295)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640053"
   },
   {
     "codigoSAP": 505159,
-    "descripcion": "\"CINTA CORTA HUESO CBT3223/4-116\"\"(SJ-295)\"",
+    "descripcion": "CINTA CORTA HUESO CBT3223/4-116(SJ-295)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640053"
   },
   {
     "codigoSAP": 505160,
-    "descripcion": "\"CINTA CORTA HUESO CBT3225/8-120\"\"(ST-305)\"",
+    "descripcion": "CINTA CORTA HUESO CBT3225/8-120(ST-305)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640053"
   },
   {
     "codigoSAP": 505161,
-    "descripcion": "\"CINTA CORTA HUESO CBT3225/8-116\"\"(SJ-295)\"",
+    "descripcion": "CINTA CORTA HUESO CBT3225/8-116(SJ-295)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640053"
@@ -36863,10 +36863,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505260,
-    "descripcion": "\"THERMOCOUPLE",
-    "tipoMaterial": " M9X1, L=60 CM\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "05-01-2023"
+    "descripcion": "THERMOCOUPLE M9X1, L=60 CM",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "05-01-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505261,
@@ -36947,10 +36947,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505272,
-    "descripcion": "\"SONDA",
-    "tipoMaterial": " 6X20",
-    "fechaCreacion": "AZUL",
-    "Proveedor": " L=2000MM\""
+    "descripcion": "SONDA 6X20 AZUL L=2000MM",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "05-01-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505273,
@@ -37339,10 +37339,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505328,
-    "descripcion": "\"JUNTA TORICA",
-    "tipoMaterial": " ØI=26,58X3,53MM\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "05-01-2023"
+    "descripcion": "JUNTA TORICA ØI=26,58X3,53MM",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "05-01-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505329,
@@ -37367,10 +37367,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505332,
-    "descripcion": "\"DEDO",
-    "tipoMaterial": " GENERACIÓN LWC 2\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "05-01-2023"
+    "descripcion": "DEDO GENERACIÓN LWC 2",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "05-01-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505333,
@@ -37647,7 +37647,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505372,
-    "descripcion": "\"RUEDA CON FRENOS 4\"\" (VF2PS-1400V)\"",
+    "descripcion": "RUEDA CON FRENOS 4 (VF2PS-1400V)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "05-01-2023",
     "Proveedor": "640047"
@@ -38501,7 +38501,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505494,
-    "descripcion": "\"VASO OPACO 10\"\" (TITAN R290)\"",
+    "descripcion": "VASO OPACO 10 (TITAN R290)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "05-01-2023",
     "Proveedor": "775197501"
@@ -38557,21 +38557,21 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505502,
-    "descripcion": "\"GOLILLA PLANA ACERO INOXIDABLE 3/8\"\"\"",
+    "descripcion": "GOLILLA PLANA ACERO INOXIDABLE 3/8",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "05-01-2023",
     "Proveedor": "797484709"
   },
   {
     "codigoSAP": 505503,
-    "descripcion": "\"TUERCA 1/4\"\"\"",
+    "descripcion": "TUERCA 1/4",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "05-01-2023",
     "Proveedor": "762346532"
   },
   {
     "codigoSAP": 505504,
-    "descripcion": "\"ABRAZADERA 1,1/2\"\" METALICA\"",
+    "descripcion": "ABRAZADERA 1,1/2 METALICA",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "05-01-2023",
     "Proveedor": "797484709"
@@ -38662,35 +38662,35 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505517,
-    "descripcion": "\"SIERRA COPA 1. 1/4\"\" 32MM STARRETT\"",
+    "descripcion": "SIERRA COPA 1. 1/4 32MM STARRETT",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "05-01-2023",
     "Proveedor": "762346532"
   },
   {
     "codigoSAP": 505518,
-    "descripcion": "\"SIERRA COPA 5/8\"\" 16MM STARRETT\"",
+    "descripcion": "SIERRA COPA 5/8 16MM STARRETT",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "05-01-2023",
     "Proveedor": "762346532"
   },
   {
     "codigoSAP": 505519,
-    "descripcion": "\"SIERRA COPA 2\"\" 51MM STARRETT\"",
+    "descripcion": "SIERRA COPA 2 51MM STARRETT",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "05-01-2023",
     "Proveedor": "762346532"
   },
   {
     "codigoSAP": 505520,
-    "descripcion": "\"TOMA TRUPER P/SIERRA COPA 3/8\"\"\"",
+    "descripcion": "TOMA TRUPER P/SIERRA COPA 3/8",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "05-01-2023",
     "Proveedor": "762346532"
   },
   {
     "codigoSAP": 505521,
-    "descripcion": "\"TOMA TRUPER P/SIERRA COPA 7/16\"\"\"",
+    "descripcion": "TOMA TRUPER P/SIERRA COPA 7/16",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "05-01-2023",
     "Proveedor": "762346532"
@@ -38711,7 +38711,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505524,
-    "descripcion": "\"NIPLE BRONCE HE-HE 3/8\"\"\"",
+    "descripcion": "NIPLE BRONCE HE-HE 3/8",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "05-01-2023",
     "Proveedor": "769017909"
@@ -38732,14 +38732,14 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505527,
-    "descripcion": "\"PERNO ANCLAJE 5/16 X 2\"\" INOX\"",
+    "descripcion": "PERNO ANCLAJE 5/16 X 2 INOX",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "05-01-2023",
     "Proveedor": "969210606"
   },
   {
     "codigoSAP": 505528,
-    "descripcion": "\"CAÑERIA COBRE 1\"\" TIPO \"\"L\"\" (X METRO)\"",
+    "descripcion": "CAÑERIA COBRE 1 TIPO L (X METRO)",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "05-01-2023",
     "Proveedor": "769017909"
@@ -39082,10 +39082,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505577,
-    "descripcion": "\"PUERTA -CONJUNTO",
-    "tipoMaterial": " RIGHT 094437\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "23-01-2023"
+    "descripcion": "PUERTA -CONJUNTO RIGHT 094437",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "23-01-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505578,
@@ -39096,7 +39096,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505579,
-    "descripcion": "\"FILTRO SECADOR DML-163 3/8\"\" SO 023Z-5064\"",
+    "descripcion": "FILTRO SECADOR DML-163 3/8 SO 023Z-5064",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "23-01-2023",
     "Proveedor": "799982307"
@@ -39124,10 +39124,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505583,
-    "descripcion": "\"PUERTA -CONJUNTO",
-    "tipoMaterial": " LEFT 094438\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "11-12-2023"
+    "descripcion": "PUERTA -CONJUNTO LEFT 094438",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "11-12-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505584,
@@ -39187,14 +39187,14 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505592,
-    "descripcion": "\"RADIANT PLATE",
-    "tipoMaterial": " 400V 4200W\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "03-02-2023"
+    "descripcion": "RADIANT PLATE 400V 4200W",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "03-02-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505593,
-    "descripcion": "\"DISCO SEMIFLEX 4,1/2\"\" G60/G40\"",
+    "descripcion": "DISCO SEMIFLEX 4,1/2 G60/G40",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "03-02-2023",
     "Proveedor": "774399534"
@@ -39243,10 +39243,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505600,
-    "descripcion": "\"BOILER ASSY",
-    "tipoMaterial": " ATM.LS14 HP 0L1951\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "03-02-2023"
+    "descripcion": "BOILER ASSY ATM.LS14 HP 0L1951",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "03-02-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505601,
@@ -39383,10 +39383,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505620,
-    "descripcion": "\"MOTOR",
-    "tipoMaterial": " KIT O-RING",
-    "fechaCreacion": "WASHER 0CBAN0",
-    "Proveedor": "Repuesto"
+    "descripcion": "MOTOR KIT O-RING WASHER 0CBAN0",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "06-02-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505621,
@@ -39425,10 +39425,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505626,
-    "descripcion": "\"ABRAZADERA",
-    "tipoMaterial": " 26/38 047578\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "06-02-2023"
+    "descripcion": "ABRAZADERA 26/38 047578",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "06-02-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505627,
@@ -39509,7 +39509,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505638,
-    "descripcion": "\"BOBINA C/HILOS \"\"FDF\"\" 220VAC\"",
+    "descripcion": "BOBINA C/HILOS FDF 220VAC",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "06-02-2023",
     "Proveedor": "640085"
@@ -39579,10 +39579,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505648,
-    "descripcion": "\"BOMBA DE LAVADO",
-    "tipoMaterial": " 50HZ",
-    "fechaCreacion": "KIT 0L0437",
-    "Proveedor": "Repuesto"
+    "descripcion": "BOMBA DE LAVADO 50HZ KIT 0L0437",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "06-02-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505649,
@@ -39684,17 +39684,17 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505663,
-    "descripcion": "\"SEALING RING",
-    "tipoMaterial": " 0I=9,19X2,62MM 068573\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "08-02-2023"
+    "descripcion": "SEALING RING 0I=9,19X2,62MM 068573",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "08-02-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505664,
-    "descripcion": "\"HOSE",
-    "tipoMaterial": " 0=4X7,4MM",
-    "fechaCreacion": "L=500CM",
-    "Proveedor": " PRESSURE SWITC\""
+    "descripcion": "HOSE 0=4X7,4MM L=500CM PRESSURE SWITC",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "08-02-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505665,
@@ -39754,10 +39754,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505673,
-    "descripcion": "\"0W4776 SOPORTE",
-    "tipoMaterial": " FIJACION MOTOR 487225535\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "11-12-2023"
+    "descripcion": "0W4776 SOPORTE FIJACION MOTOR 487225535",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "11-12-2023",
+    "Proveedor": "640229"
   },
   {
     "codigoSAP": 505674,
@@ -39908,17 +39908,17 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505695,
-    "descripcion": "\"CORE PROBE",
-    "tipoMaterial": " MULTIPOINT\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "17-02-2023"
+    "descripcion": "CORE PROBE MULTIPOINT",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "17-02-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505696,
-    "descripcion": "\"HEATING ELEMENT",
-    "tipoMaterial": " 440V-24000W\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "17-02-2023"
+    "descripcion": "HEATING ELEMENT 440V-24000W",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "17-02-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505697,
@@ -39943,10 +39943,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505700,
-    "descripcion": "\"HOSE",
-    "tipoMaterial": " L=860 D.I=29/SP.5 -EPDM-\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "17-02-2023"
+    "descripcion": "HOSE L=860 D.I=29/SP.5 -EPDM-",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "17-02-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505701,
@@ -39957,10 +39957,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505702,
-    "descripcion": "\"REDUCING SLEEVE",
-    "tipoMaterial": " 1\"\"1/4F-3/4\"\"M 0C3847\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "20-02-2023"
+    "descripcion": "REDUCING SLEEVE 11/4F-3/4M 0C3847",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "20-02-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505703,
@@ -40034,10 +40034,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505713,
-    "descripcion": "\"MAGNETIC SEAL",
-    "tipoMaterial": " 626X1492 MM 089735\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "24-02-2023"
+    "descripcion": "MAGNETIC SEAL 626X1492 MM 089735",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "24-02-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505714,
@@ -40209,7 +40209,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505738,
-    "descripcion": "\"CODO COBRE 1\"\" X 45° SO\"",
+    "descripcion": "CODO COBRE 1 X 45° SO",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "11-12-2023",
     "Proveedor": "769017909"
@@ -40223,7 +40223,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505740,
-    "descripcion": "\"COPLA COBRE 1\"\" SO\"",
+    "descripcion": "COPLA COBRE 1 SO",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "11-12-2023",
     "Proveedor": "769017909"
@@ -40265,7 +40265,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505746,
-    "descripcion": "\"AISLACION TUBERIA 1,1/8\"\" X 7/8\"\"\"",
+    "descripcion": "AISLACION TUBERIA 1,1/8 X 7/8",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "11-12-2023",
     "Proveedor": "799982307"
@@ -40377,7 +40377,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505762,
-    "descripcion": "\"TORNILLO 3/16\"\"X1/2\"\"(PR-634/PR-623) P62\"",
+    "descripcion": "TORNILLO 3/16X1/2(PR-634/PR-623) P62",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "16-03-2023",
     "Proveedor": "640052"
@@ -40433,7 +40433,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505770,
-    "descripcion": "\"AISLACION TUBERIA 1,1/8\"\" X 3/4\"\" (19X28)\"",
+    "descripcion": "AISLACION TUBERIA 1,1/8 X 3/4 (19X28)",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "20-03-2023",
     "Proveedor": "799982307"
@@ -40447,7 +40447,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505772,
-    "descripcion": "\"RUEDA SIN FRENOS 4\"\" (VF2PS-1400V)\"",
+    "descripcion": "RUEDA SIN FRENOS 4 (VF2PS-1400V)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "21-03-2023",
     "Proveedor": "640047"
@@ -40475,10 +40475,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505776,
-    "descripcion": "\"CATALIZADOR 1015 PACTAN",
-    "tipoMaterial": "500ML 088313\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "22-03-2023"
+    "descripcion": "CATALIZADOR 1015 PACTAN500ML 088313",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "22-03-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505777,
@@ -40489,10 +40489,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505778,
-    "descripcion": "\"BANDA ADHESIVA",
-    "tipoMaterial": " ALTA TEMPERATURA 0G3527\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "22-03-2023"
+    "descripcion": "BANDA ADHESIVA ALTA TEMPERATURA 0G3527",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "22-03-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505779,
@@ -40895,10 +40895,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505836,
-    "descripcion": "\"ABRAZADERA",
-    "tipoMaterial": " DIA. 7,3-7,8MM 0L0082\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "11-05-2023"
+    "descripcion": "ABRAZADERA DIA. 7,3-7,8MM 0L0082",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "11-05-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505837,
@@ -41000,10 +41000,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505851,
-    "descripcion": "\"CONTAINER",
-    "tipoMaterial": " IR LENGHT EQ LIBERO 0D6263\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "15-05-2023"
+    "descripcion": "CONTAINER IR LENGHT EQ LIBERO 0D6263",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "15-05-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505852,
@@ -41035,10 +41035,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505856,
-    "descripcion": "\"INTERCAMBIADOR",
-    "tipoMaterial": " ASSY",
-    "fechaCreacion": "INF. GAS 20 0C4327",
-    "Proveedor": "Repuesto"
+    "descripcion": "INTERCAMBIADOR ASSY INF. GAS 20 0C4327",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "19-05-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505857,
@@ -41098,7 +41098,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505865,
-    "descripcion": "\"VALVULA SOLENOIDE 1 VIA 3/4\"\" 90°\"",
+    "descripcion": "VALVULA SOLENOIDE 1 VIA 3/4 90°",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "17-04-2023",
     "Proveedor": "640066"
@@ -41112,7 +41112,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505867,
-    "descripcion": "\"THERMISTER PROBE 6.5\"\" GB/JAVA/DUNKIN\"",
+    "descripcion": "THERMISTER PROBE 6.5 GB/JAVA/DUNKIN",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "17-04-2023",
     "Proveedor": "640068"
@@ -41217,7 +41217,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505882,
-    "descripcion": "\"TORNILLO ALLEN C/C 1/4 X 1/4\"\" LQ.15\"",
+    "descripcion": "TORNILLO ALLEN C/C 1/4 X 1/4 LQ.15",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "17-04-2023",
     "Proveedor": "640062"
@@ -41385,7 +41385,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505906,
-    "descripcion": "\"CODO BRONCE 1\"\" HI-HE\"",
+    "descripcion": "CODO BRONCE 1 HI-HE",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "17-04-2023",
     "Proveedor": "769017909"
@@ -41399,7 +41399,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505908,
-    "descripcion": "\"HILO TUERCA BCE 1/2\"\"\"",
+    "descripcion": "HILO TUERCA BCE 1/2",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "17-04-2023",
     "Proveedor": "761782894"
@@ -41455,10 +41455,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505916,
-    "descripcion": "\"REJILLA FUEGO ABIERTO",
-    "tipoMaterial": " FUNDICION 0C0132\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "21-04-2023"
+    "descripcion": "REJILLA FUEGO ABIERTO FUNDICION 0C0132",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "21-04-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505917,
@@ -41511,10 +41511,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505924,
-    "descripcion": "\"JUNTA TORICA",
-    "tipoMaterial": " ØI=50X3 MM\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "21-04-2023"
+    "descripcion": "JUNTA TORICA ØI=50X3 MM",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "21-04-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 505925,
@@ -42456,7 +42456,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 506059,
-    "descripcion": "\"PATA ALUMINIO 4 3/4\"\" (M-32/22)\"",
+    "descripcion": "PATA ALUMINIO 4 3/4 (M-32/22)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "21-04-2023",
     "Proveedor": "640053"
@@ -42589,7 +42589,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 506078,
-    "descripcion": "\"COPLA COBRE 2\"\" X 1,1/4\"\"\"",
+    "descripcion": "COPLA COBRE 2 X 1,1/4",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "21-04-2023",
     "Proveedor": "Descontinuado"
@@ -42834,7 +42834,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 506113,
-    "descripcion": "\"DESAGUE LAVAPLATO METALICO 4\"\"\"",
+    "descripcion": "DESAGUE LAVAPLATO METALICO 4",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "26-04-2023",
     "Proveedor": "965088105"
@@ -43135,10 +43135,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 506156,
-    "descripcion": "\"GUIA EMBELLECEDOR",
-    "tipoMaterial": " MANDO FORNTAL 0C2007\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "26-04-2023"
+    "descripcion": "GUIA EMBELLECEDOR MANDO FORNTAL 0C2007",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "26-04-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 506157,
@@ -43905,14 +43905,14 @@ window.repuestos = [
   },
   {
     "codigoSAP": 506266,
-    "descripcion": "\"CODO COBRE 1\"\" SO\"",
+    "descripcion": "CODO COBRE 1 SO",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "26-04-2023",
     "Proveedor": "769017909"
   },
   {
     "codigoSAP": 506267,
-    "descripcion": "\"COPLA COBRE REDUCCION 1,1/4\"\" X 1\"\" SO\"",
+    "descripcion": "COPLA COBRE REDUCCION 1,1/4 X 1 SO",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "26-04-2023",
     "Proveedor": "769017909"
@@ -43975,7 +43975,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 506276,
-    "descripcion": "\"ESPIGA PLASTICA HI 1\"\"\"",
+    "descripcion": "ESPIGA PLASTICA HI 1",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "26-04-2023",
     "Proveedor": "Descontinuado"
@@ -44045,7 +44045,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 506286,
-    "descripcion": "\"TORNILLO ROSCALATA 6 X 1,1/4\"\"\"",
+    "descripcion": "TORNILLO ROSCALATA 6 X 1,1/4",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "26-04-2023",
     "Proveedor": "Descontinuado"
@@ -44080,7 +44080,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 506291,
-    "descripcion": "\"ABRAZADERA 2,5\"\" 40-64\"",
+    "descripcion": "ABRAZADERA 2,5 40-64",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "26-04-2023",
     "Proveedor": "77549073K"
@@ -44129,7 +44129,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 506298,
-    "descripcion": "\"CINTA CORTA HUESO CBT4223/4-116\"\"(SJ-295)\"",
+    "descripcion": "CINTA CORTA HUESO CBT4223/4-116(SJ-295)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "26-04-2023",
     "Proveedor": "640053"
@@ -45256,14 +45256,14 @@ window.repuestos = [
   },
   {
     "codigoSAP": 506459,
-    "descripcion": "\"SALIDA CAJA EMT 3/4\"\"\"",
+    "descripcion": "SALIDA CAJA EMT 3/4",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "11-12-2023",
     "Proveedor": "797484709"
   },
   {
     "codigoSAP": 506460,
-    "descripcion": "\"TUBO EMT. 3/4\"\"\"",
+    "descripcion": "TUBO EMT. 3/4",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "11-12-2023",
     "Proveedor": "797484709"
@@ -45340,10 +45340,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 506471,
-    "descripcion": "\"BURLETE PUERTA",
-    "tipoMaterial": " 666,5X736,5 MM 083397\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "12-06-2023"
+    "descripcion": "BURLETE PUERTA 666,5X736,5 MM 083397",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "12-06-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 506472,
@@ -45375,7 +45375,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 506476,
-    "descripcion": "\"UNION AMERICANA 3/4\"\" (VFP-18PRO)\"",
+    "descripcion": "UNION AMERICANA 3/4 (VFP-18PRO)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "14-06-2023",
     "Proveedor": "640047"
@@ -45389,10 +45389,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 506478,
-    "descripcion": "\"FUSIBLE",
-    "tipoMaterial": " 5X20",
-    "fechaCreacion": "250V 1A 0L3432",
-    "Proveedor": "Repuesto"
+    "descripcion": "FUSIBLE 5X20250V 1A 0L3432",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "16-06-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 506479,
@@ -45417,31 +45417,31 @@ window.repuestos = [
   },
   {
     "codigoSAP": 506482,
-    "descripcion": "\"PRESOSTATO",
-    "tipoMaterial": " GP600 AOSQ 0C6217\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "20-06-2023"
+    "descripcion": "PRESOSTATO GP600 AOSQ 0C6217",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "20-06-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 506483,
-    "descripcion": "\"VALVULA DE ESFERA",
-    "tipoMaterial": " 3/8\"\" 0C9635\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "20-06-2023"
+    "descripcion": "VALVULA DE ESFERA 3/8 0C9635",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "20-06-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 506484,
-    "descripcion": "\"CONTRATUERCA 3/8\"\" SP.6MM 0C8993\"",
+    "descripcion": "CONTRATUERCA 3/8 SP.6MM 0C8993",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "20-06-2023",
     "Proveedor": "640068"
   },
   {
     "codigoSAP": 506485,
-    "descripcion": "\"FAN",
-    "tipoMaterial": " WITH GRILL 094830\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "20-06-2023"
+    "descripcion": "FAN WITH GRILL 094830",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "20-06-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 506486,
@@ -45452,10 +45452,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 506487,
-    "descripcion": "\"FUSIBLE",
-    "tipoMaterial": " 3,15A 5X20",
-    "fechaCreacion": "TIME-LAG 0C4996",
-    "Proveedor": "Repuesto"
+    "descripcion": "FUSIBLE 3,15A 5X20 TIME-LAG 0C4996",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "22-06-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 506488,
@@ -46565,7 +46565,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 506646,
-    "descripcion": "\"TUERCA 3/16\"\" (CUT.4/6/8)\"",
+    "descripcion": "TUERCA 3/16 (CUT.4/6/8)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "30-06-2023",
     "Proveedor": "640062"
@@ -46579,7 +46579,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 506648,
-    "descripcion": "\"TORNILLO HEX 5/16X5/8\"\" ZINC (CUT.4/6/8)\"",
+    "descripcion": "TORNILLO HEX 5/16X5/8 ZINC (CUT.4/6/8)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "30-06-2023",
     "Proveedor": "640062"
@@ -48364,10 +48364,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 506903,
-    "descripcion": "\"PUERTA DE CRISTAL",
-    "tipoMaterial": " COMPLETE 093736\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "30-06-2023"
+    "descripcion": "PUERTA DE CRISTAL COMPLETE 093736",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "30-06-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 506904,
@@ -48455,7 +48455,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 506916,
-    "descripcion": "\"BURLETE PUERTA 20.1875\"\"X19.125\"\" 0CK222\"",
+    "descripcion": "BURLETE PUERTA 20.1875X19.125 0CK222",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "30-06-2023",
     "Proveedor": "640068"
@@ -49407,7 +49407,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507052,
-    "descripcion": "\"DESAGUE PLASTICO 3/8\"\" CON TUERCA 5/8\"\"\"",
+    "descripcion": "DESAGUE PLASTICO 3/8 CON TUERCA 5/8",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "13-09-2023",
     "Proveedor": "640118"
@@ -49428,7 +49428,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507055,
-    "descripcion": "\"RESORTE 19/64\"\" OD X 13\"\" PUERTA CORREDIZA\"",
+    "descripcion": "RESORTE 19/64 OD X 13 PUERTA CORREDIZA",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "13-09-2023",
     "Proveedor": "640118"
@@ -49449,7 +49449,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507058,
-    "descripcion": "\"PATA 2\"\" H=200 INOX\"",
+    "descripcion": "PATA 2 H=200 INOX",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "13-09-2023",
     "Proveedor": "640078"
@@ -49498,10 +49498,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507065,
-    "descripcion": "\"ADAPTADOR",
-    "tipoMaterial": " DIA.10 0C8716\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "11-10-2023"
+    "descripcion": "ADAPTADOR DIA.10 0C8716",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "11-10-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507066,
@@ -51927,10 +51927,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507412,
-    "descripcion": "\"0W21FZ PULSADO",
-    "tipoMaterial": " BS3P34 RT 438962830\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "02-11-2023"
+    "descripcion": "0W21FZ PULSADO BS3P34 RT 438962830",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "02-11-2023",
+    "Proveedor": "640229"
   },
   {
     "codigoSAP": 507413,
@@ -52060,7 +52060,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507431,
-    "descripcion": "\"U DE COBRE SO 1\"\"\"",
+    "descripcion": "U DE COBRE SO 1",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "02-11-2023",
     "Proveedor": "769017909"
@@ -52102,7 +52102,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507437,
-    "descripcion": "\"ABRAZADERA 2 1/2\"\" P/RIEL RC\"",
+    "descripcion": "ABRAZADERA 2 1/2 P/RIEL RC",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "11-12-2023",
     "Proveedor": "797484709"
@@ -52130,28 +52130,28 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507441,
-    "descripcion": "\"TUBO FLEXIBLE PVC 25MM 3/4\"\"\"",
+    "descripcion": "TUBO FLEXIBLE PVC 25MM 3/4",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "11-12-2023",
     "Proveedor": "797484709"
   },
   {
     "codigoSAP": 507442,
-    "descripcion": "\"TUBO FLEXIBLE PVC 20MM 1/2\"\"\"",
+    "descripcion": "TUBO FLEXIBLE PVC 20MM 1/2",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "11-12-2023",
     "Proveedor": "797484709"
   },
   {
     "codigoSAP": 507443,
-    "descripcion": "\"TERMINAL RECTO PARA FLEXIBLE 25MM 3/4\"\"\"",
+    "descripcion": "TERMINAL RECTO PARA FLEXIBLE 25MM 3/4",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "11-12-2023",
     "Proveedor": "797484709"
   },
   {
     "codigoSAP": 507444,
-    "descripcion": "\"TERMINAL RECTO PARA FLEXIBLE 20MM 1/2\"\"\"",
+    "descripcion": "TERMINAL RECTO PARA FLEXIBLE 20MM 1/2",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "11-12-2023",
     "Proveedor": "797484709"
@@ -52228,10 +52228,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507455,
-    "descripcion": "\"INYECTOR PILOTO",
-    "tipoMaterial": " N.40",
-    "fechaCreacion": "GN 003327",
-    "Proveedor": "Repuesto"
+    "descripcion": "INYECTOR PILOTO N.40 GN 003327",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "20-12-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507456,
@@ -52249,17 +52249,17 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507458,
-    "descripcion": "\"INYECTOR GAS",
-    "tipoMaterial": " N°160",
-    "fechaCreacion": "GN 0A2089",
-    "Proveedor": "Repuesto"
+    "descripcion": "INYECTOR GAS N°160 GN 0A2089",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "20-12-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507459,
-    "descripcion": "\"INYECTOR DE GAS",
-    "tipoMaterial": " N°125",
-    "fechaCreacion": "GPL 0A2101",
-    "Proveedor": "Repuesto"
+    "descripcion": "INYECTOR DE GAS N°125 GPL 0A2101",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "20-12-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507460,
@@ -52298,10 +52298,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507465,
-    "descripcion": "\"TORNILLO",
-    "tipoMaterial": " TE M6X25 FLANG 0C3973\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "20-12-2023"
+    "descripcion": "TORNILLO TE M6X25 FLANG 0C3973",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "20-12-2023",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507466,
@@ -52802,17 +52802,17 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507537,
-    "descripcion": "\"VALVULA DE ESFERA",
-    "tipoMaterial": " 3/8\"\"",
-    "fechaCreacion": "CPL. 0C8648",
-    "Proveedor": "Repuesto"
+    "descripcion": "VALVULA DE ESFERA 3/8 CPL. 0C8648",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "04-03-2024",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507538,
-    "descripcion": "\"PLACA DE MANDOS",
-    "tipoMaterial": " IR 2 ZONES 0D6988\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "04-03-2024"
+    "descripcion": "PLACA DE MANDOS IR 2 ZONES 0D6988",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "04-03-2024",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507539,
@@ -52830,10 +52830,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507541,
-    "descripcion": "\"TIRADOR",
-    "tipoMaterial": " ASSY 0C2072\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "04-03-2024"
+    "descripcion": "TIRADOR ASSY 0C2072",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "04-03-2024",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507542,
@@ -52879,10 +52879,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507548,
-    "descripcion": "\"EJE TAPA",
-    "tipoMaterial": " ØE=16MM",
-    "fechaCreacion": "L=437MM 059862",
-    "Proveedor": "Repuesto"
+    "descripcion": "EJE TAPA ØE=16MM L=437MM 059862",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "04-03-2024",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507549,
@@ -52893,10 +52893,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507550,
-    "descripcion": "\"BLOQUE",
-    "tipoMaterial": " PARA BISAGRA 059864\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "04-03-2024"
+    "descripcion": "BLOQUE PARA BISAGRA 059864",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "04-03-2024",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507551,
@@ -52914,10 +52914,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507553,
-    "descripcion": "\"TORNILLO",
-    "tipoMaterial": " M6 059859\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "04-03-2024"
+    "descripcion": "TORNILLO M6 059859",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "04-03-2024",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507554,
@@ -52949,17 +52949,17 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507558,
-    "descripcion": "\"PERNO 3,5\"\" INOX\"",
+    "descripcion": "PERNO 3,5 INOX",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "04-03-2024",
     "Proveedor": "969210606"
   },
   {
     "codigoSAP": 507559,
-    "descripcion": "\"WATER INLET PIPE",
-    "tipoMaterial": " 6 1/1 0CK128\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "14-03-2024"
+    "descripcion": "WATER INLET PIPE 6 1/1 0CK128",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "14-03-2024",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507560,
@@ -53152,7 +53152,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507587,
-    "descripcion": "\"PLUG FOR \"\"C95-155\"\" WASH ARM\"",
+    "descripcion": "PLUG FOR C95-155 WASH ARM",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "15-12-2023",
     "Proveedor": "640077"
@@ -53264,10 +53264,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507603,
-    "descripcion": "\"PLACA DE COCCION",
-    "tipoMaterial": " 230V 2500W 0C8545\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "24-04-2024"
+    "descripcion": "PLACA DE COCCION 230V 2500W 0C8545",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "24-04-2024",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507604,
@@ -53292,10 +53292,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507607,
-    "descripcion": "\"ABRAZADERA",
-    "tipoMaterial": " 35-50/9 046878\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "24-04-2024"
+    "descripcion": "ABRAZADERA 35-50/9 046878",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "24-04-2024",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507608,
@@ -53313,17 +53313,17 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507610,
-    "descripcion": "\"ABRAZADERA",
-    "tipoMaterial": " 100-120 0L0915\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "24-04-2024"
+    "descripcion": "ABRAZADERA 100-120 0L0915",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "24-04-2024",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507611,
-    "descripcion": "\"TUBO ASPIRACION",
-    "tipoMaterial": " DX NEWRT 0L1551\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "24-04-2024"
+    "descripcion": "TUBO ASPIRACION DX NEWRT 0L1551",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "24-04-2024",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507612,
@@ -53355,10 +53355,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507616,
-    "descripcion": "\"CORTINA",
-    "tipoMaterial": " DOBLE",
-    "fechaCreacion": "580X490MM",
-    "Proveedor": " PVC 0L1732\""
+    "descripcion": "CORTINA DOBLE 580X490MM PVC 0L1732",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "24-04-2024",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507617,
@@ -53390,7 +53390,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507621,
-    "descripcion": "\"TEE COBRE 1,1/4\"\" SO\"",
+    "descripcion": "TEE COBRE 1,1/4 SO",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "26-04-2024",
     "Proveedor": "769017909"
@@ -53474,7 +53474,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507633,
-    "descripcion": "\"LUZ PILOTO 250V 16\"\" LDS AMBAR CLIP\"",
+    "descripcion": "LUZ PILOTO 250V 16 LDS AMBAR CLIP",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "02-05-2024",
     "Proveedor": "640080"
@@ -53754,7 +53754,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507673,
-    "descripcion": "\"COLECTOR DESAGUE 22\"\"COMPACT NEWRT 0L1589\"",
+    "descripcion": "COLECTOR DESAGUE 22COMPACT NEWRT 0L1589",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "22-05-2024",
     "Proveedor": "640068"
@@ -53831,14 +53831,14 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507684,
-    "descripcion": "\"MANGUERA DESAGUE CRISTAL 8MM 5/16\"\" (PS)\"",
+    "descripcion": "MANGUERA DESAGUE CRISTAL 8MM 5/16 (PS)",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "04-06-2024",
     "Proveedor": "52487641"
   },
   {
     "codigoSAP": 507685,
-    "descripcion": "\"ABRAZADERA 1,1/4\"\" NORMAL\"",
+    "descripcion": "ABRAZADERA 1,1/4 NORMAL",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "05-06-2024",
     "Proveedor": "77549073K"
@@ -53859,7 +53859,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507688,
-    "descripcion": "\"POLEA INFERIOR 14\"\" (ST-295)\"",
+    "descripcion": "POLEA INFERIOR 14 (ST-295)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "07-06-2024",
     "Proveedor": "640053"
@@ -53873,14 +53873,14 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507690,
-    "descripcion": "\"PLACA ELECTRONICA",
-    "tipoMaterial": " MEC12R RT 0L3014\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "30-05-2024"
+    "descripcion": "PLACA ELECTRONICA MEC12R RT 0L3014",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "30-05-2024",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507691,
-    "descripcion": "\"U COBRE 1,1/4\"\" SO\"",
+    "descripcion": "U COBRE 1,1/4 SO",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "07-06-2024",
     "Proveedor": "799982307"
@@ -53922,17 +53922,17 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507697,
-    "descripcion": "\"GASKET",
-    "tipoMaterial": " SET 5PCS 0S1107\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "26-06-2024"
+    "descripcion": "GASKET SET 5PCS 0S1107",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "26-06-2024",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507698,
-    "descripcion": "\"WATER PIPE",
-    "tipoMaterial": " N900 0CA136\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "26-06-2024"
+    "descripcion": "WATER PIPE N900 0CA136",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "26-06-2024",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507699,
@@ -53950,10 +53950,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507701,
-    "descripcion": "\"WATER FILTER",
-    "tipoMaterial": " 1/2\"\" 0C9846\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "26-06-2024"
+    "descripcion": "WATER FILTER 1/2 0C9846",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "26-06-2024",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507702,
@@ -53971,10 +53971,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507704,
-    "descripcion": "\"CERAMIC GLASS PLATE",
-    "tipoMaterial": " 693X433MM 0C7876\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "26-06-2024"
+    "descripcion": "CERAMIC GLASS PLATE 693X433MM 0C7876",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "26-06-2024",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507705,
@@ -54069,14 +54069,14 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507718,
-    "descripcion": "\"CINTA CORTA HUESO CBT3255/8-120\"\"(ST-305)\"",
+    "descripcion": "CINTA CORTA HUESO CBT3255/8-120(ST-305)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "01-07-2024",
     "Proveedor": "640053"
   },
   {
     "codigoSAP": 507719,
-    "descripcion": "\"CINTA CORTA HUESO CBT3255/8-116\"\"(SJ-295)\"",
+    "descripcion": "CINTA CORTA HUESO CBT3255/8-116(SJ-295)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "01-07-2024",
     "Proveedor": "640053"
@@ -54090,14 +54090,14 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507721,
-    "descripcion": "\"MANGUERA CAMION 2\"\"X18\"\"\"",
+    "descripcion": "MANGUERA CAMION 2X18",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "01-07-2024",
     "Proveedor": "77549073K"
   },
   {
     "codigoSAP": 507722,
-    "descripcion": "\"MANGUERA CAMION 2\"\"X22\"\"\"",
+    "descripcion": "MANGUERA CAMION 2X22",
     "tipoMaterial": "Insumo",
     "fechaCreacion": "01-07-2024",
     "Proveedor": "77549073K"
@@ -54321,7 +54321,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507754,
-    "descripcion": "\"GUIA 1\"\"1/2 094257\"",
+    "descripcion": "GUIA 11/2 094257",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "30-07-2024",
     "Proveedor": "640068"
@@ -54384,7 +54384,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507763,
-    "descripcion": "\"BISAGRA SUPERIOR DER/IZQ 1/4\"\"X6\"\"\"",
+    "descripcion": "BISAGRA SUPERIOR DER/IZQ 1/4X6",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "30-07-2024",
     "Proveedor": "640118"
@@ -54496,7 +54496,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507779,
-    "descripcion": "\"TUERCA CONICA 5/8\"\" HI NJ9232GK, NJ9238GK\"",
+    "descripcion": "TUERCA CONICA 5/8 HI NJ9232GK, NJ9238GK",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "30-07-2024",
     "Proveedor": "799982307"
@@ -54531,7 +54531,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507784,
-    "descripcion": "\"NIPLE 3/4\"\" X 12\"",
+    "descripcion": "NIPLE 3/4 X 12",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "30-07-2024",
     "Proveedor": "640077"
@@ -55021,10 +55021,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507854,
-    "descripcion": "\"TERMOPAR",
-    "tipoMaterial": " M9X1 L=1200MM 020094\"",
-    "fechaCreacion": "Repuesto",
-    "Proveedor": "16-09-2024"
+    "descripcion": "TERMOPAR M9X1 L=1200MM 020094",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "16-09-2024",
+    "Proveedor": "640068"
   },
   {
     "codigoSAP": 507855,
@@ -55042,7 +55042,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507857,
-    "descripcion": "\"0E1362 NIPLE 3/4\"\" MF L=57,5MM 438005603\"",
+    "descripcion": "0E1362 NIPLE 3/4 MF L=57,5MM 438005603",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "16-09-2024",
     "Proveedor": "640229"
@@ -55539,7 +55539,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507928,
-    "descripcion": "\"VALVULA DESCARGA 1\"\" 006688\"",
+    "descripcion": "VALVULA DESCARGA 1 006688",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "16-09-2024",
     "Proveedor": "640068"
@@ -55553,7 +55553,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507930,
-    "descripcion": "\"ELECTROVALVULA 3/8\"\" 230V 0L4427\"",
+    "descripcion": "ELECTROVALVULA 3/8 230V 0L4427",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "16-09-2024",
     "Proveedor": "640068"
@@ -56484,7 +56484,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 508063,
-    "descripcion": "BRIDA SELLO LAMPARA 002628",
+    "descripcion": "SOPORTE SELLO LAMPARA 002628",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "03-02-2025",
     "Proveedor": "640068"
@@ -59095,7 +59095,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 508436,
-    "descripcion": "\"TARJETA CON PANTALLA TACTIL 3,5\"\" S/WIFI\"",
+    "descripcion": "TARJETA CON PANTALLA TACTIL 3,5 S/WIFI",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "30-04-2025",
     "Proveedor": "640133"
@@ -59116,7 +59116,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 508439,
-    "descripcion": "\"TARJETA PANTALLA TACTIL 4,3I\"\" TFT C/WIFI\"",
+    "descripcion": "TARJETA PANTALLA TACTIL 4,3I TFT C/WIFI",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "30-04-2025",
     "Proveedor": "640133"
@@ -59193,7 +59193,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 508450,
-    "descripcion": "\"CONDENSADOR CON TUBO GALVANIZADO 3/16\"\"\"",
+    "descripcion": "CONDENSADOR CON TUBO GALVANIZADO 3/16",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "09-05-2025",
     "Proveedor": "640118"
@@ -59312,7 +59312,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 508467,
-    "descripcion": "\"RUEDA C/FRENO Y VASTAGO 2,5\"\" GIRATORIA\"",
+    "descripcion": "RUEDA C/FRENO Y VASTAGO 2,5 GIRATORIA",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "26-05-2025",
     "Proveedor": "640219"
@@ -59648,7 +59648,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 508515,
-    "descripcion": "\"VALVULA DRENAJE AGUA 1\"\" 0CA490\"",
+    "descripcion": "VALVULA DRENAJE AGUA 1 0CA490",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "24-06-2025",
     "Proveedor": "640068"
@@ -60362,7 +60362,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 508618,
-    "descripcion": "\"CONTRATUERCA 1/2\"\"\"",
+    "descripcion": "CONTRATUERCA 1/2",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "26-05-2025",
     "Proveedor": "640077"
@@ -62273,7 +62273,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 508891,
-    "descripcion": "\"MEMBRANA ADHESIVA TACTIL 10 \"\"K\"\" 0C8706\"",
+    "descripcion": "MEMBRANA ADHESIVA TACTIL 10 K 0C8706",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "13-11-2025",
     "Proveedor": "640068"
@@ -64303,7 +64303,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 509181,
-    "descripcion": "\"CINTA CORTA HUESO 0CBT4225/8-65\"\"(SJ-295)\"",
+    "descripcion": "CINTA CORTA HUESO 0CBT4225/8-65(SJ-295)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-01-2026",
     "Proveedor": "640053"
@@ -65192,7 +65192,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 509308,
-    "descripcion": "\"RUEDA GIRATORIA 3\"\" (7,6CM) (WEL-1L)\"",
+    "descripcion": "RUEDA GIRATORIA 3 (7,6CM) (WEL-1L)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "22-06-2026",
     "Proveedor": "640161"
@@ -65213,7 +65213,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 509311,
-    "descripcion": "\"RUEDA GIRATORIA 4\"\" (10CM) (WEL-1L)\"",
+    "descripcion": "RUEDA GIRATORIA 4 (10CM) (WEL-1L)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "22-06-2026",
     "Proveedor": "640161"
@@ -65885,7 +65885,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 509407,
-    "descripcion": "\"PANEL MONTAJE PANTALLA LCD 10,1\"\" (TERRA)\"",
+    "descripcion": "PANEL MONTAJE PANTALLA LCD 10,1 (TERRA)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "09-07-2026",
     "Proveedor": "640029"
@@ -65934,7 +65934,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 509414,
-    "descripcion": "\"VALVULA SOLENOIDE 90° 1 VIA 3/4\"\" 0C0938\"",
+    "descripcion": "VALVULA SOLENOIDE 90° 1 VIA 3/4 0C0938",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "15-07-2026",
     "Proveedor": "640068"
@@ -65955,7 +65955,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 509417,
-    "descripcion": "\"KIT BISAGRA 1/4\"\" PIN 1.3\"\" MAGNEPLAST NEG\"",
+    "descripcion": "KIT BISAGRA 1/4 PIN 1.3 MAGNEPLAST NEG",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "17-07-2026",
     "Proveedor": "640118"
@@ -65969,7 +65969,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 509419,
-    "descripcion": "\"EVAPORADOR AIRE FORZADO 16 TUBOS 3/8\"\"\"",
+    "descripcion": "EVAPORADOR AIRE FORZADO 16 TUBOS 3/8",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "17-07-2026",
     "Proveedor": "640118"
