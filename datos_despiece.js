@@ -3177,7 +3177,7 @@ const datosDespiece = [
     "codigoFabrica": "0400197",
     "codigoSAP": 500318,
     "cantidad": 1,
-    "modelo": "MGF8407CL65C"
+    "modelo": "MGF8407"
   },
   {
     "codigoFabrica": "0400197",
@@ -9033,7 +9033,37 @@ const datosDespiece = [
     "codigoFabrica": "0C4934",
     "codigoSAP": 500987,
     "cantidad": 1,
+    "modelo": "AOS061EBA2"
+  },
+  {
+    "codigoFabrica": "0C4934",
+    "codigoSAP": 500987,
+    "cantidad": 1,
     "modelo": "AOS061EKA1"
+  },
+  {
+    "codigoFabrica": "0C4934",
+    "codigoSAP": 500987,
+    "cantidad": 1,
+    "modelo": "AOS061GKD1"
+  },
+  {
+    "codigoFabrica": "0C4934",
+    "codigoSAP": 500987,
+    "cantidad": 1,
+    "modelo": "AOS101EBA2"
+  },
+  {
+    "codigoFabrica": "0C4934",
+    "codigoSAP": 500987,
+    "cantidad": 1,
+    "modelo": "AOS101ECA2"
+  },
+  {
+    "codigoFabrica": "0C4934",
+    "codigoSAP": 500987,
+    "cantidad": 1,
+    "modelo": "AOS101GKD1"
   },
   {
     "codigoFabrica": "0C4934",
@@ -10791,7 +10821,49 @@ const datosDespiece = [
     "codigoFabrica": "0CB561",
     "codigoSAP": 501123,
     "cantidad": 1,
+    "modelo": "AOS201EBA2"
+  },
+  {
+    "codigoFabrica": "0CB561",
+    "codigoSAP": 501123,
+    "cantidad": 1,
     "modelo": "AOS201EKA1"
+  },
+  {
+    "codigoFabrica": "0CB561",
+    "codigoSAP": 501123,
+    "cantidad": 1,
+    "modelo": "AOS201ETA1"
+  },
+  {
+    "codigoFabrica": "0CB561",
+    "codigoSAP": 501123,
+    "cantidad": 1,
+    "modelo": "AOS201GKD1"
+  },
+  {
+    "codigoFabrica": "0CB561",
+    "codigoSAP": 501123,
+    "cantidad": 1,
+    "modelo": "AOS202EBA2"
+  },
+  {
+    "codigoFabrica": "0CB561",
+    "codigoSAP": 501123,
+    "cantidad": 1,
+    "modelo": "AOS202EKA1"
+  },
+  {
+    "codigoFabrica": "0CB561",
+    "codigoSAP": 501123,
+    "cantidad": 1,
+    "modelo": "AOS202ETA1"
+  },
+  {
+    "codigoFabrica": "0CB561",
+    "codigoSAP": 501123,
+    "cantidad": 1,
+    "modelo": "AOS202GTD1"
   },
   {
     "codigoFabrica": "0CB661",
@@ -48350,6 +48422,12 @@ const datosDespiece = [
   {
     "codigoFabrica": "66490313",
     "codigoSAP": 505371,
+    "cantidad": 4,
+    "modelo": "MGF8407"
+  },
+  {
+    "codigoFabrica": "66490313",
+    "codigoSAP": 505371,
     "cantidad": 1,
     "modelo": "VF1PS-700V"
   },
@@ -50236,6 +50314,36 @@ const datosDespiece = [
     "codigoSAP": 505647,
     "cantidad": 1,
     "modelo": "RBF101"
+  },
+  {
+    "codigoFabrica": "0CK118",
+    "codigoSAP": 505651,
+    "cantidad": 1,
+    "modelo": "ECOE101K2A0"
+  },
+  {
+    "codigoFabrica": "0CK118",
+    "codigoSAP": 505651,
+    "cantidad": 1,
+    "modelo": "ECOE201K2A0"
+  },
+  {
+    "codigoFabrica": "0CK118",
+    "codigoSAP": 505651,
+    "cantidad": 1,
+    "modelo": "ECOE202C2A0"
+  },
+  {
+    "codigoFabrica": "0CK118",
+    "codigoSAP": 505651,
+    "cantidad": 1,
+    "modelo": "ECOG101K2H0"
+  },
+  {
+    "codigoFabrica": "0CK118",
+    "codigoSAP": 505651,
+    "cantidad": 1,
+    "modelo": "ECOG201K2H0"
   },
   {
     "codigoFabrica": "072393",
@@ -52294,6 +52402,12 @@ const datosDespiece = [
     "codigoSAP": 505942,
     "cantidad": 1,
     "modelo": "TR-102"
+  },
+  {
+    "codigoFabrica": "101013500003R307",
+    "codigoSAP": 505943,
+    "cantidad": 16,
+    "modelo": "MGF8407"
   },
   {
     "codigoFabrica": "101013500003R307",
@@ -70119,7 +70233,115 @@ const datosDespiece = [
     "codigoFabrica": "002628",
     "codigoSAP": 508063,
     "cantidad": 1,
+    "modelo": "AOS061EBA2"
+  },
+  {
+    "codigoFabrica": "002628",
+    "codigoSAP": 508063,
+    "cantidad": 1,
+    "modelo": "AOS061EKA1"
+  },
+  {
+    "codigoFabrica": "002628",
+    "codigoSAP": 508063,
+    "cantidad": 1,
+    "modelo": "AOS061GKD1"
+  },
+  {
+    "codigoFabrica": "002628",
+    "codigoSAP": 508063,
+    "cantidad": 1,
+    "modelo": "AOS101EBA2"
+  },
+  {
+    "codigoFabrica": "002628",
+    "codigoSAP": 508063,
+    "cantidad": 1,
+    "modelo": "AOS101ECA2"
+  },
+  {
+    "codigoFabrica": "002628",
+    "codigoSAP": 508063,
+    "cantidad": 1,
+    "modelo": "AOS101EKA1"
+  },
+  {
+    "codigoFabrica": "002628",
+    "codigoSAP": 508063,
+    "cantidad": 1,
+    "modelo": "AOS101GKD1"
+  },
+  {
+    "codigoFabrica": "002628",
+    "codigoSAP": 508063,
+    "cantidad": 1,
+    "modelo": "AOS201EBA2"
+  },
+  {
+    "codigoFabrica": "002628",
+    "codigoSAP": 508063,
+    "cantidad": 1,
+    "modelo": "AOS201ECA2"
+  },
+  {
+    "codigoFabrica": "002628",
+    "codigoSAP": 508063,
+    "cantidad": 1,
     "modelo": "AOS201EKA1"
+  },
+  {
+    "codigoFabrica": "002628",
+    "codigoSAP": 508063,
+    "cantidad": 1,
+    "modelo": "AOS201ETA1"
+  },
+  {
+    "codigoFabrica": "002628",
+    "codigoSAP": 508063,
+    "cantidad": 1,
+    "modelo": "AOS201GKD1"
+  },
+  {
+    "codigoFabrica": "002628",
+    "codigoSAP": 508063,
+    "cantidad": 1,
+    "modelo": "AOS202EBA2"
+  },
+  {
+    "codigoFabrica": "002628",
+    "codigoSAP": 508063,
+    "cantidad": 1,
+    "modelo": "AOS202EKA1"
+  },
+  {
+    "codigoFabrica": "002628",
+    "codigoSAP": 508063,
+    "cantidad": 1,
+    "modelo": "AOS202ETA1"
+  },
+  {
+    "codigoFabrica": "002628",
+    "codigoSAP": 508063,
+    "cantidad": 1,
+    "modelo": "AOS202GTD1"
+  },
+  {
+    "codigoFabrica": "002628",
+    "codigoSAP": 508063,
+    "cantidad": 1,
+    "modelo": "ECF-E6-0"
+  },
+  {
+    "codigoFabrica": "002628",
+    "codigoSAP": 508063,
+    "cantidad": 1,
+    "modelo": "ECF-G"
+  },
+  {
+    "codigoFabrica": "002628",
+    "codigoSAP": 508063,
+    "cantidad": 1,
+    "modelo": "W5180H"
   },
   {
     "codigoFabrica": "N°1",
@@ -84795,7 +85017,7 @@ const datosDespiece = [
     "codigoFabrica": "",
     "codigoSAP": 509650,
     "cantidad": 1,
-    "modelo": "MGF8407CL65C"
+    "modelo": "MGF8407"
   },
   {
     "codigoFabrica": "",

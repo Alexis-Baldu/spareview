@@ -9,7 +9,7 @@ const modelosPorMarca = {
     "MBF8501CL65C",
     "MGF8403GR",
     "MGF8406CL65C",
-    "MGF8407CL65C",
+    "MGF8407",
     "MGF8413CL65C",
     "MGF8451GR",
     "MPF8202GR"
@@ -828,6 +828,7 @@ const modelosPorMarca = {
   ],
   "VENTUS": [
     "",
+    "AURA",
     "B-40",
     "B-300A",
     "CTD-520",

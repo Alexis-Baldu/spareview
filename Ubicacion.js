@@ -4273,7 +4273,7 @@ const ubicacionData = [
   },
   {
     "codigoSAP": 502273,
-    "ubicacion": "RF030401"
+    "ubicacion": "YC010101"
   },
   {
     "codigoSAP": 502275,
@@ -7426,6 +7426,10 @@ const ubicacionData = [
   {
     "codigoSAP": 503955,
     "ubicacion": "RG030401"
+  },
+  {
+    "codigoSAP": 503958,
+    "ubicacion": "RG020301"
   },
   {
     "codigoSAP": 503959,
