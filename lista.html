@@ -19,9 +19,37 @@
   <body>
     <!-- Pantalla -->
     <div id="pantalla-despiece" style="display: block;">
-
+      <div id="sidebar">
+        <a href="index.html" class="side-link active" data-id="inicio">
+          <img type="img" src="Icon/home-alt.png" class="icon"/>
+          <span class="text">Inicio</span>
+        </a>
+        <a href="despiece.html" class="side-link" data-id="despiece">
+          <img type="img" src="Icon/department-store.png" class="icon"/>
+          <span class="text">Despiece</span>
+        </a>
+        <a href="lista.html" class="side-link" data-id="lista">
+          <img type="img" src="Icon/table-list.png" class="icon"/>
+          <span class="text">Lista</span>
+        </a>
+        <a href="Cotizador/index.html" class="side-link" data-id="cotizador" target="_blank">
+          <img type="img" src="Icon/file-detail.png" class="icon"/>
+          <span class="text">Cotizador</span>
+        </a>
+        <a href="logistica.html" class="side-link" data-id="logistica">
+          <img type="img" src="Icon/warehouse.png" class="icon"/>
+          <span class="text">Logística</span>
+        </a>
+        <a href="Comex.html" class="side-link" data-id="comex">
+          <img type="img" src="Icon/globe-americas.png" class="icon"/>
+          <span class="text">Comex</span>
+        </a>
+        <a href="Acceso.html" class="side-link" data-id="Configuracion">
+          <img type="img" src="Icon/cog.png" class="icon"/>
+          <span class="text">Config.</span>
+        </a>
+      </div>
       <!-- Selector de canal -->
-      <!--label for="filtro-canal">Seleccione un canal de Venta:</label-->
       <select id="filtro-canal">
         <option value="24">24 - Venta Directa</option>
         <option value="28">28 - Distribuidor</option>
@@ -73,36 +101,6 @@
       <h3>🛒 Carrito</h3>
       <ul id="lista-carrito"></ul>
       <div id="total-carrito"></div>
-    </div>
-    <div id="sidebar">
-      <a href="index.html" class="side-link active" data-id="inicio">
-        <img type="img" src="Icon/home-alt.png" class="icon"/>
-        <span class="text">Inicio</span>
-      </a>
-      <a href="despiece.html" class="side-link" data-id="despiece">
-        <img type="img" src="Icon/department-store.png" class="icon"/>
-        <span class="text">Despiece</span>
-      </a>
-      <a href="lista.html" class="side-link" data-id="lista">
-        <img type="img" src="Icon/table-list.png" class="icon"/>
-        <span class="text">Lista</span>
-      </a>
-      <a href="Cotizador/index.html" class="side-link" data-id="cotizador" target="_blank">
-        <img type="img" src="Icon/file-detail.png" class="icon"/>
-        <span class="text">Cotizador</span>
-      </a>
-      <a href="logistica.html" class="side-link" data-id="logistica">
-        <img type="img" src="Icon/warehouse.png" class="icon"/>
-        <span class="text">Logística</span>
-      </a>
-      <a href="Comex.html" class="side-link" data-id="comex">
-        <img type="img" src="Icon/globe-americas.png" class="icon"/>
-        <span class="text">Comex</span>
-      </a>
-      <a href="Acceso.html" class="side-link" data-id="Configuracion">
-        <img type="img" src="Icon/cog.png" class="icon"/>
-        <span class="text">Config.</span>
-      </a>
     </div>
     <!-- Datos -->
     <script src="mb52.js"></script>
