@@ -79608,43 +79608,43 @@ const datosDespiece = [
     "modelo": "VPC-EH674"
   },
   {
-    "codigoFabrica": "1",
+    "codigoFabrica": "44",
     "codigoSAP": 509241,
     "cantidad": 1,
     "modelo": "VTPV-V08"
   },
   {
-    "codigoFabrica": "2",
+    "codigoFabrica": "39",
     "codigoSAP": 509242,
     "cantidad": 1,
     "modelo": "VTPV-V08"
   },
   {
-    "codigoFabrica": "3",
+    "codigoFabrica": "11",
     "codigoSAP": 509243,
     "cantidad": 1,
     "modelo": "VTPV-V08"
   },
   {
-    "codigoFabrica": "4",
+    "codigoFabrica": "42",
     "codigoSAP": 509244,
     "cantidad": 1,
     "modelo": "VTPV-V08"
   },
   {
-    "codigoFabrica": "5",
+    "codigoFabrica": "27",
     "codigoSAP": 509245,
     "cantidad": 1,
     "modelo": "VTPV-V08"
   },
   {
-    "codigoFabrica": "6",
+    "codigoFabrica": "19",
     "codigoSAP": 509246,
     "cantidad": 1,
     "modelo": "VTPV-V08"
   },
   {
-    "codigoFabrica": "7",
+    "codigoFabrica": "18",
     "codigoSAP": 509247,
     "cantidad": 1,
     "modelo": "VTPV-V08"
