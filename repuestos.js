@@ -11453,17 +11453,17 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501630,
-    "descripcion": "ORING PISTON LAT (VSP-20-25)",
+    "descripcion": "ORING VASTAGO LATERAL (VSP-25 FLEX)",
     "tipoMaterial": "Repuesto",
-    "fechaCreacion": "23-12-2022",
-    "Proveedor": "Descontinuado"
+    "fechaCreacion": "12-11-2026",
+    "Proveedor": "640012"
   },
   {
     "codigoSAP": 501631,
-    "descripcion": "ORING PISTON CENTRAL (VSP-20-25)",
+    "descripcion": "ORING VASTAGO CENTRAL (VSP-25 FLEX)",
     "tipoMaterial": "Repuesto",
-    "fechaCreacion": "23-12-2022",
-    "Proveedor": "Descontinuado"
+    "fechaCreacion": "12-11-2026",
+    "Proveedor": "640012"
   },
   {
     "codigoSAP": 501632,
@@ -12223,23 +12223,23 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501740,
-    "descripcion": "TARJETA TECLADO (VSP-25 BENEFIT)",
+    "descripcion": "TARJETA TECLADO (VSP-25 FLEX)",
     "tipoMaterial": "Repuesto",
-    "fechaCreacion": "23-12-2022",
+    "fechaCreacion": "12-11-2026",
     "Proveedor": "640012"
   },
   {
     "codigoSAP": 501741,
-    "descripcion": "CAJA REDUCTORA (VSP-25 BENEFIT)",
+    "descripcion": "CAJA REDUCTORA (VSP-25 FLEX)",
     "tipoMaterial": "Repuesto",
-    "fechaCreacion": "23-12-2022",
+    "fechaCreacion": "12-11-2026",
     "Proveedor": "640012"
   },
   {
     "codigoSAP": 501742,
-    "descripcion": "SENSOR INDUCTIVO (VSP-25 BENEFIT)",
+    "descripcion": "SENSOR INDUCTIVO (VSP-25 FLEX)",
     "tipoMaterial": "Repuesto",
-    "fechaCreacion": "23-12-2022",
+    "fechaCreacion": "12-11-2026",
     "Proveedor": "640012"
   },
   {
@@ -12251,44 +12251,44 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501744,
-    "descripcion": "MANILLA (3 UNID) (VSP-25 BENEFIT)",
+    "descripcion": "MANILLA (VSP-25 FLEX)",
     "tipoMaterial": "Repuesto",
-    "fechaCreacion": "23-12-2022",
+    "fechaCreacion": "12-11-2026",
     "Proveedor": "640012"
   },
   {
     "codigoSAP": 501745,
-    "descripcion": "PASADOR MANILLA (VSP-25 BENEFIT)",
+    "descripcion": "PASADOR MANILLA (VSP-25 FLEX)",
     "tipoMaterial": "Repuesto",
-    "fechaCreacion": "23-12-2022",
+    "fechaCreacion": "12-11-2026",
     "Proveedor": "640012"
   },
   {
     "codigoSAP": 501746,
-    "descripcion": "PANEL FRONTAL (VSP-25 BENEFIT)",
+    "descripcion": "PANEL FRONTAL (VSP-25 FLEX)",
     "tipoMaterial": "Repuesto",
-    "fechaCreacion": "23-12-2022",
+    "fechaCreacion": "12-11-2026",
     "Proveedor": "640012"
   },
   {
     "codigoSAP": 501747,
-    "descripcion": "ORING PANEL FRONTAL 2UNID(VSP-25BENEFIT)",
+    "descripcion": "ORING PANEL FRONTAL (VSP-25 FLEX)",
     "tipoMaterial": "Repuesto",
-    "fechaCreacion": "23-12-2022",
+    "fechaCreacion": "12-11-2026",
     "Proveedor": "640012"
   },
   {
     "codigoSAP": 501748,
-    "descripcion": "BATIDOR (VSP-25 BENEFIT)",
+    "descripcion": "BATIDOR (VSP-25 FLEX)",
     "tipoMaterial": "Repuesto",
-    "fechaCreacion": "23-12-2022",
+    "fechaCreacion": "12-11-2026",
     "Proveedor": "640012"
   },
   {
     "codigoSAP": 501749,
-    "descripcion": "SENSOR NIVEL COTENEDOR (VSP-25BENEFIT)",
+    "descripcion": "SENSOR NIVEL MEZCLA (VSP-25 FLEX)",
     "tipoMaterial": "Repuesto",
-    "fechaCreacion": "23-12-2022",
+    "fechaCreacion": "12-11-2026",
     "Proveedor": "640012"
   },
   {
@@ -12300,9 +12300,9 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501751,
-    "descripcion": "TARJETA MADRE (VSP-25 BENEFIT)",
+    "descripcion": "TARJETA MADRE (VSP-25 FLEX)",
     "tipoMaterial": "Repuesto",
-    "fechaCreacion": "23-12-2022",
+    "fechaCreacion": "12-11-2026",
     "Proveedor": "640012"
   },
   {
@@ -37549,10 +37549,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505358,
-    "descripcion": "SELLO BATIDOR (VSP-25)",
+    "descripcion": "SELLO BATIDOR (VSP-25 FLEX)",
     "tipoMaterial": "Repuesto",
-    "fechaCreacion": "05-01-2023",
-    "Proveedor": "Descontinuado"
+    "fechaCreacion": "12-11-2026",
+    "Proveedor": "640012"
   },
   {
     "codigoSAP": 505359,
@@ -38466,7 +38466,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505489,
-    "descripcion": "BUSH KIT AC2",
+    "descripcion": "KIT CASQUILLO CINTA TRANSPORTADORA AC2",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "05-01-2023",
     "Proveedor": "640077"

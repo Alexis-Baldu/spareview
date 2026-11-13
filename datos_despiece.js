@@ -14424,6 +14424,12 @@ const datosDespiece = [
     "modelo": "VSP-25"
   },
   {
+    "codigoFabrica": "10",
+    "codigoSAP": 501630,
+    "cantidad": 1,
+    "modelo": "VSP-25 FLEX"
+  },
+  {
     "codigoFabrica": "101013100013R003",
     "codigoSAP": 501631,
     "cantidad": 1,
@@ -14434,6 +14440,12 @@ const datosDespiece = [
     "codigoSAP": 501631,
     "cantidad": 1,
     "modelo": "VSP-25"
+  },
+  {
+    "codigoFabrica": "13,1",
+    "codigoSAP": 501631,
+    "cantidad": 1,
+    "modelo": "VSP-25 FLEX"
   },
   {
     "codigoFabrica": "101013100013R005",
@@ -16056,10 +16068,10 @@ const datosDespiece = [
     "modelo": "VSP-40 INOX"
   },
   {
-    "codigoFabrica": "101013100034R003",
+    "codigoFabrica": "3A",
     "codigoSAP": 501740,
     "cantidad": 1,
-    "modelo": "VSP-25 BENEFIT"
+    "modelo": "VSP-25 FLEX"
   },
   {
     "codigoFabrica": "101013100034R009",
@@ -16068,10 +16080,22 @@ const datosDespiece = [
     "modelo": "VSP-25 BENEFIT"
   },
   {
+    "codigoFabrica": "9",
+    "codigoSAP": 501741,
+    "cantidad": 1,
+    "modelo": "VSP-25 FLEX"
+  },
+  {
     "codigoFabrica": "101013100034R013",
     "codigoSAP": 501742,
     "cantidad": 1,
     "modelo": "VSP-25 BENEFIT"
+  },
+  {
+    "codigoFabrica": "13C",
+    "codigoSAP": 501742,
+    "cantidad": 1,
+    "modelo": "VSP-25 FLEX"
   },
   {
     "codigoFabrica": "101013100034R013",
@@ -16088,13 +16112,13 @@ const datosDespiece = [
   {
     "codigoFabrica": "101013100034R025",
     "codigoSAP": 501744,
-    "cantidad": 1,
+    "cantidad": 3,
     "modelo": "VSP-25 BENEFIT"
   },
   {
-    "codigoFabrica": "101013100034R025",
+    "codigoFabrica": "9",
     "codigoSAP": 501744,
-    "cantidad": 1,
+    "cantidad": 3,
     "modelo": "VSP-25 FLEX"
   },
   {
@@ -16104,7 +16128,7 @@ const datosDespiece = [
     "modelo": "VSP-25 BENEFIT"
   },
   {
-    "codigoFabrica": "101013100034R026",
+    "codigoFabrica": "7",
     "codigoSAP": 501745,
     "cantidad": 1,
     "modelo": "VSP-25 FLEX"
@@ -16116,7 +16140,7 @@ const datosDespiece = [
     "modelo": "VSP-25 BENEFIT"
   },
   {
-    "codigoFabrica": "101013100034R030",
+    "codigoFabrica": "3",
     "codigoSAP": 501746,
     "cantidad": 1,
     "modelo": "VSP-25 FLEX"
@@ -16124,25 +16148,25 @@ const datosDespiece = [
   {
     "codigoFabrica": "101013100034R032",
     "codigoSAP": 501747,
-    "cantidad": 1,
+    "cantidad": 2,
     "modelo": "VSP-25 BENEFIT"
   },
   {
-    "codigoFabrica": "101013100034R032",
+    "codigoFabrica": "1",
     "codigoSAP": 501747,
-    "cantidad": 1,
+    "cantidad": 2,
     "modelo": "VSP-25 FLEX"
   },
   {
     "codigoFabrica": "101013100034R033",
     "codigoSAP": 501748,
-    "cantidad": 1,
+    "cantidad": 2,
     "modelo": "VSP-25 BENEFIT"
   },
   {
-    "codigoFabrica": "101013100034R033",
+    "codigoFabrica": "14",
     "codigoSAP": 501748,
-    "cantidad": 1,
+    "cantidad": 2,
     "modelo": "VSP-25 FLEX"
   },
   {
@@ -16152,16 +16176,22 @@ const datosDespiece = [
     "modelo": "VSP-25 BENEFIT"
   },
   {
+    "codigoFabrica": "B",
+    "codigoSAP": 501749,
+    "cantidad": 1,
+    "modelo": "VSP-25 FLEX"
+  },
+  {
     "codigoFabrica": "101013100034R038",
     "codigoSAP": 501750,
     "cantidad": 1,
     "modelo": "VSP-25 BENEFIT"
   },
   {
-    "codigoFabrica": "101013100034R040",
+    "codigoFabrica": "16,1",
     "codigoSAP": 501751,
     "cantidad": 1,
-    "modelo": "VSP-25 BENEFIT"
+    "modelo": "VSP-25 FLEX"
   },
   {
     "codigoFabrica": "101013100034R041",
@@ -48291,7 +48321,19 @@ const datosDespiece = [
     "codigoFabrica": "101013100013R004",
     "codigoSAP": 505358,
     "cantidad": 1,
+    "modelo": "VSP-20"
+  },
+  {
+    "codigoFabrica": "101013100013R004",
+    "codigoSAP": 505358,
+    "cantidad": 1,
     "modelo": "VSP-25"
+  },
+  {
+    "codigoFabrica": "15",
+    "codigoSAP": 505358,
+    "cantidad": 1,
+    "modelo": "VSP-25 FLEX"
   },
   {
     "codigoFabrica": "101013100013R026",
