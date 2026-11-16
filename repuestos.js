@@ -9843,7 +9843,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501400,
-    "descripcion": "KIT SOPORTE VIDRIO (6 UNID) (VMRSL-390)",
+    "descripcion": "KIT SOPORTE VIDRIO (VMRSL-390)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640047"
@@ -17914,7 +17914,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 502553,
-    "descripcion": "SOPORTE REJILLA 4 UNID PLASTICO (CTSF/R)",
+    "descripcion": "SOPORTE REJILLA PLASTICO (CTSF/R)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640033"
@@ -55259,7 +55259,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507888,
-    "descripcion": "GANCHO TAPA (HOTMIX PRO)",
+    "descripcion": "GANCHO TAPA (GASTRO X)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "16-09-2024",
     "Proveedor": "640179"
@@ -67639,5 +67639,19 @@ window.repuestos = [
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "07-11-2026",
     "Proveedor": "640229"
+  },
+  {
+    "codigoSAP": 509658,
+    "descripcion": "CUCHILLA MICRODENTADA (CKE-8V/K-8V/KE-8V",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "13-11-2026",
+    "Proveedor": "640063"
+  },
+  {
+    "codigoSAP": 509659,
+    "descripcion": "REJILLA CARBON ASADOR (ROC56)",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "16-11-2026",
+    "Proveedor": "640187"
   }
 ];
