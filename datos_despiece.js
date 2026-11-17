@@ -9981,7 +9981,25 @@ const datosDespiece = [
     "codigoFabrica": "0C6563",
     "codigoSAP": 501052,
     "cantidad": 1,
+    "modelo": "AOS202EBA2"
+  },
+  {
+    "codigoFabrica": "0C6563",
+    "codigoSAP": 501052,
+    "cantidad": 1,
+    "modelo": "AOS202EKA1"
+  },
+  {
+    "codigoFabrica": "0C6563",
+    "codigoSAP": 501052,
+    "cantidad": 1,
     "modelo": "AOS202ETA1"
+  },
+  {
+    "codigoFabrica": "0C6563",
+    "codigoSAP": 501052,
+    "cantidad": 1,
+    "modelo": "AOS202GTD1"
   },
   {
     "codigoFabrica": "0C6566",
@@ -20174,32 +20192,32 @@ const datosDespiece = [
   {
     "codigoFabrica": "101013600016R011",
     "codigoSAP": 502034,
-    "cantidad": 1,
-    "modelo": "VC-1000LS"
-  },
-  {
-    "codigoFabrica": "101013600016R011",
-    "codigoSAP": 502034,
-    "cantidad": 1,
-    "modelo": "VC-1200L"
-  },
-  {
-    "codigoFabrica": "101013600016R011",
-    "codigoSAP": 502034,
     "cantidad": 4,
-    "modelo": "VC-370L"
+    "modelo": "VC-370L INV"
   },
   {
     "codigoFabrica": "101013600016R011",
     "codigoSAP": 502034,
     "cantidad": 1,
-    "modelo": "VC-540L"
+    "modelo": "VC-540L INV"
   },
   {
     "codigoFabrica": "101013600016R011",
     "codigoSAP": 502034,
     "cantidad": 8,
-    "modelo": "VC-800LS"
+    "modelo": "VC-800LS INV"
+  },
+  {
+    "codigoFabrica": "101013600016R011",
+    "codigoSAP": 502034,
+    "cantidad": 1,
+    "modelo": "VC-1000L INV"
+  },
+  {
+    "codigoFabrica": "101013600016R011",
+    "codigoSAP": 502034,
+    "cantidad": 1,
+    "modelo": "VC-1200L INV"
   },
   {
     "codigoFabrica": "101013600016R014",
@@ -20886,18 +20904,6 @@ const datosDespiece = [
     "modelo": "VC-370L"
   },
   {
-    "codigoFabrica": "101013600026R039",
-    "codigoSAP": 502080,
-    "cantidad": 4,
-    "modelo": "VC-370L"
-  },
-  {
-    "codigoFabrica": "101013600026R039",
-    "codigoSAP": 502080,
-    "cantidad": 1,
-    "modelo": "VF1PS-700V"
-  },
-  {
     "codigoFabrica": "101013100034R046",
     "codigoSAP": 502081,
     "cantidad": 1,
@@ -20970,10 +20976,34 @@ const datosDespiece = [
     "modelo": "VC-370L"
   },
   {
-    "codigoFabrica": "101013600026R050",
+    "codigoFabrica": "2030116-00739",
     "codigoSAP": 502086,
     "cantidad": 16,
     "modelo": "VC-370L"
+  },
+  {
+    "codigoFabrica": "2030116-00739",
+    "codigoSAP": 502086,
+    "cantidad": 16,
+    "modelo": "VC-540L"
+  },
+  {
+    "codigoFabrica": "2030116-00739",
+    "codigoSAP": 502086,
+    "cantidad": 32,
+    "modelo": "VC-800LS"
+  },
+  {
+    "codigoFabrica": "2030116-00739",
+    "codigoSAP": 502086,
+    "cantidad": 32,
+    "modelo": "VC-1000LS"
+  },
+  {
+    "codigoFabrica": "2030116-00739",
+    "codigoSAP": 502086,
+    "cantidad": 32,
+    "modelo": "VC-1200L"
   },
   {
     "codigoFabrica": "101013600026R051",
@@ -64848,6 +64878,18 @@ const datosDespiece = [
     "modelo": "E9FRGD1GF0"
   },
   {
+    "codigoFabrica": "0C7191",
+    "codigoSAP": 507466,
+    "cantidad": 1,
+    "modelo": "E9INED2008"
+  },
+  {
+    "codigoFabrica": "0C7191",
+    "codigoSAP": 507466,
+    "cantidad": 1,
+    "modelo": "E9INEH4008"
+  },
+  {
     "codigoFabrica": "0L1712",
     "codigoSAP": 507473,
     "cantidad": 1,
@@ -74450,13 +74492,13 @@ const datosDespiece = [
   {
     "codigoFabrica": "A10117010029002401",
     "codigoSAP": 508583,
-    "cantidad": 1,
+    "cantidad": 16,
     "modelo": "VC-600B"
   },
   {
     "codigoFabrica": "A10117010029002401",
     "codigoSAP": 508583,
-    "cantidad": 1,
+    "cantidad": 16,
     "modelo": "VC-900B"
   },
   {

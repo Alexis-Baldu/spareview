@@ -1,5 +1,16 @@
 const datosComex = [
   {
+    "OrdenCompra": 5600003961,
+    "Posicion": 10,
+    "codigoSAP": 500846,
+    "Almacen": 1506,
+    "Cantidad": 250,
+    "ETA": "26-11-2026",
+    "Solicitante": "",
+    "FechaLlegada": "",
+    "Seguimiento": ""
+  },
+  {
     "OrdenCompra": 5500010288,
     "Posicion": 100,
     "codigoSAP": 508843,
@@ -535,7 +546,7 @@ const datosComex = [
     "Cantidad": 5,
     "ETA": "24-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "20-11-2026",
+    "FechaLlegada": "16-11-2026",
     "Seguimiento": "6501659275"
   },
   {
@@ -546,7 +557,7 @@ const datosComex = [
     "Cantidad": 3,
     "ETA": "24-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "20-11-2026",
+    "FechaLlegada": "16-11-2026",
     "Seguimiento": "6501659275"
   },
   {
@@ -557,7 +568,7 @@ const datosComex = [
     "Cantidad": 4,
     "ETA": "24-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "20-11-2026",
+    "FechaLlegada": "16-11-2026",
     "Seguimiento": "6501659275"
   },
   {
@@ -568,7 +579,7 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "24-11-2026",
     "Solicitante": "4000021157",
-    "FechaLlegada": "20-11-2026",
+    "FechaLlegada": "16-11-2026",
     "Seguimiento": "6501659275"
   },
   {
@@ -579,7 +590,7 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "24-11-2026",
     "Solicitante": "1000006265",
-    "FechaLlegada": "20-11-2026",
+    "FechaLlegada": "16-11-2026",
     "Seguimiento": "6501659275"
   },
   {
@@ -1063,8 +1074,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "19-11-2026",
     "Solicitante": "1000006215",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1074,8 +1085,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "19-11-2026",
     "Solicitante": "1000005980",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1085,8 +1096,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "19-11-2026",
     "Solicitante": "1000005548",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1096,8 +1107,8 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "19-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1107,8 +1118,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "19-11-2026",
     "Solicitante": "1000006298",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1118,8 +1129,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "19-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1129,8 +1140,8 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "19-11-2026",
     "Solicitante": "1000006312",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1140,8 +1151,8 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "19-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1151,8 +1162,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "19-11-2026",
     "Solicitante": "1000006312",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1162,8 +1173,8 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "19-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1173,8 +1184,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "19-11-2026",
     "Solicitante": "1000006312",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1184,8 +1195,8 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "19-11-2026",
     "Solicitante": "1000006319",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1195,8 +1206,8 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "19-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1206,8 +1217,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "19-11-2026",
     "Solicitante": "4000021737",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1217,8 +1228,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "19-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1228,8 +1239,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "19-11-2026",
     "Solicitante": "4000021737",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1239,8 +1250,8 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "19-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1250,8 +1261,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "19-11-2026",
     "Solicitante": "4000021196",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1261,8 +1272,8 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "19-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1272,8 +1283,8 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "19-11-2026",
     "Solicitante": "4000022218",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1283,8 +1294,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "19-11-2026",
     "Solicitante": "4000022173",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1294,8 +1305,8 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "19-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1305,8 +1316,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "19-11-2026",
     "Solicitante": "CRITICO",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010196,
@@ -1316,8 +1327,8 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "19-11-2026",
     "Solicitante": "CRITICO",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "20-11-2026",
+    "Seguimiento": "6875976483"
   },
   {
     "OrdenCompra": 5500010198,
@@ -1525,7 +1536,7 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "16-11-2026",
     "Solicitante": "ARAMARK",
-    "FechaLlegada": "19-11-2026",
+    "FechaLlegada": "17-11-2026",
     "Seguimiento": "9018176322"
   },
   {
@@ -2999,8 +3010,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "11-11-2026",
     "Solicitante": "1000005695",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "16-11-2026",
+    "Seguimiento": "8420773126"
   },
   {
     "OrdenCompra": 5500010132,
@@ -3010,8 +3021,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "11-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "16-11-2026",
+    "Seguimiento": "8420773126"
   },
   {
     "OrdenCompra": 5500010132,
@@ -3021,8 +3032,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "11-11-2026",
     "Solicitante": "1000005695",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "16-11-2026",
+    "Seguimiento": "8420773126"
   },
   {
     "OrdenCompra": 5500010132,
@@ -3032,8 +3043,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "11-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "16-11-2026",
+    "Seguimiento": "8420773126"
   },
   {
     "OrdenCompra": 5500010132,
@@ -3043,8 +3054,8 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "11-11-2026",
     "Solicitante": "1000005695",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "16-11-2026",
+    "Seguimiento": "8420773126"
   },
   {
     "OrdenCompra": 5500010133,
@@ -3461,7 +3472,7 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "09-11-2026",
     "Solicitante": "FB167286",
-    "FechaLlegada": "14-11-2026",
+    "FechaLlegada": "18-11-2026",
     "Seguimiento": "K542667"
   },
   {
@@ -3472,7 +3483,7 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "09-11-2026",
     "Solicitante": "FB167286",
-    "FechaLlegada": "14-11-2026",
+    "FechaLlegada": "18-11-2026",
     "Seguimiento": "K542667"
   },
   {
@@ -3681,7 +3692,7 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "12-11-2026",
+    "FechaLlegada": "23-11-2026",
     "Seguimiento": ""
   },
   {
@@ -3692,7 +3703,7 @@ const datosComex = [
     "Cantidad": 3,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "12-11-2026",
+    "FechaLlegada": "23-11-2026",
     "Seguimiento": ""
   },
   {
@@ -3703,7 +3714,7 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "04-11-2026",
     "Solicitante": "NEWREST",
-    "FechaLlegada": "12-11-2026",
+    "FechaLlegada": "23-11-2026",
     "Seguimiento": ""
   },
   {
@@ -3714,7 +3725,7 @@ const datosComex = [
     "Cantidad": 3,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "12-11-2026",
+    "FechaLlegada": "23-11-2026",
     "Seguimiento": ""
   },
   {
@@ -3725,7 +3736,7 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "12-11-2026",
+    "FechaLlegada": "23-11-2026",
     "Seguimiento": ""
   },
   {
@@ -3736,7 +3747,7 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "12-11-2026",
+    "FechaLlegada": "23-11-2026",
     "Seguimiento": ""
   },
   {
@@ -3747,7 +3758,7 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "12-11-2026",
+    "FechaLlegada": "23-11-2026",
     "Seguimiento": ""
   },
   {
@@ -3758,7 +3769,7 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "SODEXO",
-    "FechaLlegada": "12-11-2026",
+    "FechaLlegada": "23-11-2026",
     "Seguimiento": ""
   },
   {
@@ -3769,8 +3780,8 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK INI",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -3780,8 +3791,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK INI",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -3791,8 +3802,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK INI",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -3802,8 +3813,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK INI",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -3813,8 +3824,8 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -3824,8 +3835,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK INI",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -3835,8 +3846,8 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -3846,8 +3857,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -3857,8 +3868,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK INI",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -3868,8 +3879,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK INI",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -3879,8 +3890,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK INI",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -3890,8 +3901,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK INI",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -3901,8 +3912,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -3912,8 +3923,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK INI",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -3923,8 +3934,8 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK INI",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -3934,8 +3945,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK INI",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -3945,8 +3956,8 @@ const datosComex = [
     "Cantidad": 4,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK INI",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -3956,8 +3967,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK INI",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -3967,8 +3978,8 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -3978,8 +3989,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK INI",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -3989,8 +4000,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK INI",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -4000,8 +4011,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK INI",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -4011,8 +4022,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK INI",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -4022,8 +4033,8 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK INI",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -4033,8 +4044,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK INI",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -4044,8 +4055,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK INI",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010052,
@@ -4055,8 +4066,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "04-11-2026",
     "Solicitante": "STOCK INI",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010013,
@@ -4066,8 +4077,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "03-11-2026",
     "Solicitante": "1000006189",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010013,
@@ -4077,8 +4088,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "03-11-2026",
     "Solicitante": "1000006189",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "14-11-2026",
+    "Seguimiento": "1Z0097WA0490501373"
   },
   {
     "OrdenCompra": 5500010016,
@@ -4176,7 +4187,7 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "30-10-2026",
     "Solicitante": "RENTAL",
-    "FechaLlegada": "14-11-2026",
+    "FechaLlegada": "18-11-2026",
     "Seguimiento": "K542667"
   },
   {
@@ -4187,7 +4198,7 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "30-10-2026",
     "Solicitante": "1000006146",
-    "FechaLlegada": "14-11-2026",
+    "FechaLlegada": "18-11-2026",
     "Seguimiento": "K542667"
   },
   {
@@ -6061,17 +6072,6 @@ const datosComex = [
     "Seguimiento": "FCIU9382732"
   },
   {
-    "OrdenCompra": 5500009891,
-    "Posicion": 10,
-    "codigoSAP": 509566,
-    "Almacen": 1506,
-    "Cantidad": 3,
-    "ETA": "09-10-2026",
-    "Solicitante": "STOCK INIC",
-    "FechaLlegada": "12-11-2026",
-    "Seguimiento": "2000689110"
-  },
-  {
     "OrdenCompra": 5500009741,
     "Posicion": 10,
     "codigoSAP": 509466,
@@ -6189,8 +6189,8 @@ const datosComex = [
     "Cantidad": 40,
     "ETA": "15-09-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "16-11-2026",
+    "Seguimiento": "2001569345"
   },
   {
     "OrdenCompra": 5500009709,
@@ -7267,8 +7267,8 @@ const datosComex = [
     "Cantidad": 10,
     "ETA": "28-09-2026",
     "Solicitante": "CRITICO",
-    "FechaLlegada": "22-01-2027",
-    "Seguimiento": "5500009287"
+    "FechaLlegada": "01-01-2027",
+    "Seguimiento": "1078344635"
   },
   {
     "OrdenCompra": 5500009294,
@@ -7278,8 +7278,8 @@ const datosComex = [
     "Cantidad": 75,
     "ETA": "28-09-2026",
     "Solicitante": "CRITICO",
-    "FechaLlegada": "22-01-2027",
-    "Seguimiento": "5500009287"
+    "FechaLlegada": "01-01-2027",
+    "Seguimiento": "1078344635"
   },
   {
     "OrdenCompra": 5500009294,
@@ -7289,8 +7289,8 @@ const datosComex = [
     "Cantidad": 10,
     "ETA": "28-09-2026",
     "Solicitante": "CRITICO",
-    "FechaLlegada": "22-01-2027",
-    "Seguimiento": "5500009287"
+    "FechaLlegada": "01-01-2027",
+    "Seguimiento": "1078344635"
   },
   {
     "OrdenCompra": 5500009294,
@@ -7300,8 +7300,8 @@ const datosComex = [
     "Cantidad": 10,
     "ETA": "28-09-2026",
     "Solicitante": "CRITICO",
-    "FechaLlegada": "22-01-2027",
-    "Seguimiento": "5500009287"
+    "FechaLlegada": "01-01-2027",
+    "Seguimiento": "1078344635"
   },
   {
     "OrdenCompra": 5500009294,
@@ -7311,8 +7311,8 @@ const datosComex = [
     "Cantidad": 30,
     "ETA": "28-09-2026",
     "Solicitante": "CRITICO",
-    "FechaLlegada": "22-01-2027",
-    "Seguimiento": "5500009287"
+    "FechaLlegada": "01-01-2027",
+    "Seguimiento": "1078344635"
   },
   {
     "OrdenCompra": 5500009294,
@@ -7322,8 +7322,8 @@ const datosComex = [
     "Cantidad": 30,
     "ETA": "28-09-2026",
     "Solicitante": "CRITICO",
-    "FechaLlegada": "22-01-2027",
-    "Seguimiento": "5500009287"
+    "FechaLlegada": "01-01-2027",
+    "Seguimiento": "1078344635"
   },
   {
     "OrdenCompra": 5500009294,
@@ -7333,8 +7333,8 @@ const datosComex = [
     "Cantidad": 90,
     "ETA": "28-09-2026",
     "Solicitante": "CRITICO",
-    "FechaLlegada": "22-01-2027",
-    "Seguimiento": "5500009287"
+    "FechaLlegada": "01-01-2027",
+    "Seguimiento": "1078344635"
   },
   {
     "OrdenCompra": 5500009294,
@@ -7344,8 +7344,8 @@ const datosComex = [
     "Cantidad": 20,
     "ETA": "28-09-2026",
     "Solicitante": "CRITICO",
-    "FechaLlegada": "22-01-2027",
-    "Seguimiento": "5500009287"
+    "FechaLlegada": "01-01-2027",
+    "Seguimiento": "1078344635"
   },
   {
     "OrdenCompra": 5500009294,
@@ -7355,8 +7355,8 @@ const datosComex = [
     "Cantidad": 20,
     "ETA": "28-09-2026",
     "Solicitante": "CRITICO",
-    "FechaLlegada": "22-01-2027",
-    "Seguimiento": "5500009287"
+    "FechaLlegada": "01-01-2027",
+    "Seguimiento": "1078344635"
   },
   {
     "OrdenCompra": 5500009294,
@@ -7366,8 +7366,8 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "28-09-2026",
     "Solicitante": "CRITICO",
-    "FechaLlegada": "22-01-2027",
-    "Seguimiento": "5500009287"
+    "FechaLlegada": "01-01-2027",
+    "Seguimiento": "1078344635"
   },
   {
     "OrdenCompra": 5500009294,
@@ -7377,8 +7377,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "28-09-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "22-01-2027",
-    "Seguimiento": "5500009287"
+    "FechaLlegada": "01-01-2027",
+    "Seguimiento": "1078344635"
   },
   {
     "OrdenCompra": 5500009294,
@@ -7388,8 +7388,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "28-09-2026",
     "Solicitante": "CRITICO",
-    "FechaLlegada": "22-01-2027",
-    "Seguimiento": "5500009287"
+    "FechaLlegada": "01-01-2027",
+    "Seguimiento": "1078344635"
   },
   {
     "OrdenCompra": 5500009294,
@@ -7399,8 +7399,8 @@ const datosComex = [
     "Cantidad": 4,
     "ETA": "28-09-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "22-01-2027",
-    "Seguimiento": "5500009287"
+    "FechaLlegada": "01-01-2027",
+    "Seguimiento": "1078344635"
   },
   {
     "OrdenCompra": 5500009294,
@@ -7410,8 +7410,8 @@ const datosComex = [
     "Cantidad": 10,
     "ETA": "28-09-2026",
     "Solicitante": "CRITICO",
-    "FechaLlegada": "22-01-2027",
-    "Seguimiento": "5500009287"
+    "FechaLlegada": "01-01-2027",
+    "Seguimiento": "1078344635"
   },
   {
     "OrdenCompra": 5500009294,
@@ -7421,8 +7421,8 @@ const datosComex = [
     "Cantidad": 500,
     "ETA": "28-09-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "22-01-2027",
-    "Seguimiento": "5500009287"
+    "FechaLlegada": "01-01-2027",
+    "Seguimiento": "1078344635"
   },
   {
     "OrdenCompra": 5500009294,
@@ -7432,8 +7432,8 @@ const datosComex = [
     "Cantidad": 3,
     "ETA": "28-09-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "22-01-2027",
-    "Seguimiento": "5500009287"
+    "FechaLlegada": "01-01-2027",
+    "Seguimiento": "1078344635"
   },
   {
     "OrdenCompra": 5500009294,
@@ -7443,8 +7443,8 @@ const datosComex = [
     "Cantidad": 20,
     "ETA": "28-09-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "22-01-2027",
-    "Seguimiento": "5500009287"
+    "FechaLlegada": "01-01-2027",
+    "Seguimiento": "1078344635"
   },
   {
     "OrdenCompra": 5500009294,
@@ -7454,8 +7454,8 @@ const datosComex = [
     "Cantidad": 8,
     "ETA": "28-09-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "22-01-2027",
-    "Seguimiento": "5500009287"
+    "FechaLlegada": "01-01-2027",
+    "Seguimiento": "1078344635"
   },
   {
     "OrdenCompra": 5500009294,
@@ -7465,8 +7465,8 @@ const datosComex = [
     "Cantidad": 6,
     "ETA": "28-09-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "22-01-2027",
-    "Seguimiento": "5500009287"
+    "FechaLlegada": "01-01-2027",
+    "Seguimiento": "1078344635"
   },
   {
     "OrdenCompra": 5500009294,
@@ -7476,8 +7476,8 @@ const datosComex = [
     "Cantidad": 25,
     "ETA": "28-09-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "22-01-2027",
-    "Seguimiento": "5500009287"
+    "FechaLlegada": "01-01-2027",
+    "Seguimiento": "1078344635"
   },
   {
     "OrdenCompra": 5500009190,
@@ -8677,17 +8677,6 @@ const datosComex = [
     "Solicitante": "",
     "FechaLlegada": "",
     "Seguimiento": ""
-  },
-  {
-    "OrdenCompra": 5500008217,
-    "Posicion": 40,
-    "codigoSAP": 501400,
-    "Almacen": 1524,
-    "Cantidad": 8,
-    "ETA": "10-06-2026",
-    "Solicitante": "STOCK",
-    "FechaLlegada": "05-11-2026",
-    "Seguimiento": "1Z8F0A960437279727"
   },
   {
     "OrdenCompra": 5500008052,
