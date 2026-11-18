@@ -62,19 +62,21 @@
 
       <!-- RESULTADO -->
       <div id="resultado" class="resultado-container">
-        
         <!-- IMAGEN -->
         <div class="imagen-box">
           <img id="imgProducto" src="" alt="Imagen repuesto" style="display:none;">
-            <!-- BOTÓN EXPANDIR -->
-            <button class="expand-btn" onclick="abrirImagen()">
+            <!-- Botones de Imagen -->
+            <button class="download-btn" onclick="guardarImagen()" title="Guardar imagen">
+              💾
+            </button>
+            <button class="expand-btn" onclick="abrirImagen()" title="Ampliar imagen">
               ⛶
             </button>
-          </div>
+        </div>
           <!-- MODAL -->
-          <div id="modalImagen" class="modal">
-            <span class="cerrar" onclick="cerrarImagen()">&times;</span>
-            <img id="imgAmpliada" class="modal-contenido">
+        <div id="modalImagen" class="modal">
+          <span class="cerrar" onclick="cerrarImagen()">&times;</span>
+          <img id="imgAmpliada" class="modal-contenido">
         </div>
 
         <!-- DETALLE -->
@@ -178,7 +180,6 @@
     <script src="modelos_por_marca.js"></script>
     <script src="Ubicacion.js"></script>
     <script src="datos_despiece.js"></script>
-    <script src="script.js"></script>
     <script src="script-view.js"></script>
   </body>
   <footer>

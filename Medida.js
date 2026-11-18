@@ -8465,9 +8465,9 @@ const medidaData = [
   },
   {
     "codigoSAP": 501052,
-    "largo": "26",
+    "largo": "40",
     "ancho": "26",
-    "alto": "40",
+    "alto": "26",
     "m3": "0,027",
     "peso": "13,040"
   },
@@ -16737,11 +16737,11 @@ const medidaData = [
   },
   {
     "codigoSAP": 502086,
-    "largo": "12",
-    "ancho": "15",
-    "alto": "5",
+    "largo": "4",
+    "ancho": "3",
+    "alto": "2",
     "m3": "0,001",
-    "peso": "1,000"
+    "peso": "0,001"
   },
   {
     "codigoSAP": 502087,
@@ -68713,11 +68713,11 @@ const medidaData = [
   },
   {
     "codigoSAP": 508583,
-    "largo": "12",
-    "ancho": "15",
-    "alto": "5",
+    "largo": "4",
+    "ancho": "3",
+    "alto": "2",
     "m3": "0,001",
-    "peso": "0,100"
+    "peso": "0,001"
   },
   {
     "codigoSAP": 508584,
