@@ -8065,16 +8065,16 @@ const medidaData = [
   },
   {
     "codigoSAP": 501002,
-    "largo": "12",
-    "ancho": "15",
-    "alto": "5",
-    "m3": "0,001",
-    "peso": "1,000"
+    "largo": "18",
+    "ancho": "17",
+    "alto": "10",
+    "m3": "0,003",
+    "peso": "0,601"
   },
   {
     "codigoSAP": 501003,
     "largo": "18",
-    "ancho": "16",
+    "ancho": "17",
     "alto": "10",
     "m3": "0,003",
     "peso": "0,566"
@@ -77318,5 +77318,29 @@ const medidaData = [
     "alto": "2",
     "m3": "0,013",
     "peso": "6,000"
+  },
+  {
+    "codigoSAP": 509660,
+    "largo": "12",
+    "ancho": "15",
+    "alto": "5",
+    "m3": "0,001",
+    "peso": "0,100"
+  },
+  {
+    "codigoSAP": 509661,
+    "largo": "12",
+    "ancho": "15",
+    "alto": "5",
+    "m3": "0,001",
+    "peso": "0,100"
+  },
+  {
+    "codigoSAP": 509662,
+    "largo": "12",
+    "ancho": "15",
+    "alto": "5",
+    "m3": "0,001",
+    "peso": "0,100"
   }
 ];

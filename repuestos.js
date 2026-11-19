@@ -4530,7 +4530,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500641,
-    "descripcion": "ACTUADOR BPS33 INTERRUPTOR DE SEGURIDAD",
+    "descripcion": "0W4541 CODIFICADOR MAGNETICO 71050195",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640068"
@@ -7057,14 +7057,14 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501002,
-    "descripcion": "VALVULA GAS CV30T-C3A7A2K0012 FRY TOP",
+    "descripcion": "VALVULA GAS FRYTOP CV30T-C3A7A2K0 0C5246",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640068"
   },
   {
     "codigoSAP": 501003,
-    "descripcion": "VALVULA GAS GV31T-C1A7AGK0003 FOR OVEN",
+    "descripcion": "VALVULA GAS HORNO GV31T-C1A7AGK0 0C5247",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640068"
@@ -39166,7 +39166,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505589,
-    "descripcion": "ROTATION CONTROL BOARD 71082500",
+    "descripcion": "0W5423 TABLERO CONTROL ROTACION 71082500",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "03-02-2023",
     "Proveedor": "640068"
@@ -67653,5 +67653,26 @@ window.repuestos = [
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "16-11-2026",
     "Proveedor": "640187"
+  },
+  {
+    "codigoSAP": 509660,
+    "descripcion": "CAPACITOR 6MF 250VAC",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "18-11-2026",
+    "Proveedor": "640118"
+  },
+  {
+    "codigoSAP": 509661,
+    "descripcion": "PUERTA COMPLETA (X-8C)",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "18-11-2026",
+    "Proveedor": "640118"
+  },
+  {
+    "codigoSAP": 509662,
+    "descripcion": "CABLE ALIMENTACION 3X18",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "18-11-2026",
+    "Proveedor": "640118"
   }
 ];
