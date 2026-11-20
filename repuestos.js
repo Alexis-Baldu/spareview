@@ -2661,14 +2661,14 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500374,
-    "descripcion": "DISCO CORTE CUCHILLA LISA 2 MM 653102",
+    "descripcion": "DISCO CORTE CUCHILLA LISA 2 MM 650083",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640068"
   },
   {
     "codigoSAP": 500375,
-    "descripcion": "DISCO CORTE CUCHILLA CURVA 3MM 653113",
+    "descripcion": "DISCO CORTE CUCHILLA CURVA 3MM 650084",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640068"
@@ -4040,7 +4040,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500571,
-    "descripcion": "ROCIADOR DE LAVADO",
+    "descripcion": "ROCIADOR LAVADO (BYM-102)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640066"
@@ -5531,7 +5531,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500784,
-    "descripcion": "ENJUAGUE GRUPO MEDIO",
+    "descripcion": "ENJUAGUE GRUPO MEDIO (BYM-102)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640066"
@@ -5566,14 +5566,14 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500789,
-    "descripcion": "SEPARADOR COJINETE DE FUENTE DE ENJUAGUE",
+    "descripcion": "SEPARADOR COJINETE ENJUAGUE (BYM-102)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640066"
   },
   {
     "codigoSAP": 500790,
-    "descripcion": "TEFLON DE LAVADO",
+    "descripcion": "TEFLON LAVADO (BYM-102)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640066"
@@ -61650,7 +61650,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 508802,
-    "descripcion": "PATA AJUSTABLE METAL 40X40",
+    "descripcion": "PATA AJUSTABLE METALICO 40X40MM",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "07-07-2025",
     "Proveedor": "640188"
@@ -66897,13 +66897,6 @@ window.repuestos = [
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "15-09-2026",
     "Proveedor": "640063"
-  },
-  {
-    "codigoSAP": 509552,
-    "descripcion": "PATA AJUSTABLE METALICO 40X40MM",
-    "tipoMaterial": "Repuesto",
-    "fechaCreacion": "15-09-2026",
-    "Proveedor": "640188"
   },
   {
     "codigoSAP": 509553,

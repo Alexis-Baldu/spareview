@@ -10431,6 +10431,30 @@ const datosDespiece = [
     "codigoFabrica": "0C9409",
     "codigoSAP": 501090,
     "cantidad": 1,
+    "modelo": "E7PCED1KF0"
+  },
+  {
+    "codigoFabrica": "0C9409",
+    "codigoSAP": 501090,
+    "cantidad": 1,
+    "modelo": "E9PCED1MF0"
+  },
+  {
+    "codigoFabrica": "0C9409",
+    "codigoSAP": 501090,
+    "cantidad": 1,
+    "modelo": "E9PCGD1MF0"
+  },
+  {
+    "codigoFabrica": "0C9409",
+    "codigoSAP": 501090,
+    "cantidad": 1,
+    "modelo": "E9STGH1000"
+  },
+  {
+    "codigoFabrica": "0C9409",
+    "codigoSAP": 501090,
+    "cantidad": 1,
     "modelo": "QGR-G1"
   },
   {
@@ -10443,7 +10467,13 @@ const datosDespiece = [
     "codigoFabrica": "0C9409",
     "codigoSAP": 501090,
     "cantidad": 1,
-    "modelo": "E9STGH1000"
+    "modelo": "QS-G2"
+  },
+  {
+    "codigoFabrica": "0C9409",
+    "codigoSAP": 501090,
+    "cantidad": 1,
+    "modelo": "W5180H"
   },
   {
     "codigoFabrica": "0C9574",
@@ -50010,6 +50040,24 @@ const datosDespiece = [
     "modelo": "T5550"
   },
   {
+    "codigoFabrica": "0W5423",
+    "codigoSAP": 505589,
+    "cantidad": 1,
+    "modelo": "IC43320"
+  },
+  {
+    "codigoFabrica": "0W5423",
+    "codigoSAP": 505589,
+    "cantidad": 1,
+    "modelo": "IC44819"
+  },
+  {
+    "codigoFabrica": "0W5423",
+    "codigoSAP": 505589,
+    "cantidad": 1,
+    "modelo": "IC44832"
+  },
+  {
     "codigoFabrica": "0C0205",
     "codigoSAP": 505591,
     "cantidad": 1,
@@ -76086,6 +76134,12 @@ const datosDespiece = [
     "modelo": "SCCWE61E"
   },
   {
+    "codigoFabrica": "2039.0111P",
+    "codigoSAP": 508802,
+    "cantidad": 1,
+    "modelo": "ICC202E"
+  },
+  {
     "codigoFabrica": "22.01.196P",
     "codigoSAP": 508804,
     "cantidad": 1,
@@ -84250,12 +84304,6 @@ const datosDespiece = [
     "codigoSAP": 509551,
     "cantidad": 1,
     "modelo": "BA-20"
-  },
-  {
-    "codigoFabrica": "2039.0111P",
-    "codigoSAP": 509552,
-    "cantidad": 1,
-    "modelo": "ICC202E"
   },
   {
     "codigoFabrica": "60.22.416P",

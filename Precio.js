@@ -3991,9 +3991,9 @@ const precioData = [
   },
   {
     "codigoSAP": 500571,
-    "precio24": "$47.875",
-    "precio28": "$40.694",
-    "precio29": "$47.875",
+    "precio24": "$130.830",
+    "precio28": "$111.206",
+    "precio29": "$130.830",
     "precio30": "$55,00"
   },
   {
@@ -5461,9 +5461,9 @@ const precioData = [
   },
   {
     "codigoSAP": 500781,
-    "precio24": "$22.563",
-    "precio28": "$19.179",
-    "precio29": "$22.563",
+    "precio24": "$181.272",
+    "precio28": "$154.081",
+    "precio29": "$181.272",
     "precio30": "$26,00"
   },
   {
@@ -5482,9 +5482,9 @@ const precioData = [
   },
   {
     "codigoSAP": 500784,
-    "precio24": "$5.376",
-    "precio28": "$4.570",
-    "precio29": "$5.376",
+    "precio24": "$66.150",
+    "precio28": "$56.228",
+    "precio29": "$66.150",
     "precio30": "$7,00"
   },
   {
@@ -5517,16 +5517,16 @@ const precioData = [
   },
   {
     "codigoSAP": 500789,
-    "precio24": "$1.545",
-    "precio28": "$1.313",
-    "precio29": "$1.545",
+    "precio24": "$18.309",
+    "precio28": "$15.563",
+    "precio29": "$18.309",
     "precio30": "$2,00"
   },
   {
     "codigoSAP": 500790,
-    "precio24": "$18.450",
-    "precio28": "$15.683",
-    "precio29": "$18.450",
+    "precio24": "$4.922",
+    "precio28": "$4.184",
+    "precio29": "$4.922",
     "precio30": "$21,00"
   },
   {
@@ -20175,9 +20175,9 @@ const precioData = [
   },
   {
     "codigoSAP": 502883,
-    "precio24": "$79.888",
-    "precio28": "$67.905",
-    "precio29": "$79.888",
+    "precio24": "$89.992",
+    "precio28": "$76.630",
+    "precio29": "$89.992",
     "precio30": "$91,00"
   },
   {
@@ -20231,9 +20231,9 @@ const precioData = [
   },
   {
     "codigoSAP": 502891,
-    "precio24": "$97.500",
-    "precio28": "$82.875",
-    "precio29": "$97.500",
+    "precio24": "$87.202",
+    "precio28": "$74.121",
+    "precio29": "$87.202",
     "precio30": "$111,00"
   },
   {
@@ -32950,9 +32950,9 @@ const precioData = [
   },
   {
     "codigoSAP": 504708,
-    "precio24": "$22.959",
-    "precio28": "$19.515",
-    "precio29": "$22.959",
+    "precio24": "$34.461",
+    "precio28": "$29.292",
+    "precio29": "$34.461",
     "precio30": "$27,00"
   },
   {
@@ -40195,9 +40195,9 @@ const precioData = [
   },
   {
     "codigoSAP": 505760,
-    "precio24": "$98.010",
-    "precio28": "$83.309",
-    "precio29": "$98.010",
+    "precio24": "$92.437",
+    "precio28": "$78.571",
+    "precio29": "$92.437",
     "precio30": "$112,00"
   },
   {
@@ -40370,9 +40370,9 @@ const precioData = [
   },
   {
     "codigoSAP": 505787,
-    "precio24": "$239.990",
-    "precio28": "$203.992",
-    "precio29": "$239.990",
+    "precio24": "$711.558",
+    "precio28": "$604.825",
+    "precio29": "$711.558",
     "precio30": "$272,00"
   },
   {
@@ -41909,6 +41909,20 @@ const precioData = [
     "precio30": "$17,00"
   },
   {
+    "codigoSAP": 506010,
+    "precio24": "$294.305",
+    "precio28": "$250.159",
+    "precio29": "$294.305",
+    "precio30": ""
+  },
+  {
+    "codigoSAP": 506011,
+    "precio24": "$105.415",
+    "precio28": "$89.603",
+    "precio29": "$105.415",
+    "precio30": ""
+  },
+  {
     "codigoSAP": 506012,
     "precio24": "$18.765",
     "precio28": "$15.950",
@@ -41923,6 +41937,69 @@ const precioData = [
     "precio30": "$78,00"
   },
   {
+    "codigoSAP": 506014,
+    "precio24": "$186.228",
+    "precio28": "$158.294",
+    "precio29": "$186.228",
+    "precio30": ""
+  },
+  {
+    "codigoSAP": 506015,
+    "precio24": "$92.705",
+    "precio28": "$78.799",
+    "precio29": "$92.705",
+    "precio30": ""
+  },
+  {
+    "codigoSAP": 506016,
+    "precio24": "$0",
+    "precio28": "$3.561",
+    "precio29": "$0",
+    "precio30": ""
+  },
+  {
+    "codigoSAP": 506017,
+    "precio24": "$256.394",
+    "precio28": "$217.935",
+    "precio29": "$256.394",
+    "precio30": ""
+  },
+  {
+    "codigoSAP": 506018,
+    "precio24": "$41.738",
+    "precio28": "$35.477",
+    "precio29": "$41.738",
+    "precio30": ""
+  },
+  {
+    "codigoSAP": 506019,
+    "precio24": "$34.209",
+    "precio28": "$29.078",
+    "precio29": "$34.209",
+    "precio30": ""
+  },
+  {
+    "codigoSAP": 506020,
+    "precio24": "$73.877",
+    "precio28": "$627.954",
+    "precio29": "$73.877",
+    "precio30": ""
+  },
+  {
+    "codigoSAP": 506021,
+    "precio24": "$100.658",
+    "precio28": "$0",
+    "precio29": "$100.658",
+    "precio30": ""
+  },
+  {
+    "codigoSAP": 506022,
+    "precio24": "$29.783",
+    "precio28": "$25.316",
+    "precio29": "$29.783",
+    "precio30": ""
+  },
+  {
     "codigoSAP": 506023,
     "precio24": "$421.200",
     "precio28": "$358.020",
@@ -41934,6 +42011,34 @@ const precioData = [
     "precio24": "$674.500",
     "precio28": "",
     "precio29": "$674.500",
+    "precio30": ""
+  },
+  {
+    "codigoSAP": 506027,
+    "precio24": "$755.725",
+    "precio28": "$642.367",
+    "precio29": "$755.725",
+    "precio30": ""
+  },
+  {
+    "codigoSAP": 506028,
+    "precio24": "$818.978",
+    "precio28": "$696.131",
+    "precio29": "$818.978",
+    "precio30": ""
+  },
+  {
+    "codigoSAP": 506029,
+    "precio24": "$1.172.216",
+    "precio28": "$996.384",
+    "precio29": "$1.172.216",
+    "precio30": ""
+  },
+  {
+    "codigoSAP": 506030,
+    "precio24": "$208.245",
+    "precio28": "$177.009",
+    "precio29": "$208.245",
     "precio30": ""
   },
   {
@@ -50197,6 +50302,13 @@ const precioData = [
     "precio30": "$121,00"
   },
   {
+    "codigoSAP": 507659,
+    "precio24": "$636.615",
+    "precio28": "$541.123",
+    "precio29": "$636.615",
+    "precio30": ""
+  },
+  {
     "codigoSAP": 507660,
     "precio24": "$498",
     "precio28": "$448",
@@ -57183,6 +57295,13 @@ const precioData = [
     "precio30": ""
   },
   {
+    "codigoSAP": 508869,
+    "precio24": "$70.023",
+    "precio28": "$59.520",
+    "precio29": "$70.023",
+    "precio30": ""
+  },
+  {
     "codigoSAP": 508926,
     "precio24": "$66.378",
     "precio28": "$56.421",
@@ -57197,10 +57316,24 @@ const precioData = [
     "precio30": ""
   },
   {
+    "codigoSAP": 508933,
+    "precio24": "$541.139",
+    "precio28": "$459.968",
+    "precio29": "$541.139",
+    "precio30": ""
+  },
+  {
+    "codigoSAP": 509010,
+    "precio24": "$136.733",
+    "precio28": "$116.223",
+    "precio29": "$136.733",
+    "precio30": ""
+  },
+  {
     "codigoSAP": 509011,
-    "precio24": "$215.074",
-    "precio28": "$182.813",
-    "precio29": "",
+    "precio24": "$179.228",
+    "precio28": "$152.344",
+    "precio29": "$179.228",
     "precio30": ""
   },
   {
@@ -58132,6 +58265,34 @@ const precioData = [
     "precio24": "$16.000",
     "precio28": "",
     "precio29": "$16.000",
+    "precio30": ""
+  },
+  {
+    "codigoSAP": 509651,
+    "precio24": "$1.500.771",
+    "precio28": "$1.275.655",
+    "precio29": "$1.500.771",
+    "precio30": ""
+  },
+  {
+    "codigoSAP": 509652,
+    "precio24": "$405.333",
+    "precio28": "$352.464",
+    "precio29": "$405.333",
+    "precio30": ""
+  },
+  {
+    "codigoSAP": 509656,
+    "precio24": "$220.273",
+    "precio28": "$191.542",
+    "precio29": "$220.273",
+    "precio30": ""
+  },
+  {
+    "codigoSAP": 509657,
+    "precio24": "$1.356.600",
+    "precio28": "$220.273",
+    "precio29": "$1.356.600",
     "precio30": ""
   }
 ];
