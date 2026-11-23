@@ -52380,7 +52380,31 @@ const datosDespiece = [
     "modelo": "TR-G2FL"
   },
   {
-    "codigoFabrica": "472997603",
+    "codigoFabrica": "0W1533",
+    "codigoSAP": 505915,
+    "cantidad": 1,
+    "modelo": "W5250S"
+  },
+  {
+    "codigoFabrica": "0W1533",
+    "codigoSAP": 505915,
+    "cantidad": 1,
+    "modelo": "W5330"
+  },
+  {
+    "codigoFabrica": "0W1533",
+    "codigoSAP": 505915,
+    "cantidad": 1,
+    "modelo": "WH6-33"
+  },
+  {
+    "codigoFabrica": "0W1533",
+    "codigoSAP": 505915,
+    "cantidad": 1,
+    "modelo": "WS6-35"
+  },
+  {
+    "codigoFabrica": "0W0VCM",
     "codigoSAP": 505917,
     "cantidad": 1,
     "modelo": "T5550"
