@@ -8031,13 +8031,43 @@ const datosDespiece = [
     "codigoFabrica": "0C1155",
     "codigoSAP": 500888,
     "cantidad": 1,
+    "modelo": "AOS061EBA2"
+  },
+  {
+    "codigoFabrica": "0C1155",
+    "codigoSAP": 500888,
+    "cantidad": 1,
     "modelo": "AOS061EKA1"
   },
   {
     "codigoFabrica": "0C1155",
     "codigoSAP": 500888,
     "cantidad": 1,
+    "modelo": "AOS061GKD1"
+  },
+  {
+    "codigoFabrica": "0C1155",
+    "codigoSAP": 500888,
+    "cantidad": 1,
+    "modelo": "AOS101EBA2"
+  },
+  {
+    "codigoFabrica": "0C1155",
+    "codigoSAP": 500888,
+    "cantidad": 1,
+    "modelo": "AOS101ECA2"
+  },
+  {
+    "codigoFabrica": "0C1155",
+    "codigoSAP": 500888,
+    "cantidad": 1,
     "modelo": "AOS101EKA1"
+  },
+  {
+    "codigoFabrica": "0C1155",
+    "codigoSAP": 500888,
+    "cantidad": 1,
+    "modelo": "AOS101GKD1"
   },
   {
     "codigoFabrica": "0C1186",
