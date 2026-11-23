@@ -13861,13 +13861,13 @@ const leadTimeData = [
   },
   {
     "codigoSAP": "501548",
-    "shipping": "Sea",
-    "Operador": "K+N",
+    "shipping": "Air",
+    "Operador": "FedEx",
     "fechaSolicitud": "27-03-2026",
     "fechaPI": "30-03-2026",
     "fechaOC": "30-03-2026",
-    "ETD": "10-07-2026",
-    "ETA": "02-09-2026",
+    "ETD": "24-11-2026",
+    "ETA": "",
     "fechaIngreso": ""
   },
   {
@@ -22062,7 +22062,7 @@ const leadTimeData = [
     "fechaPI": "19-06-2026",
     "fechaOC": "22-06-2026",
     "ETD": "20-09-2026",
-    "ETA": "12-11-2026",
+    "ETA": "29-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -22073,7 +22073,7 @@ const leadTimeData = [
     "fechaPI": "19-06-2026",
     "fechaOC": "22-06-2026",
     "ETD": "20-09-2026",
-    "ETA": "12-11-2026",
+    "ETA": "29-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25450,7 +25450,7 @@ const leadTimeData = [
     "fechaPI": "28-07-2026",
     "fechaOC": "04-08-2026",
     "ETD": "15-09-2026",
-    "ETA": "21-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25461,7 +25461,7 @@ const leadTimeData = [
     "fechaPI": "28-07-2026",
     "fechaOC": "04-08-2026",
     "ETD": "15-09-2026",
-    "ETA": "21-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25472,7 +25472,7 @@ const leadTimeData = [
     "fechaPI": "28-07-2026",
     "fechaOC": "04-08-2026",
     "ETD": "15-09-2026",
-    "ETA": "21-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25483,7 +25483,7 @@ const leadTimeData = [
     "fechaPI": "28-07-2026",
     "fechaOC": "04-08-2026",
     "ETD": "15-09-2026",
-    "ETA": "21-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25494,7 +25494,7 @@ const leadTimeData = [
     "fechaPI": "28-07-2026",
     "fechaOC": "04-08-2026",
     "ETD": "15-09-2026",
-    "ETA": "21-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25505,7 +25505,7 @@ const leadTimeData = [
     "fechaPI": "28-07-2026",
     "fechaOC": "04-08-2026",
     "ETD": "15-09-2026",
-    "ETA": "21-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25516,7 +25516,7 @@ const leadTimeData = [
     "fechaPI": "28-07-2026",
     "fechaOC": "04-08-2026",
     "ETD": "15-09-2026",
-    "ETA": "21-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25527,7 +25527,7 @@ const leadTimeData = [
     "fechaPI": "28-07-2026",
     "fechaOC": "04-08-2026",
     "ETD": "15-09-2026",
-    "ETA": "21-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25538,7 +25538,7 @@ const leadTimeData = [
     "fechaPI": "28-07-2026",
     "fechaOC": "04-08-2026",
     "ETD": "15-09-2026",
-    "ETA": "21-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25549,7 +25549,7 @@ const leadTimeData = [
     "fechaPI": "28-07-2026",
     "fechaOC": "04-08-2026",
     "ETD": "15-09-2026",
-    "ETA": "21-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25560,7 +25560,7 @@ const leadTimeData = [
     "fechaPI": "28-07-2026",
     "fechaOC": "04-08-2026",
     "ETD": "15-09-2026",
-    "ETA": "21-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25571,7 +25571,7 @@ const leadTimeData = [
     "fechaPI": "28-07-2026",
     "fechaOC": "04-08-2026",
     "ETD": "15-09-2026",
-    "ETA": "21-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25582,7 +25582,7 @@ const leadTimeData = [
     "fechaPI": "28-07-2026",
     "fechaOC": "04-08-2026",
     "ETD": "15-09-2026",
-    "ETA": "21-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25593,7 +25593,7 @@ const leadTimeData = [
     "fechaPI": "28-07-2026",
     "fechaOC": "04-08-2026",
     "ETD": "15-09-2026",
-    "ETA": "21-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25835,7 +25835,7 @@ const leadTimeData = [
     "fechaPI": "14-08-2026",
     "fechaOC": "17-08-2026",
     "ETD": "21-09-2026",
-    "ETA": "06-11-2026",
+    "ETA": "17-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25846,7 +25846,7 @@ const leadTimeData = [
     "fechaPI": "14-08-2026",
     "fechaOC": "17-08-2026",
     "ETD": "21-09-2026",
-    "ETA": "06-11-2026",
+    "ETA": "17-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25857,7 +25857,7 @@ const leadTimeData = [
     "fechaPI": "14-08-2026",
     "fechaOC": "17-08-2026",
     "ETD": "21-09-2026",
-    "ETA": "06-11-2026",
+    "ETA": "17-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25868,7 +25868,7 @@ const leadTimeData = [
     "fechaPI": "14-08-2026",
     "fechaOC": "17-08-2026",
     "ETD": "21-09-2026",
-    "ETA": "06-11-2026",
+    "ETA": "17-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25879,7 +25879,7 @@ const leadTimeData = [
     "fechaPI": "14-08-2026",
     "fechaOC": "17-08-2026",
     "ETD": "21-09-2026",
-    "ETA": "06-11-2026",
+    "ETA": "17-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25890,7 +25890,7 @@ const leadTimeData = [
     "fechaPI": "14-08-2026",
     "fechaOC": "17-08-2026",
     "ETD": "21-09-2026",
-    "ETA": "06-11-2026",
+    "ETA": "17-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25901,7 +25901,7 @@ const leadTimeData = [
     "fechaPI": "14-08-2026",
     "fechaOC": "17-08-2026",
     "ETD": "21-09-2026",
-    "ETA": "06-11-2026",
+    "ETA": "17-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25912,7 +25912,7 @@ const leadTimeData = [
     "fechaPI": "14-08-2026",
     "fechaOC": "17-08-2026",
     "ETD": "21-09-2026",
-    "ETA": "06-11-2026",
+    "ETA": "17-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25923,7 +25923,7 @@ const leadTimeData = [
     "fechaPI": "14-08-2026",
     "fechaOC": "17-08-2026",
     "ETD": "21-09-2026",
-    "ETA": "06-11-2026",
+    "ETA": "17-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25934,7 +25934,7 @@ const leadTimeData = [
     "fechaPI": "14-08-2026",
     "fechaOC": "17-08-2026",
     "ETD": "21-09-2026",
-    "ETA": "06-11-2026",
+    "ETA": "17-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25945,7 +25945,7 @@ const leadTimeData = [
     "fechaPI": "14-08-2026",
     "fechaOC": "17-08-2026",
     "ETD": "21-09-2026",
-    "ETA": "06-11-2026",
+    "ETA": "17-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -25956,7 +25956,7 @@ const leadTimeData = [
     "fechaPI": "14-08-2026",
     "fechaOC": "17-08-2026",
     "ETD": "21-09-2026",
-    "ETA": "06-11-2026",
+    "ETA": "17-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -26265,7 +26265,7 @@ const leadTimeData = [
     "fechaOC": "16-10-2026",
     "ETD": "13-11-2026",
     "ETA": "18-11-2026",
-    "fechaIngreso": ""
+    "fechaIngreso": "19-11-2026"
   },
   {
     "codigoSAP": "509000",
@@ -26276,7 +26276,7 @@ const leadTimeData = [
     "fechaOC": "16-10-2026",
     "ETD": "13-11-2026",
     "ETA": "18-11-2026",
-    "fechaIngreso": ""
+    "fechaIngreso": "19-11-2026"
   },
   {
     "codigoSAP": "507986",
@@ -26287,7 +26287,7 @@ const leadTimeData = [
     "fechaOC": "16-10-2026",
     "ETD": "13-11-2026",
     "ETA": "18-11-2026",
-    "fechaIngreso": ""
+    "fechaIngreso": "19-11-2026"
   },
   {
     "codigoSAP": "507987",
@@ -26298,7 +26298,7 @@ const leadTimeData = [
     "fechaOC": "16-10-2026",
     "ETD": "13-11-2026",
     "ETA": "18-11-2026",
-    "fechaIngreso": ""
+    "fechaIngreso": "19-11-2026"
   },
   {
     "codigoSAP": "507988",
@@ -26309,7 +26309,7 @@ const leadTimeData = [
     "fechaOC": "16-10-2026",
     "ETD": "13-11-2026",
     "ETA": "18-11-2026",
-    "fechaIngreso": ""
+    "fechaIngreso": "19-11-2026"
   },
   {
     "codigoSAP": "508015",
@@ -26320,7 +26320,7 @@ const leadTimeData = [
     "fechaOC": "16-10-2026",
     "ETD": "13-11-2026",
     "ETA": "18-11-2026",
-    "fechaIngreso": ""
+    "fechaIngreso": "19-11-2026"
   },
   {
     "codigoSAP": "507990",
@@ -26331,7 +26331,7 @@ const leadTimeData = [
     "fechaOC": "16-10-2026",
     "ETD": "13-11-2026",
     "ETA": "18-11-2026",
-    "fechaIngreso": ""
+    "fechaIngreso": "19-11-2026"
   },
   {
     "codigoSAP": "509000",
@@ -34828,12 +34828,12 @@ const leadTimeData = [
   {
     "codigoSAP": "505347",
     "shipping": "Terrestre",
-    "Operador": "TILEX",
+    "Operador": "",
     "fechaSolicitud": "24-09-2026",
     "fechaPI": "25-09-2026",
     "fechaOC": "29-09-2026",
-    "ETD": "30-10-2026",
-    "ETA": "10-11-2026",
+    "ETD": "",
+    "ETA": "",
     "fechaIngreso": ""
   },
   {
@@ -35427,7 +35427,7 @@ const leadTimeData = [
     "fechaPI": "29-09-2026",
     "fechaOC": "05-10-2026",
     "ETD": "16-11-2026",
-    "ETA": "24-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -35438,7 +35438,7 @@ const leadTimeData = [
     "fechaPI": "29-09-2026",
     "fechaOC": "05-10-2026",
     "ETD": "16-11-2026",
-    "ETA": "24-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -35449,7 +35449,7 @@ const leadTimeData = [
     "fechaPI": "29-09-2026",
     "fechaOC": "05-10-2026",
     "ETD": "16-11-2026",
-    "ETA": "24-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -35460,7 +35460,7 @@ const leadTimeData = [
     "fechaPI": "29-09-2026",
     "fechaOC": "05-10-2026",
     "ETD": "16-11-2026",
-    "ETA": "24-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -35471,7 +35471,7 @@ const leadTimeData = [
     "fechaPI": "29-09-2026",
     "fechaOC": "05-10-2026",
     "ETD": "16-11-2026",
-    "ETA": "24-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -35482,7 +35482,7 @@ const leadTimeData = [
     "fechaPI": "29-09-2026",
     "fechaOC": "05-10-2026",
     "ETD": "16-11-2026",
-    "ETA": "24-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -35493,7 +35493,7 @@ const leadTimeData = [
     "fechaPI": "29-09-2026",
     "fechaOC": "05-10-2026",
     "ETD": "16-11-2026",
-    "ETA": "24-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -35504,7 +35504,7 @@ const leadTimeData = [
     "fechaPI": "29-09-2026",
     "fechaOC": "05-10-2026",
     "ETD": "16-11-2026",
-    "ETA": "24-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -35515,7 +35515,7 @@ const leadTimeData = [
     "fechaPI": "29-09-2026",
     "fechaOC": "05-10-2026",
     "ETD": "16-11-2026",
-    "ETA": "24-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -35657,7 +35657,7 @@ const leadTimeData = [
     "fechaSolicitud": "30-09-2026",
     "fechaPI": "03-10-2026",
     "fechaOC": "06-10-2026",
-    "ETD": "14-11-2026",
+    "ETD": "18-11-2026",
     "ETA": "06-01-2027",
     "fechaIngreso": ""
   },
@@ -35668,7 +35668,7 @@ const leadTimeData = [
     "fechaSolicitud": "30-09-2026",
     "fechaPI": "03-10-2026",
     "fechaOC": "06-10-2026",
-    "ETD": "14-11-2026",
+    "ETD": "18-11-2026",
     "ETA": "06-01-2027",
     "fechaIngreso": ""
   },
@@ -35679,7 +35679,7 @@ const leadTimeData = [
     "fechaSolicitud": "30-09-2026",
     "fechaPI": "03-10-2026",
     "fechaOC": "06-10-2026",
-    "ETD": "14-11-2026",
+    "ETD": "18-11-2026",
     "ETA": "06-01-2027",
     "fechaIngreso": ""
   },
@@ -35690,7 +35690,7 @@ const leadTimeData = [
     "fechaSolicitud": "30-09-2026",
     "fechaPI": "03-10-2026",
     "fechaOC": "06-10-2026",
-    "ETD": "14-11-2026",
+    "ETD": "18-11-2026",
     "ETA": "06-01-2027",
     "fechaIngreso": ""
   },
@@ -35701,7 +35701,7 @@ const leadTimeData = [
     "fechaSolicitud": "30-09-2026",
     "fechaPI": "03-10-2026",
     "fechaOC": "06-10-2026",
-    "ETD": "14-11-2026",
+    "ETD": "18-11-2026",
     "ETA": "06-01-2027",
     "fechaIngreso": ""
   },
@@ -35712,7 +35712,7 @@ const leadTimeData = [
     "fechaSolicitud": "30-09-2026",
     "fechaPI": "03-10-2026",
     "fechaOC": "06-10-2026",
-    "ETD": "14-11-2026",
+    "ETD": "18-11-2026",
     "ETA": "06-01-2027",
     "fechaIngreso": ""
   },
@@ -35911,7 +35911,7 @@ const leadTimeData = [
     "fechaPI": "02-10-2026",
     "fechaOC": "09-10-2026",
     "ETD": "09-11-2026",
-    "ETA": "16-12-2026",
+    "ETA": "19-12-2026",
     "fechaIngreso": ""
   },
   {
@@ -35922,7 +35922,7 @@ const leadTimeData = [
     "fechaPI": "02-10-2026",
     "fechaOC": "09-10-2026",
     "ETD": "09-11-2026",
-    "ETA": "16-12-2026",
+    "ETA": "19-12-2026",
     "fechaIngreso": ""
   },
   {
@@ -35933,7 +35933,7 @@ const leadTimeData = [
     "fechaPI": "02-10-2026",
     "fechaOC": "09-10-2026",
     "ETD": "09-11-2026",
-    "ETA": "16-12-2026",
+    "ETA": "19-12-2026",
     "fechaIngreso": ""
   },
   {
@@ -35944,7 +35944,7 @@ const leadTimeData = [
     "fechaPI": "02-10-2026",
     "fechaOC": "09-10-2026",
     "ETD": "09-11-2026",
-    "ETA": "16-12-2026",
+    "ETA": "19-12-2026",
     "fechaIngreso": ""
   },
   {
@@ -35955,7 +35955,7 @@ const leadTimeData = [
     "fechaPI": "02-10-2026",
     "fechaOC": "09-10-2026",
     "ETD": "09-11-2026",
-    "ETA": "16-12-2026",
+    "ETA": "19-12-2026",
     "fechaIngreso": ""
   },
   {
@@ -35966,7 +35966,7 @@ const leadTimeData = [
     "fechaPI": "02-10-2026",
     "fechaOC": "09-10-2026",
     "ETD": "09-11-2026",
-    "ETA": "16-12-2026",
+    "ETA": "19-12-2026",
     "fechaIngreso": ""
   },
   {
@@ -35977,7 +35977,7 @@ const leadTimeData = [
     "fechaPI": "02-10-2026",
     "fechaOC": "09-10-2026",
     "ETD": "09-11-2026",
-    "ETA": "16-12-2026",
+    "ETA": "19-12-2026",
     "fechaIngreso": ""
   },
   {
@@ -35988,7 +35988,7 @@ const leadTimeData = [
     "fechaPI": "02-10-2026",
     "fechaOC": "09-10-2026",
     "ETD": "09-11-2026",
-    "ETA": "16-12-2026",
+    "ETA": "19-12-2026",
     "fechaIngreso": ""
   },
   {
@@ -35999,7 +35999,7 @@ const leadTimeData = [
     "fechaPI": "02-10-2026",
     "fechaOC": "09-10-2026",
     "ETD": "09-11-2026",
-    "ETA": "16-12-2026",
+    "ETA": "19-12-2026",
     "fechaIngreso": ""
   },
   {
@@ -36010,7 +36010,7 @@ const leadTimeData = [
     "fechaPI": "02-10-2026",
     "fechaOC": "09-10-2026",
     "ETD": "09-11-2026",
-    "ETA": "16-12-2026",
+    "ETA": "19-12-2026",
     "fechaIngreso": ""
   },
   {
@@ -36021,7 +36021,7 @@ const leadTimeData = [
     "fechaPI": "02-10-2026",
     "fechaOC": "09-10-2026",
     "ETD": "09-11-2026",
-    "ETA": "16-12-2026",
+    "ETA": "19-12-2026",
     "fechaIngreso": ""
   },
   {
@@ -36032,7 +36032,7 @@ const leadTimeData = [
     "fechaPI": "02-10-2026",
     "fechaOC": "09-10-2026",
     "ETD": "09-11-2026",
-    "ETA": "16-12-2026",
+    "ETA": "19-12-2026",
     "fechaIngreso": ""
   },
   {
@@ -36043,7 +36043,7 @@ const leadTimeData = [
     "fechaPI": "02-10-2026",
     "fechaOC": "09-10-2026",
     "ETD": "09-11-2026",
-    "ETA": "16-12-2026",
+    "ETA": "19-12-2026",
     "fechaIngreso": ""
   },
   {
@@ -36054,7 +36054,7 @@ const leadTimeData = [
     "fechaPI": "02-10-2026",
     "fechaOC": "09-10-2026",
     "ETD": "09-11-2026",
-    "ETA": "16-12-2026",
+    "ETA": "19-12-2026",
     "fechaIngreso": ""
   },
   {
@@ -36065,7 +36065,7 @@ const leadTimeData = [
     "fechaPI": "02-10-2026",
     "fechaOC": "09-10-2026",
     "ETD": "09-11-2026",
-    "ETA": "16-12-2026",
+    "ETA": "19-12-2026",
     "fechaIngreso": ""
   },
   {
@@ -36076,7 +36076,7 @@ const leadTimeData = [
     "fechaPI": "02-10-2026",
     "fechaOC": "09-10-2026",
     "ETD": "09-11-2026",
-    "ETA": "16-12-2026",
+    "ETA": "19-12-2026",
     "fechaIngreso": ""
   },
   {
@@ -36087,7 +36087,7 @@ const leadTimeData = [
     "fechaPI": "02-10-2026",
     "fechaOC": "09-10-2026",
     "ETD": "09-11-2026",
-    "ETA": "16-12-2026",
+    "ETA": "19-12-2026",
     "fechaIngreso": ""
   },
   {
@@ -36098,7 +36098,7 @@ const leadTimeData = [
     "fechaPI": "02-10-2026",
     "fechaOC": "09-10-2026",
     "ETD": "09-11-2026",
-    "ETA": "16-12-2026",
+    "ETA": "19-12-2026",
     "fechaIngreso": ""
   },
   {
@@ -36109,7 +36109,7 @@ const leadTimeData = [
     "fechaPI": "02-10-2026",
     "fechaOC": "09-10-2026",
     "ETD": "09-11-2026",
-    "ETA": "16-12-2026",
+    "ETA": "19-12-2026",
     "fechaIngreso": ""
   },
   {
@@ -36120,7 +36120,7 @@ const leadTimeData = [
     "fechaPI": "02-10-2026",
     "fechaOC": "09-10-2026",
     "ETD": "09-11-2026",
-    "ETA": "16-12-2026",
+    "ETA": "19-12-2026",
     "fechaIngreso": ""
   },
   {
@@ -36131,7 +36131,7 @@ const leadTimeData = [
     "fechaPI": "02-10-2026",
     "fechaOC": "09-10-2026",
     "ETD": "09-11-2026",
-    "ETA": "16-12-2026",
+    "ETA": "19-12-2026",
     "fechaIngreso": ""
   },
   {
@@ -36142,7 +36142,7 @@ const leadTimeData = [
     "fechaPI": "02-10-2026",
     "fechaOC": "09-10-2026",
     "ETD": "09-11-2026",
-    "ETA": "16-12-2026",
+    "ETA": "19-12-2026",
     "fechaIngreso": ""
   },
   {
@@ -36478,12 +36478,12 @@ const leadTimeData = [
   {
     "codigoSAP": "502564",
     "shipping": "Air",
-    "Operador": "",
+    "Operador": "DHL",
     "fechaSolicitud": "06-10-2026",
     "fechaPI": "16-10-2026",
     "fechaOC": "20-10-2026",
-    "ETD": "12-11-2026",
-    "ETA": "18-11-2026",
+    "ETD": "19-11-2026",
+    "ETA": "27-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -36493,8 +36493,8 @@ const leadTimeData = [
     "fechaSolicitud": "06-10-2026",
     "fechaPI": "07-10-2026",
     "fechaOC": "09-10-2026",
-    "ETD": "19-11-2026",
-    "ETA": "23-11-2026",
+    "ETD": "16-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -36504,8 +36504,8 @@ const leadTimeData = [
     "fechaSolicitud": "06-10-2026",
     "fechaPI": "07-10-2026",
     "fechaOC": "09-10-2026",
-    "ETD": "19-11-2026",
-    "ETA": "23-11-2026",
+    "ETD": "16-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -36515,8 +36515,8 @@ const leadTimeData = [
     "fechaSolicitud": "06-10-2026",
     "fechaPI": "07-10-2026",
     "fechaOC": "09-10-2026",
-    "ETD": "19-11-2026",
-    "ETA": "23-11-2026",
+    "ETD": "16-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -36526,8 +36526,8 @@ const leadTimeData = [
     "fechaSolicitud": "06-10-2026",
     "fechaPI": "07-10-2026",
     "fechaOC": "09-10-2026",
-    "ETD": "19-11-2026",
-    "ETA": "23-11-2026",
+    "ETD": "16-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -36537,8 +36537,8 @@ const leadTimeData = [
     "fechaSolicitud": "06-10-2026",
     "fechaPI": "07-10-2026",
     "fechaOC": "09-10-2026",
-    "ETD": "19-11-2026",
-    "ETA": "23-11-2026",
+    "ETD": "16-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -36548,8 +36548,8 @@ const leadTimeData = [
     "fechaSolicitud": "06-10-2026",
     "fechaPI": "07-10-2026",
     "fechaOC": "09-10-2026",
-    "ETD": "19-11-2026",
-    "ETA": "23-11-2026",
+    "ETD": "16-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -37671,7 +37671,7 @@ const leadTimeData = [
     "fechaPI": "14-10-2026",
     "fechaOC": "16-10-2026",
     "ETD": "11-11-2026",
-    "ETA": "",
+    "ETA": "20-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -37682,7 +37682,7 @@ const leadTimeData = [
     "fechaPI": "14-10-2026",
     "fechaOC": "16-10-2026",
     "ETD": "11-11-2026",
-    "ETA": "",
+    "ETA": "20-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -37842,7 +37842,7 @@ const leadTimeData = [
   {
     "codigoSAP": "509143",
     "shipping": "Air",
-    "Operador": "DHL",
+    "Operador": "",
     "fechaSolicitud": "14-10-2026",
     "fechaPI": "16-10-2026",
     "fechaOC": "23-10-2026",
@@ -38304,298 +38304,298 @@ const leadTimeData = [
   {
     "codigoSAP": "509627",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "509628",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "509629",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "509630",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "508165",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "509631",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "508167",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "508187",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "509632",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "509633",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "509634",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "509635",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "508227",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "509636",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "509637",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "509638",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "509639",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "509640",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "508314",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "509641",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "509642",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "509643",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "509644",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "509645",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "509646",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "509647",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "509648",
     "shipping": "Air",
-    "Operador": "K+N",
+    "Operador": "UPS",
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "21-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -38957,7 +38957,7 @@ const leadTimeData = [
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "20-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "16-11-2026",
+    "ETD": "06-11-2026",
     "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
@@ -38968,7 +38968,7 @@ const leadTimeData = [
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "20-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "16-11-2026",
+    "ETD": "06-11-2026",
     "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
@@ -38979,7 +38979,7 @@ const leadTimeData = [
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "20-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "16-11-2026",
+    "ETD": "06-11-2026",
     "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
@@ -38990,7 +38990,7 @@ const leadTimeData = [
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "20-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "16-11-2026",
+    "ETD": "06-11-2026",
     "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
@@ -39001,7 +39001,7 @@ const leadTimeData = [
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "20-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "16-11-2026",
+    "ETD": "06-11-2026",
     "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
@@ -39012,7 +39012,7 @@ const leadTimeData = [
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "20-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "16-11-2026",
+    "ETD": "06-11-2026",
     "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
@@ -39023,7 +39023,7 @@ const leadTimeData = [
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "20-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "16-11-2026",
+    "ETD": "06-11-2026",
     "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
@@ -39034,7 +39034,7 @@ const leadTimeData = [
     "fechaSolicitud": "19-10-2026",
     "fechaPI": "20-10-2026",
     "fechaOC": "21-10-2026",
-    "ETD": "16-11-2026",
+    "ETD": "06-11-2026",
     "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
@@ -39074,23 +39074,23 @@ const leadTimeData = [
   {
     "codigoSAP": "506027",
     "shipping": "Air",
-    "Operador": "DHL",
+    "Operador": "UPS",
     "fechaSolicitud": "20-10-2026",
     "fechaPI": "20-10-2026",
     "fechaOC": "20-10-2026",
-    "ETD": "06-11-2026",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
     "codigoSAP": "506028",
     "shipping": "Air",
-    "Operador": "DHL",
+    "Operador": "UPS",
     "fechaSolicitud": "20-10-2026",
     "fechaPI": "20-10-2026",
     "fechaOC": "20-10-2026",
-    "ETD": "06-11-2026",
-    "ETA": "",
+    "ETD": "10-11-2026",
+    "ETA": "23-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -39122,7 +39122,7 @@ const leadTimeData = [
     "fechaSolicitud": "20-10-2026",
     "fechaPI": "09-11-2026",
     "fechaOC": "17-11-2026",
-    "ETD": "15-12-2026",
+    "ETD": "04-01-2027",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39133,7 +39133,7 @@ const leadTimeData = [
     "fechaSolicitud": "20-10-2026",
     "fechaPI": "09-11-2026",
     "fechaOC": "17-11-2026",
-    "ETD": "15-12-2026",
+    "ETD": "04-01-2027",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39144,7 +39144,7 @@ const leadTimeData = [
     "fechaSolicitud": "20-10-2026",
     "fechaPI": "09-11-2026",
     "fechaOC": "17-11-2026",
-    "ETD": "15-12-2026",
+    "ETD": "04-01-2027",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39155,7 +39155,7 @@ const leadTimeData = [
     "fechaSolicitud": "20-10-2026",
     "fechaPI": "09-11-2026",
     "fechaOC": "17-11-2026",
-    "ETD": "15-12-2026",
+    "ETD": "04-01-2027",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39166,7 +39166,7 @@ const leadTimeData = [
     "fechaSolicitud": "20-10-2026",
     "fechaPI": "09-11-2026",
     "fechaOC": "17-11-2026",
-    "ETD": "15-12-2026",
+    "ETD": "04-01-2027",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39177,7 +39177,7 @@ const leadTimeData = [
     "fechaSolicitud": "20-10-2026",
     "fechaPI": "09-11-2026",
     "fechaOC": "17-11-2026",
-    "ETD": "15-12-2026",
+    "ETD": "04-01-2027",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39188,7 +39188,7 @@ const leadTimeData = [
     "fechaSolicitud": "20-10-2026",
     "fechaPI": "09-11-2026",
     "fechaOC": "17-11-2026",
-    "ETD": "15-12-2026",
+    "ETD": "04-01-2027",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39199,7 +39199,7 @@ const leadTimeData = [
     "fechaSolicitud": "20-10-2026",
     "fechaPI": "09-11-2026",
     "fechaOC": "17-11-2026",
-    "ETD": "15-12-2026",
+    "ETD": "04-01-2027",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39210,7 +39210,7 @@ const leadTimeData = [
     "fechaSolicitud": "20-10-2026",
     "fechaPI": "09-11-2026",
     "fechaOC": "17-11-2026",
-    "ETD": "15-12-2026",
+    "ETD": "04-01-2027",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39221,7 +39221,7 @@ const leadTimeData = [
     "fechaSolicitud": "20-10-2026",
     "fechaPI": "09-11-2026",
     "fechaOC": "17-11-2026",
-    "ETD": "15-12-2026",
+    "ETD": "04-01-2027",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39232,7 +39232,7 @@ const leadTimeData = [
     "fechaSolicitud": "20-10-2026",
     "fechaPI": "09-11-2026",
     "fechaOC": "17-11-2026",
-    "ETD": "15-12-2026",
+    "ETD": "04-01-2027",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39243,7 +39243,7 @@ const leadTimeData = [
     "fechaSolicitud": "20-10-2026",
     "fechaPI": "09-11-2026",
     "fechaOC": "17-11-2026",
-    "ETD": "15-12-2026",
+    "ETD": "04-01-2027",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39255,7 +39255,7 @@ const leadTimeData = [
     "fechaPI": "21-10-2026",
     "fechaOC": "26-10-2026",
     "ETD": "11-11-2026",
-    "ETA": "",
+    "ETA": "20-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -39266,7 +39266,7 @@ const leadTimeData = [
     "fechaPI": "21-10-2026",
     "fechaOC": "26-10-2026",
     "ETD": "11-11-2026",
-    "ETA": "",
+    "ETA": "20-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -39738,7 +39738,7 @@ const leadTimeData = [
     "fechaSolicitud": "21-10-2026",
     "fechaPI": "04-11-2026",
     "fechaOC": "10-11-2026",
-    "ETD": "",
+    "ETD": "21-12-2026",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39749,7 +39749,7 @@ const leadTimeData = [
     "fechaSolicitud": "21-10-2026",
     "fechaPI": "04-11-2026",
     "fechaOC": "10-11-2026",
-    "ETD": "",
+    "ETD": "21-12-2026",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39760,7 +39760,7 @@ const leadTimeData = [
     "fechaSolicitud": "21-10-2026",
     "fechaPI": "04-11-2026",
     "fechaOC": "10-11-2026",
-    "ETD": "",
+    "ETD": "21-12-2026",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39771,7 +39771,7 @@ const leadTimeData = [
     "fechaSolicitud": "21-10-2026",
     "fechaPI": "04-11-2026",
     "fechaOC": "10-11-2026",
-    "ETD": "",
+    "ETD": "21-12-2026",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39782,7 +39782,7 @@ const leadTimeData = [
     "fechaSolicitud": "21-10-2026",
     "fechaPI": "04-11-2026",
     "fechaOC": "10-11-2026",
-    "ETD": "",
+    "ETD": "21-12-2026",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39793,7 +39793,7 @@ const leadTimeData = [
     "fechaSolicitud": "21-10-2026",
     "fechaPI": "04-11-2026",
     "fechaOC": "10-11-2026",
-    "ETD": "",
+    "ETD": "21-12-2026",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39804,7 +39804,7 @@ const leadTimeData = [
     "fechaSolicitud": "21-10-2026",
     "fechaPI": "04-11-2026",
     "fechaOC": "10-11-2026",
-    "ETD": "",
+    "ETD": "21-12-2026",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39815,7 +39815,7 @@ const leadTimeData = [
     "fechaSolicitud": "21-10-2026",
     "fechaPI": "04-11-2026",
     "fechaOC": "10-11-2026",
-    "ETD": "",
+    "ETD": "21-12-2026",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39826,7 +39826,7 @@ const leadTimeData = [
     "fechaSolicitud": "21-10-2026",
     "fechaPI": "04-11-2026",
     "fechaOC": "10-11-2026",
-    "ETD": "",
+    "ETD": "21-12-2026",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39837,7 +39837,7 @@ const leadTimeData = [
     "fechaSolicitud": "21-10-2026",
     "fechaPI": "04-11-2026",
     "fechaOC": "10-11-2026",
-    "ETD": "",
+    "ETD": "21-12-2026",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39848,7 +39848,7 @@ const leadTimeData = [
     "fechaSolicitud": "21-10-2026",
     "fechaPI": "04-11-2026",
     "fechaOC": "10-11-2026",
-    "ETD": "",
+    "ETD": "21-12-2026",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39859,7 +39859,7 @@ const leadTimeData = [
     "fechaSolicitud": "21-10-2026",
     "fechaPI": "04-11-2026",
     "fechaOC": "10-11-2026",
-    "ETD": "",
+    "ETD": "21-12-2026",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39870,7 +39870,7 @@ const leadTimeData = [
     "fechaSolicitud": "21-10-2026",
     "fechaPI": "04-11-2026",
     "fechaOC": "10-11-2026",
-    "ETD": "",
+    "ETD": "21-12-2026",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39881,7 +39881,7 @@ const leadTimeData = [
     "fechaSolicitud": "21-10-2026",
     "fechaPI": "04-11-2026",
     "fechaOC": "10-11-2026",
-    "ETD": "",
+    "ETD": "21-12-2026",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -39892,7 +39892,7 @@ const leadTimeData = [
     "fechaSolicitud": "21-10-2026",
     "fechaPI": "04-11-2026",
     "fechaOC": "10-11-2026",
-    "ETD": "",
+    "ETD": "21-12-2026",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -40101,7 +40101,7 @@ const leadTimeData = [
     "fechaSolicitud": "26-10-2026",
     "fechaPI": "28-10-2026",
     "fechaOC": "28-10-2026",
-    "ETD": "16-11-2026",
+    "ETD": "",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -40343,8 +40343,8 @@ const leadTimeData = [
     "fechaSolicitud": "27-10-2026",
     "fechaPI": "02-11-2026",
     "fechaOC": "04-11-2026",
-    "ETD": "07-12-2026",
-    "ETA": "14-12-2026",
+    "ETD": "16-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -40354,8 +40354,8 @@ const leadTimeData = [
     "fechaSolicitud": "27-10-2026",
     "fechaPI": "02-11-2026",
     "fechaOC": "04-11-2026",
-    "ETD": "07-12-2026",
-    "ETA": "14-12-2026",
+    "ETD": "16-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -40365,8 +40365,8 @@ const leadTimeData = [
     "fechaSolicitud": "27-10-2026",
     "fechaPI": "02-11-2026",
     "fechaOC": "04-11-2026",
-    "ETD": "07-12-2026",
-    "ETA": "14-12-2026",
+    "ETD": "16-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -40376,8 +40376,8 @@ const leadTimeData = [
     "fechaSolicitud": "27-10-2026",
     "fechaPI": "02-11-2026",
     "fechaOC": "04-11-2026",
-    "ETD": "07-12-2026",
-    "ETA": "14-12-2026",
+    "ETD": "16-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -40387,8 +40387,8 @@ const leadTimeData = [
     "fechaSolicitud": "27-10-2026",
     "fechaPI": "02-11-2026",
     "fechaOC": "04-11-2026",
-    "ETD": "07-12-2026",
-    "ETA": "14-12-2026",
+    "ETD": "16-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -40398,8 +40398,8 @@ const leadTimeData = [
     "fechaSolicitud": "27-10-2026",
     "fechaPI": "02-11-2026",
     "fechaOC": "04-11-2026",
-    "ETD": "07-12-2026",
-    "ETA": "14-12-2026",
+    "ETD": "16-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -40409,8 +40409,8 @@ const leadTimeData = [
     "fechaSolicitud": "27-10-2026",
     "fechaPI": "02-11-2026",
     "fechaOC": "04-11-2026",
-    "ETD": "07-12-2026",
-    "ETA": "14-12-2026",
+    "ETD": "16-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -40420,8 +40420,8 @@ const leadTimeData = [
     "fechaSolicitud": "27-10-2026",
     "fechaPI": "02-11-2026",
     "fechaOC": "04-11-2026",
-    "ETD": "07-12-2026",
-    "ETA": "14-12-2026",
+    "ETD": "16-11-2026",
+    "ETA": "19-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -41377,8 +41377,8 @@ const leadTimeData = [
     "fechaSolicitud": "04-11-2026",
     "fechaPI": "05-11-2026",
     "fechaOC": "11-11-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "26-11-2026",
+    "ETA": "26-01-2027",
     "fechaIngreso": ""
   },
   {
@@ -41388,8 +41388,8 @@ const leadTimeData = [
     "fechaSolicitud": "04-11-2026",
     "fechaPI": "05-11-2026",
     "fechaOC": "11-11-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "26-11-2026",
+    "ETA": "26-01-2027",
     "fechaIngreso": ""
   },
   {
@@ -41399,8 +41399,8 @@ const leadTimeData = [
     "fechaSolicitud": "04-11-2026",
     "fechaPI": "05-11-2026",
     "fechaOC": "11-11-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "26-11-2026",
+    "ETA": "26-01-2027",
     "fechaIngreso": ""
   },
   {
@@ -41410,8 +41410,8 @@ const leadTimeData = [
     "fechaSolicitud": "04-11-2026",
     "fechaPI": "05-11-2026",
     "fechaOC": "11-11-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "26-11-2026",
+    "ETA": "26-01-2027",
     "fechaIngreso": ""
   },
   {
@@ -41421,8 +41421,8 @@ const leadTimeData = [
     "fechaSolicitud": "04-11-2026",
     "fechaPI": "05-11-2026",
     "fechaOC": "11-11-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "26-11-2026",
+    "ETA": "26-01-2027",
     "fechaIngreso": ""
   },
   {
@@ -41432,8 +41432,8 @@ const leadTimeData = [
     "fechaSolicitud": "04-11-2026",
     "fechaPI": "05-11-2026",
     "fechaOC": "11-11-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "26-11-2026",
+    "ETA": "26-01-2027",
     "fechaIngreso": ""
   },
   {
@@ -41443,8 +41443,8 @@ const leadTimeData = [
     "fechaSolicitud": "04-11-2026",
     "fechaPI": "05-11-2026",
     "fechaOC": "11-11-2026",
-    "ETD": "",
-    "ETA": "",
+    "ETD": "26-11-2026",
+    "ETA": "26-01-2027",
     "fechaIngreso": ""
   },
   {
@@ -41791,12 +41791,12 @@ const leadTimeData = [
   {
     "codigoSAP": "508278",
     "shipping": "Air",
-    "Operador": "",
+    "Operador": "DHL",
     "fechaSolicitud": "06-11-2026",
     "fechaPI": "11-11-2026",
     "fechaOC": "11-11-2026",
-    "ETD": "13-11-2026",
-    "ETA": "17-11-2026",
+    "ETD": "18-11-2026",
+    "ETA": "24-11-2026",
     "fechaIngreso": ""
   },
   {
@@ -41806,8 +41806,8 @@ const leadTimeData = [
     "fechaSolicitud": "06-11-2026",
     "fechaPI": "11-11-2026",
     "fechaOC": "11-11-2026",
-    "ETD": "13-11-2026",
-    "ETA": "17-11-2026",
+    "ETD": "",
+    "ETA": "",
     "fechaIngreso": ""
   },
   {
@@ -41817,8 +41817,8 @@ const leadTimeData = [
     "fechaSolicitud": "06-11-2026",
     "fechaPI": "11-11-2026",
     "fechaOC": "11-11-2026",
-    "ETD": "13-11-2026",
-    "ETA": "17-11-2026",
+    "ETD": "",
+    "ETA": "",
     "fechaIngreso": ""
   },
   {
@@ -42248,7 +42248,7 @@ const leadTimeData = [
     "fechaOC": "10-11-2026",
     "ETD": "",
     "ETA": "",
-    "fechaIngreso": ""
+    "fechaIngreso": "19-11-2026"
   },
   {
     "codigoSAP": "501643",
@@ -42970,9 +42970,9 @@ const leadTimeData = [
     "shipping": "Sea",
     "Operador": "",
     "fechaSolicitud": "16-11-2026",
-    "fechaPI": "",
+    "fechaPI": "20-11-2026",
     "fechaOC": "",
-    "ETD": "",
+    "ETD": "05-01-2027",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -42981,9 +42981,9 @@ const leadTimeData = [
     "shipping": "Sea",
     "Operador": "",
     "fechaSolicitud": "16-11-2026",
-    "fechaPI": "",
+    "fechaPI": "20-11-2026",
     "fechaOC": "",
-    "ETD": "",
+    "ETD": "05-01-2027",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -42992,9 +42992,9 @@ const leadTimeData = [
     "shipping": "Sea",
     "Operador": "",
     "fechaSolicitud": "16-11-2026",
-    "fechaPI": "",
+    "fechaPI": "20-11-2026",
     "fechaOC": "",
-    "ETD": "",
+    "ETD": "05-01-2027",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -43003,9 +43003,9 @@ const leadTimeData = [
     "shipping": "Sea",
     "Operador": "",
     "fechaSolicitud": "16-11-2026",
-    "fechaPI": "",
+    "fechaPI": "20-11-2026",
     "fechaOC": "",
-    "ETD": "",
+    "ETD": "05-01-2027",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -43014,9 +43014,9 @@ const leadTimeData = [
     "shipping": "Sea",
     "Operador": "",
     "fechaSolicitud": "16-11-2026",
-    "fechaPI": "",
+    "fechaPI": "20-11-2026",
     "fechaOC": "",
-    "ETD": "",
+    "ETD": "05-01-2027",
     "ETA": "",
     "fechaIngreso": ""
   },
@@ -43359,7 +43359,7 @@ const leadTimeData = [
     "fechaOC": "17-11-2026",
     "ETD": "",
     "ETA": "",
-    "fechaIngreso": ""
+    "fechaIngreso": "19-11-2026"
   },
   {
     "codigoSAP": "504490",
@@ -43370,7 +43370,7 @@ const leadTimeData = [
     "fechaOC": "17-11-2026",
     "ETD": "",
     "ETA": "",
-    "fechaIngreso": ""
+    "fechaIngreso": "19-11-2026"
   },
   {
     "codigoSAP": "501506",
@@ -43553,6 +43553,611 @@ const leadTimeData = [
     "shipping": "Sea",
     "Operador": "",
     "fechaSolicitud": "18-11-2026",
+    "fechaPI": "",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "509552",
+    "shipping": "Air",
+    "Operador": "",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "19-11-2026",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "509206",
+    "shipping": "Air",
+    "Operador": "",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "19-11-2026",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "508555",
+    "shipping": "Air",
+    "Operador": "",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "19-11-2026",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "500316",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "500318",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "500321",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "500333",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "500367",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504736",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504760",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504763",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504778",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504775",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504777",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504942",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504964",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "506353",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "500847",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "500064",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504732",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504739",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504813",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504895",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "508745",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504976",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "505490",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "500846",
+    "shipping": "Local",
+    "Operador": "Local",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "18-11-2026",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "509660",
+    "shipping": "Air",
+    "Operador": "DHL",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "",
+    "ETD": "11-11-2026",
+    "ETA": "20-11-2026",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "509661",
+    "shipping": "Air",
+    "Operador": "DHL",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "",
+    "ETD": "11-11-2026",
+    "ETA": "20-11-2026",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "509662",
+    "shipping": "Air",
+    "Operador": "DHL",
+    "fechaSolicitud": "18-11-2026",
+    "fechaPI": "18-11-2026",
+    "fechaOC": "",
+    "ETD": "11-11-2026",
+    "ETA": "20-11-2026",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "502842",
+    "shipping": "Sea",
+    "Operador": "",
+    "fechaSolicitud": "20-11-2026",
+    "fechaPI": "20-11-2026",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "502841",
+    "shipping": "Sea",
+    "Operador": "",
+    "fechaSolicitud": "20-11-2026",
+    "fechaPI": "20-11-2026",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "502610",
+    "shipping": "Sea",
+    "Operador": "",
+    "fechaSolicitud": "20-11-2026",
+    "fechaPI": "20-11-2026",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "502617",
+    "shipping": "Sea",
+    "Operador": "",
+    "fechaSolicitud": "20-11-2026",
+    "fechaPI": "20-11-2026",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "502840",
+    "shipping": "Sea",
+    "Operador": "",
+    "fechaSolicitud": "20-11-2026",
+    "fechaPI": "20-11-2026",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "502761",
+    "shipping": "Sea",
+    "Operador": "",
+    "fechaSolicitud": "20-11-2026",
+    "fechaPI": "20-11-2026",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "502763",
+    "shipping": "Sea",
+    "Operador": "",
+    "fechaSolicitud": "20-11-2026",
+    "fechaPI": "20-11-2026",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "501614",
+    "shipping": "Terrestre",
+    "Operador": "",
+    "fechaSolicitud": "23-11-2026",
+    "fechaPI": "",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "501614",
+    "shipping": "Terrestre",
+    "Operador": "",
+    "fechaSolicitud": "23-11-2026",
+    "fechaPI": "",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "501614",
+    "shipping": "Terrestre",
+    "Operador": "",
+    "fechaSolicitud": "23-11-2026",
+    "fechaPI": "",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504637",
+    "shipping": "Terrestre",
+    "Operador": "",
+    "fechaSolicitud": "23-11-2026",
+    "fechaPI": "",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504616",
+    "shipping": "Terrestre",
+    "Operador": "",
+    "fechaSolicitud": "23-11-2026",
+    "fechaPI": "",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504625",
+    "shipping": "Terrestre",
+    "Operador": "",
+    "fechaSolicitud": "23-11-2026",
+    "fechaPI": "",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504606",
+    "shipping": "Terrestre",
+    "Operador": "",
+    "fechaSolicitud": "23-11-2026",
+    "fechaPI": "",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504628",
+    "shipping": "Terrestre",
+    "Operador": "",
+    "fechaSolicitud": "23-11-2026",
+    "fechaPI": "",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "505733",
+    "shipping": "Terrestre",
+    "Operador": "",
+    "fechaSolicitud": "23-11-2026",
+    "fechaPI": "",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "506505",
+    "shipping": "Terrestre",
+    "Operador": "",
+    "fechaSolicitud": "23-11-2026",
+    "fechaPI": "",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504596",
+    "shipping": "Terrestre",
+    "Operador": "",
+    "fechaSolicitud": "23-11-2026",
+    "fechaPI": "",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504574",
+    "shipping": "Terrestre",
+    "Operador": "",
+    "fechaSolicitud": "23-11-2026",
+    "fechaPI": "",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504567",
+    "shipping": "Terrestre",
+    "Operador": "",
+    "fechaSolicitud": "23-11-2026",
+    "fechaPI": "",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504585",
+    "shipping": "Terrestre",
+    "Operador": "",
+    "fechaSolicitud": "23-11-2026",
+    "fechaPI": "",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504600",
+    "shipping": "Terrestre",
+    "Operador": "",
+    "fechaSolicitud": "23-11-2026",
+    "fechaPI": "",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "504644",
+    "shipping": "Terrestre",
+    "Operador": "",
+    "fechaSolicitud": "23-11-2026",
+    "fechaPI": "",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "505732",
+    "shipping": "Terrestre",
+    "Operador": "",
+    "fechaSolicitud": "23-11-2026",
+    "fechaPI": "",
+    "fechaOC": "",
+    "ETD": "",
+    "ETA": "",
+    "fechaIngreso": ""
+  },
+  {
+    "codigoSAP": "506494",
+    "shipping": "Terrestre",
+    "Operador": "",
+    "fechaSolicitud": "23-11-2026",
     "fechaPI": "",
     "fechaOC": "",
     "ETD": "",

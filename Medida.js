@@ -76456,6 +76456,14 @@ const medidaData = [
     "peso": "0,100"
   },
   {
+    "codigoSAP": 509552,
+    "largo": "12",
+    "ancho": "15",
+    "alto": "5",
+    "m3": "0,001",
+    "peso": "0,100"
+  },
+  {
     "codigoSAP": 509553,
     "largo": "12",
     "ancho": "15",

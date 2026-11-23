@@ -330,34 +330,12 @@ const datosComex = [
     "Seguimiento": "Local"
   },
   {
-    "OrdenCompra": 5600003971,
-    "Posicion": 10,
-    "codigoSAP": 504976,
-    "Almacen": 1506,
-    "Cantidad": 30,
-    "ETA": "25-11-2026",
-    "Solicitante": "STOCK",
-    "FechaLlegada": "",
-    "Seguimiento": "Local"
-  },
-  {
     "OrdenCompra": 5600003972,
     "Posicion": 10,
     "codigoSAP": 505490,
     "Almacen": 1506,
     "Cantidad": 40,
     "ETA": "27-11-2026",
-    "Solicitante": "STOCK",
-    "FechaLlegada": "",
-    "Seguimiento": "Local"
-  },
-  {
-    "OrdenCompra": 5600003973,
-    "Posicion": 10,
-    "codigoSAP": 500846,
-    "Almacen": 1506,
-    "Cantidad": 250,
-    "ETA": "28-11-2026",
     "Solicitante": "STOCK",
     "FechaLlegada": "",
     "Seguimiento": "Local"
@@ -479,7 +457,7 @@ const datosComex = [
     "Almacen": 1506,
     "Cantidad": 1,
     "ETA": "01-12-2026",
-    "Solicitante": "FB169493",
+    "Solicitante": "1000006423",
     "FechaLlegada": "",
     "Seguimiento": ""
   },
@@ -490,7 +468,7 @@ const datosComex = [
     "Almacen": 1506,
     "Cantidad": 1,
     "ETA": "01-12-2026",
-    "Solicitante": "FB169493",
+    "Solicitante": "1000006423",
     "FechaLlegada": "",
     "Seguimiento": ""
   },
@@ -961,30 +939,8 @@ const datosComex = [
     "Posicion": 10,
     "codigoSAP": 508451,
     "Almacen": 1506,
-    "Cantidad": 15,
+    "Cantidad": 12,
     "ETA": "22-11-2026",
-    "Solicitante": "STOCK",
-    "FechaLlegada": "",
-    "Seguimiento": "Local"
-  },
-  {
-    "OrdenCompra": 5600003963,
-    "Posicion": 10,
-    "codigoSAP": 504721,
-    "Almacen": 1506,
-    "Cantidad": 30,
-    "ETA": "23-11-2026",
-    "Solicitante": "STOCK",
-    "FechaLlegada": "",
-    "Seguimiento": "Local"
-  },
-  {
-    "OrdenCompra": 5600003963,
-    "Posicion": 20,
-    "codigoSAP": 504870,
-    "Almacen": 1506,
-    "Cantidad": 20,
-    "ETA": "24-11-2026",
     "Solicitante": "STOCK",
     "FechaLlegada": "",
     "Seguimiento": "Local"
@@ -2352,94 +2308,6 @@ const datosComex = [
     "Solicitante": "STOCK",
     "FechaLlegada": "",
     "Seguimiento": ""
-  },
-  {
-    "OrdenCompra": 5500010190,
-    "Posicion": 10,
-    "codigoSAP": 508637,
-    "Almacen": 1506,
-    "Cantidad": 1,
-    "ETA": "18-11-2026",
-    "Solicitante": "ENJOY",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
-  },
-  {
-    "OrdenCompra": 5500010190,
-    "Posicion": 20,
-    "codigoSAP": 500794,
-    "Almacen": 1506,
-    "Cantidad": 1,
-    "ETA": "18-11-2026",
-    "Solicitante": "ENJOY",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
-  },
-  {
-    "OrdenCompra": 5500010190,
-    "Posicion": 30,
-    "codigoSAP": 500771,
-    "Almacen": 1506,
-    "Cantidad": 1,
-    "ETA": "18-11-2026",
-    "Solicitante": "ENJOY",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
-  },
-  {
-    "OrdenCompra": 5500010190,
-    "Posicion": 40,
-    "codigoSAP": 500572,
-    "Almacen": 1506,
-    "Cantidad": 1,
-    "ETA": "18-11-2026",
-    "Solicitante": "ENJOY",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
-  },
-  {
-    "OrdenCompra": 5500010190,
-    "Posicion": 50,
-    "codigoSAP": 505710,
-    "Almacen": 1506,
-    "Cantidad": 1,
-    "ETA": "18-11-2026",
-    "Solicitante": "ENJOY",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
-  },
-  {
-    "OrdenCompra": 5500010190,
-    "Posicion": 60,
-    "codigoSAP": 509590,
-    "Almacen": 1506,
-    "Cantidad": 1,
-    "ETA": "18-11-2026",
-    "Solicitante": "ENJOY",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
-  },
-  {
-    "OrdenCompra": 5500010190,
-    "Posicion": 70,
-    "codigoSAP": 500748,
-    "Almacen": 1506,
-    "Cantidad": 4,
-    "ETA": "18-11-2026",
-    "Solicitante": "ENJOY",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
-  },
-  {
-    "OrdenCompra": 5500010190,
-    "Posicion": 80,
-    "codigoSAP": 500589,
-    "Almacen": 1506,
-    "Cantidad": 2,
-    "ETA": "18-11-2026",
-    "Solicitante": "ENJOY",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
   },
   {
     "OrdenCompra": 5500010170,
@@ -4082,28 +3950,6 @@ const datosComex = [
   },
   {
     "OrdenCompra": 5500010145,
-    "Posicion": 10,
-    "codigoSAP": 508676,
-    "Almacen": 1506,
-    "Cantidad": 2,
-    "ETA": "11-11-2026",
-    "Solicitante": "STAPPUNG",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "5036240381"
-  },
-  {
-    "OrdenCompra": 5500010145,
-    "Posicion": 20,
-    "codigoSAP": 508677,
-    "Almacen": 1506,
-    "Cantidad": 1,
-    "ETA": "11-11-2026",
-    "Solicitante": "STAPPUNG",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "5036240381"
-  },
-  {
-    "OrdenCompra": 5500010145,
     "Posicion": 30,
     "codigoSAP": 509143,
     "Almacen": 1506,
@@ -4114,204 +3960,6 @@ const datosComex = [
     "Seguimiento": "5036240381"
   },
   {
-    "OrdenCompra": 5500010145,
-    "Posicion": 40,
-    "codigoSAP": 501121,
-    "Almacen": 1506,
-    "Cantidad": 2,
-    "ETA": "11-11-2026",
-    "Solicitante": "ACONCATEC",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "5036240381"
-  },
-  {
-    "OrdenCompra": 5500010145,
-    "Posicion": 50,
-    "codigoSAP": 501018,
-    "Almacen": 1506,
-    "Cantidad": 1,
-    "ETA": "11-11-2026",
-    "Solicitante": "ACONCATEC",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "5036240381"
-  },
-  {
-    "OrdenCompra": 5500010145,
-    "Posicion": 60,
-    "codigoSAP": 501020,
-    "Almacen": 1506,
-    "Cantidad": 2,
-    "ETA": "11-11-2026",
-    "Solicitante": "ACONCATEC",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "5036240381"
-  },
-  {
-    "OrdenCompra": 5500010145,
-    "Posicion": 70,
-    "codigoSAP": 501020,
-    "Almacen": 1506,
-    "Cantidad": 1,
-    "ETA": "11-11-2026",
-    "Solicitante": "1000006283",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "5036240381"
-  },
-  {
-    "OrdenCompra": 5500010145,
-    "Posicion": 80,
-    "codigoSAP": 500040,
-    "Almacen": 1506,
-    "Cantidad": 1,
-    "ETA": "11-11-2026",
-    "Solicitante": "4000021717",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "5036240381"
-  },
-  {
-    "OrdenCompra": 5500010145,
-    "Posicion": 90,
-    "codigoSAP": 500040,
-    "Almacen": 1506,
-    "Cantidad": 1,
-    "ETA": "11-11-2026",
-    "Solicitante": "STOCK",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "5036240381"
-  },
-  {
-    "OrdenCompra": 5500010145,
-    "Posicion": 100,
-    "codigoSAP": 500197,
-    "Almacen": 1506,
-    "Cantidad": 2,
-    "ETA": "11-11-2026",
-    "Solicitante": "4000021717",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "5036240381"
-  },
-  {
-    "OrdenCompra": 5500010145,
-    "Posicion": 110,
-    "codigoSAP": 508368,
-    "Almacen": 1506,
-    "Cantidad": 1,
-    "ETA": "11-11-2026",
-    "Solicitante": "4000021717",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "5036240381"
-  },
-  {
-    "OrdenCompra": 5500010145,
-    "Posicion": 120,
-    "codigoSAP": 508368,
-    "Almacen": 1506,
-    "Cantidad": 2,
-    "ETA": "11-11-2026",
-    "Solicitante": "STOCK",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "5036240381"
-  },
-  {
-    "OrdenCompra": 5500010145,
-    "Posicion": 130,
-    "codigoSAP": 505644,
-    "Almacen": 1506,
-    "Cantidad": 1,
-    "ETA": "11-11-2026",
-    "Solicitante": "4000021717",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "5036240381"
-  },
-  {
-    "OrdenCompra": 5500010145,
-    "Posicion": 140,
-    "codigoSAP": 506037,
-    "Almacen": 1506,
-    "Cantidad": 1,
-    "ETA": "11-11-2026",
-    "Solicitante": "4000021717",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "5036240381"
-  },
-  {
-    "OrdenCompra": 5500010145,
-    "Posicion": 150,
-    "codigoSAP": 505619,
-    "Almacen": 1506,
-    "Cantidad": 1,
-    "ETA": "11-11-2026",
-    "Solicitante": "4000021883",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "5036240381"
-  },
-  {
-    "OrdenCompra": 5500010145,
-    "Posicion": 160,
-    "codigoSAP": 501020,
-    "Almacen": 1506,
-    "Cantidad": 5,
-    "ETA": "11-11-2026",
-    "Solicitante": "CRITICO",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "5036240381"
-  },
-  {
-    "OrdenCompra": 5500010145,
-    "Posicion": 170,
-    "codigoSAP": 501133,
-    "Almacen": 1506,
-    "Cantidad": 3,
-    "ETA": "11-11-2026",
-    "Solicitante": "CRITICO",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "5036240381"
-  },
-  {
-    "OrdenCompra": 5500010145,
-    "Posicion": 180,
-    "codigoSAP": 501333,
-    "Almacen": 1506,
-    "Cantidad": 2,
-    "ETA": "11-11-2026",
-    "Solicitante": "STOCK",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "5036240381"
-  },
-  {
-    "OrdenCompra": 5500010145,
-    "Posicion": 190,
-    "codigoSAP": 505616,
-    "Almacen": 1506,
-    "Cantidad": 2,
-    "ETA": "11-11-2026",
-    "Solicitante": "CRITICO",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "5036240381"
-  },
-  {
-    "OrdenCompra": 5500010145,
-    "Posicion": 200,
-    "codigoSAP": 501273,
-    "Almacen": 1506,
-    "Cantidad": 2,
-    "ETA": "11-11-2026",
-    "Solicitante": "STOCK",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "5036240381"
-  },
-  {
-    "OrdenCompra": 5500010145,
-    "Posicion": 210,
-    "codigoSAP": 501311,
-    "Almacen": 1506,
-    "Cantidad": 4,
-    "ETA": "11-11-2026",
-    "Solicitante": "CRITICO",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "5036240381"
-  },
-  {
     "OrdenCompra": 5500010113,
     "Posicion": 10,
     "codigoSAP": 506035,
@@ -4319,7 +3967,7 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "09-11-2026",
     "Solicitante": "FB167286",
-    "FechaLlegada": "24-11-2026",
+    "FechaLlegada": "20-11-2026",
     "Seguimiento": "K542667"
   },
   {
@@ -4330,7 +3978,7 @@ const datosComex = [
     "Cantidad": 2,
     "ETA": "09-11-2026",
     "Solicitante": "FB167286",
-    "FechaLlegada": "24-11-2026",
+    "FechaLlegada": "20-11-2026",
     "Seguimiento": "K542667"
   },
   {
@@ -4341,8 +3989,8 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "06-11-2026",
     "Solicitante": "CRITICO",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "29-10-2026",
+    "Seguimiento": "8549224434"
   },
   {
     "OrdenCompra": 5500010104,
@@ -4352,8 +4000,8 @@ const datosComex = [
     "Cantidad": 3,
     "ETA": "06-11-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "",
-    "Seguimiento": ""
+    "FechaLlegada": "29-10-2026",
+    "Seguimiento": "8549224434"
   },
   {
     "OrdenCompra": 5500010093,
@@ -4957,7 +4605,7 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "30-10-2026",
     "Solicitante": "RENTAL",
-    "FechaLlegada": "24-11-2026",
+    "FechaLlegada": "20-11-2026",
     "Seguimiento": "K542667"
   },
   {
@@ -4968,7 +4616,7 @@ const datosComex = [
     "Cantidad": 1,
     "ETA": "30-10-2026",
     "Solicitante": "1000006146",
-    "FechaLlegada": "24-11-2026",
+    "FechaLlegada": "20-11-2026",
     "Seguimiento": "K542667"
   },
   {
@@ -5212,72 +4860,6 @@ const datosComex = [
     "Solicitante": "STOCK",
     "FechaLlegada": "19-12-2026",
     "Seguimiento": "CMAU7968204"
-  },
-  {
-    "OrdenCompra": 5500009966,
-    "Posicion": 10,
-    "codigoSAP": 508349,
-    "Almacen": 1506,
-    "Cantidad": 1,
-    "ETA": "23-10-2026",
-    "Solicitante": "4000021619",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
-  },
-  {
-    "OrdenCompra": 5500009966,
-    "Posicion": 20,
-    "codigoSAP": 508349,
-    "Almacen": 1506,
-    "Cantidad": 1,
-    "ETA": "23-10-2026",
-    "Solicitante": "STOCK",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
-  },
-  {
-    "OrdenCompra": 5500009966,
-    "Posicion": 30,
-    "codigoSAP": 500750,
-    "Almacen": 1506,
-    "Cantidad": 4,
-    "ETA": "23-10-2026",
-    "Solicitante": "STOCK",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
-  },
-  {
-    "OrdenCompra": 5500009966,
-    "Posicion": 40,
-    "codigoSAP": 500798,
-    "Almacen": 1506,
-    "Cantidad": 2,
-    "ETA": "23-10-2026",
-    "Solicitante": "STOCK",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
-  },
-  {
-    "OrdenCompra": 5500009966,
-    "Posicion": 50,
-    "codigoSAP": 500812,
-    "Almacen": 1506,
-    "Cantidad": 10,
-    "ETA": "23-10-2026",
-    "Solicitante": "STOCK",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
-  },
-  {
-    "OrdenCompra": 5500009966,
-    "Posicion": 60,
-    "codigoSAP": 509416,
-    "Almacen": 1506,
-    "Cantidad": 1,
-    "ETA": "23-10-2026",
-    "Solicitante": "STOCK",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
   },
   {
     "OrdenCompra": 5500009967,
@@ -5632,105 +5214,6 @@ const datosComex = [
     "Seguimiento": "NKGB09804  "
   },
   {
-    "OrdenCompra": 5500009947,
-    "Posicion": 10,
-    "codigoSAP": 505297,
-    "Almacen": 1506,
-    "Cantidad": 1,
-    "ETA": "19-10-2026",
-    "Solicitante": "STOCK",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
-  },
-  {
-    "OrdenCompra": 5500009947,
-    "Posicion": 20,
-    "codigoSAP": 500789,
-    "Almacen": 1506,
-    "Cantidad": 4,
-    "ETA": "19-10-2026",
-    "Solicitante": "STOCK",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
-  },
-  {
-    "OrdenCompra": 5500009947,
-    "Posicion": 30,
-    "codigoSAP": 500790,
-    "Almacen": 1506,
-    "Cantidad": 1,
-    "ETA": "19-10-2026",
-    "Solicitante": "STOCK",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
-  },
-  {
-    "OrdenCompra": 5500009947,
-    "Posicion": 40,
-    "codigoSAP": 500792,
-    "Almacen": 1506,
-    "Cantidad": 2,
-    "ETA": "19-10-2026",
-    "Solicitante": "STOCK",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
-  },
-  {
-    "OrdenCompra": 5500009947,
-    "Posicion": 50,
-    "codigoSAP": 508637,
-    "Almacen": 1506,
-    "Cantidad": 2,
-    "ETA": "19-10-2026",
-    "Solicitante": "STOCK",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
-  },
-  {
-    "OrdenCompra": 5500009947,
-    "Posicion": 60,
-    "codigoSAP": 509430,
-    "Almacen": 1506,
-    "Cantidad": 2,
-    "ETA": "19-10-2026",
-    "Solicitante": "STOCK INI",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
-  },
-  {
-    "OrdenCompra": 5500009947,
-    "Posicion": 70,
-    "codigoSAP": 509416,
-    "Almacen": 1506,
-    "Cantidad": 1,
-    "ETA": "19-10-2026",
-    "Solicitante": "STOCK INI",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
-  },
-  {
-    "OrdenCompra": 5500009947,
-    "Posicion": 80,
-    "codigoSAP": 509587,
-    "Almacen": 1506,
-    "Cantidad": 2,
-    "ETA": "19-10-2026",
-    "Solicitante": "STOCK INI",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
-  },
-  {
-    "OrdenCompra": 5500009947,
-    "Posicion": 90,
-    "codigoSAP": 509588,
-    "Almacen": 1506,
-    "Cantidad": 2,
-    "ETA": "19-10-2026",
-    "Solicitante": "STOCK INI",
-    "FechaLlegada": "19-11-2026",
-    "Seguimiento": "7156369463"
-  },
-  {
     "OrdenCompra": 5500009943,
     "Posicion": 10,
     "codigoSAP": 501940,
@@ -5993,17 +5476,6 @@ const datosComex = [
     "Solicitante": "STOCK",
     "FechaLlegada": "",
     "Seguimiento": ""
-  },
-  {
-    "OrdenCompra": 5500009944,
-    "Posicion": 50,
-    "codigoSAP": 502949,
-    "Almacen": 1506,
-    "Cantidad": 35,
-    "ETA": "16-10-2026",
-    "Solicitante": "STOCK",
-    "FechaLlegada": "17-11-2026",
-    "Seguimiento": "K471542"
   },
   {
     "OrdenCompra": 5500009910,
@@ -8950,7 +8422,7 @@ const datosComex = [
     "Cantidad": 16,
     "ETA": "16-08-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "12-11-2026",
+    "FechaLlegada": "29-11-2026",
     "Seguimiento": "HLBU1653350"
   },
   {
@@ -8961,7 +8433,7 @@ const datosComex = [
     "Cantidad": 6,
     "ETA": "16-08-2026",
     "Solicitante": "STOCK",
-    "FechaLlegada": "12-11-2026",
+    "FechaLlegada": "29-11-2026",
     "Seguimiento": "HLBU1653350"
   },
   {
@@ -9377,10 +8849,10 @@ const datosComex = [
     "codigoSAP": 501548,
     "Almacen": 1524,
     "Cantidad": 23,
-    "ETA": "24-05-2026",
+    "ETA": "13-04-2026",
     "Solicitante": "STOCK",
     "FechaLlegada": "",
-    "Seguimiento": "MRSU2300472"
+    "Seguimiento": "WUHA33615"
   },
   {
     "OrdenCompra": 5500007779,

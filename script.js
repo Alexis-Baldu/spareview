@@ -1,6 +1,6 @@
 // Variables globales
-let imagenes = []; // Almacena los archivos de imagen seleccionados.
-let grilla = []; // Almacena los datos de despiece filtrados.
+let imagenes = []; // Almacena los archivos de imagen seleccionados
+let grilla = []; // Almacena los datos de despiece filtrados
 let archivosCargados = JSON.parse(localStorage.getItem("archivosCargados") || "[]"); // Recupera archivos guardados previamente del almacenamiento local
 let stock1409Map = {};
 let stock1506Map = {};
@@ -587,23 +587,26 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 function exportarAExcel() {
+  const modelo = document.getElementById("filtro-modelo").value;
+  if(!modelo){
+    alert(
+      "Debe seleccionar un modelo."
+    );
+    return;
+  }
   const tabla = document.getElementById("grilla");
   const wb = XLSX.utils.table_to_book(tabla, { sheet: "Detalle", raw: true });
   XLSX.writeFile(wb, "Detalle.xlsx");
 }
 
 function abrirPdfModelo(){
-    const modelo = document.getElementById("filtro-modelo").value;
-    if(!modelo){
-        alert(
-            "Debe seleccionar un modelo."
-        );
-        return;
-    }
-    const pdf =
-        `despieces/${modelo}.pdf`;
-    window.open(
-        pdf,
-        "_blank"
+  const modelo = document.getElementById("filtro-modelo").value;
+  if(!modelo){
+    alert(
+      "Debe seleccionar un modelo."
     );
+    return;
+  }
+  const pdf = `despieces/${modelo}.pdf`;
+    window.open(pdf, "_blank");
 }

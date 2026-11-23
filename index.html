@@ -11,13 +11,12 @@
   </head>
   <body>
     <header>
-      <!-- Cabecera -->
       <div id="logo" type="img">
-      <img src="https://repuestos.ventuscorp.cl/wp-content/uploads/2024/11/logo-image.svg" class="logo-footer" alt="" decoding="async" loading="lazy"/>
+        <img src="https://repuestos.ventuscorp.cl/wp-content/uploads/2024/11/logo-image.svg" class="logo-footer" alt="" decoding="async" loading="lazy"/>
       </div>
-      <button id="toggle-carrito">🛒</button><span id="contador-carrito" class="contador">0</span>
+      <button id="toggle-carrito">🛒</button>
+      <span id="contador-carrito" class="contador">0</span>
     </header>
-    <!-- Pantalla -->
     <div id="pantalla-despiece" style="display: block;">
       <div id="sidebar">
         <a href="index.html" class="side-link active" data-id="inicio">
@@ -49,37 +48,29 @@
           <span class="text">Config.</span>
         </a>
       </div>
-      <!-- BUSCADOR -->
       <div class="buscador-container">
         <div class="input-group">
-          <input type="text" id="inputSAP" placeholder="Ingrese Código SAP">
+          <input type="text" id="inputSAP" placeholder="Buscar por Código SAP o de fabrica">
           <svg class="icono-lupa" viewBox="0 0 24 24">
             <circle cx="11" cy="11" r="7"/>
             <line x1="16" y1="16" x2="21" y2="21"/>
           </svg>
         </div>
       </div>
-
-      <!-- RESULTADO -->
       <div id="resultado" class="resultado-container">
-        <!-- IMAGEN -->
         <div class="imagen-box">
           <img id="imgProducto" src="" alt="Imagen repuesto" style="display:none;">
-            <!-- Botones de Imagen -->
-            <button class="download-btn" onclick="guardarImagen()" title="Guardar imagen">
-              💾
-            </button>
-            <button class="expand-btn" onclick="abrirImagen()" title="Ampliar imagen">
-              ⛶
-            </button>
+          <button class="download-btn" onclick="guardarImagen()" title="Guardar imagen">
+            💾
+          </button>
+          <button class="expand-btn" onclick="abrirImagen()" title="Ampliar imagen">
+            ⛶
+          </button>
         </div>
-          <!-- MODAL -->
         <div id="modalImagen" class="modal">
           <span class="cerrar" onclick="cerrarImagen()">&times;</span>
           <img id="imgAmpliada" class="modal-contenido">
         </div>
-
-        <!-- DETALLE -->
         <div class="detalle-box">
           <div class="detalle-item">
             <span class="valorDescripcion" id="descripcion"></span>
@@ -99,6 +90,8 @@
           <div class="detalle-item">
             <span class="label-stock">Stock 1409:</span>
             <span class="valor-stock" id="stock1409"></span>
+            <span class="label-stock">Stock 1501:</span>
+            <span class="valor-stock" id="stock1501"></span>
             <span class="label-stock">Stock 1506:</span>
             <span class="valor-stock" id="stock1506"></span>
             <span class="label-stock">Stock 1524:</span>
@@ -109,13 +102,11 @@
             <span class="valor" id="reemplazo"></span>
           </div>
         </div>
-              <!-- CARRITO -->
         <div class="detalle-box">
           <div class="detalle-item">
             <span class="label">Precio:</span>
             <span class="valor" id="precio"></span>
           </div>
-          
           <div id="carrito-control">
             <div class="cantidad-box">
               <button id="btn-menos">−</button>
@@ -124,44 +115,47 @@
             </div>
             <button id="btn-agregar">AÑADIR AL CARRITO</button>
           </div>
-
         </div>
       </div>
-
-      <div id="resultado" class="resultado-container">
-
-        <!-- EQUIPOS -->
-        <div class="modelos-box" id="modelos"></div>
-
-        <!-- MEDIDAS -->
-        <div class="detalle-box">
-          <div class="detalle-item">
-            <span class="valorDescripcion">Datos Logísticos</span>
+      <div class="tabs-container">
+        <div class="tabs-header">
+          <button class="tab-btn active" onclick="mostrarTab('logistica',this)">
+            DATOS LOGÍSTICOS
+          </button>
+          <button class="tab-btn" onclick="mostrarTab('modelos',this)">
+            EQUIPOS ASOCIADOS
+          </button>
+        </div>
+        <div id="tab-logistica" class="tab-content active">
+          <div class="spec-row">
+            <span>Alto</span>
+            <span id="alto"></span>
           </div>
-          <div class="detalle-item">
-            <span class="label">Alto:</span>
-            <span class="valor" id="alto"></span>
-            <span class="label">Largo:</span>
-            <span class="valor" id="largo"></span>
-            <span class="label">Ancho:</span>
-            <span class="valor" id="ancho"></span>
+          <div class="spec-row">
+            <span>Largo</span>
+            <span id="largo"></span>
           </div>
-          <div class="detalle-item">
-            <span class="label">Peso:</span>
-            <span class="valor" id="peso"></span>
+          <div class="spec-row">
+            <span>Ancho</span>
+            <span id="ancho"></span>
           </div>
+          <div class="spec-row">
+            <span>Peso</span>
+            <span id="peso"></span>
+          </div>
+        </div>
+        <div id="tab-modelos" class="tab-content">
+          <div id="modelos"></div>
         </div>
       </div>
     </div>
-
     <!-- Carrito flotante con botón de minimizar -->
     <div id="carrito-flotante" class="oculto">
       <h3>🛒 Carrito</h3>
       <ul id="lista-carrito"></ul>
       <div id="total-carrito"></div>
     </div>
-    <!-- 
-    <div>
+    <!--<div>
       <p id="cuenta-regresiva2">¿Cuanto falta para Fiestas Patrias?</p>
       <div id="cuenta-regresiva">
         <p id="dias"></p>
@@ -169,9 +163,7 @@
         <p id="minutos"></p>
         <p id="segundos"></p>
       </div>
-    </div>
-     -->
-    <!-- Datos -->
+    </div>-->
     <script src="mb52.js"></script>
     <script src="Precio.js"></script>
     <script src="Reemplazos.js"></script>
@@ -183,7 +175,6 @@
     <script src="script-view.js"></script>
   </body>
   <footer>
-    <!-- Pie de Página -->
     <div class="col-md-12 sidebar text-center">
       <aside id="text-8" class="widget widget_text">
         <div class="textwidget">

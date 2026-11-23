@@ -8961,9 +8961,9 @@ const precioData = [
   },
   {
     "codigoSAP": 501281,
-    "precio24": "$8.667",
-    "precio28": "$7.367",
-    "precio29": "$8.667",
+    "precio24": "$16.942",
+    "precio28": "$14.400",
+    "precio29": "$16.942",
     "precio30": "$10,00"
   },
   {
@@ -9143,9 +9143,9 @@ const precioData = [
   },
   {
     "codigoSAP": 501307,
-    "precio24": "$34.290",
-    "precio28": "$29.147",
-    "precio29": "$34.290",
+    "precio24": "$67.028",
+    "precio28": "$56.974",
+    "precio29": "$67.028",
     "precio30": "$39,00"
   },
   {
@@ -39201,9 +39201,9 @@ const precioData = [
   },
   {
     "codigoSAP": 505603,
-    "precio24": "$317.250",
-    "precio28": "$269.663",
-    "precio29": "$317.250",
+    "precio24": "$387.917",
+    "precio28": "$329.729",
+    "precio29": "$387.917",
     "precio30": "$360,00"
   },
   {
@@ -54776,9 +54776,9 @@ const precioData = [
   },
   {
     "codigoSAP": 508346,
-    "precio24": "$129.150",
-    "precio28": "$116.235",
-    "precio29": "$129.150",
+    "precio24": "$227.208",
+    "precio28": "$193.127",
+    "precio29": "$227.208",
     "precio30": "$117,00"
   },
   {

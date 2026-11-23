@@ -5,9 +5,22 @@ function buscarSAP() {
   if (input === "") return;
 
   // Buscar directamente en repuestos.js
-  const repuesto = window.repuestos?.find(
-    r => Number(r.codigoSAP) === Number(input)
+  let repuesto = window.repuestos?.find(
+    r => String(r.codigoSAP).trim() === input
   );
+  if (!repuesto) {
+
+    const itemFabrica = datosDespiece.find(
+      d => String(d.codigoFabrica).trim().toUpperCase() === input.toUpperCase()
+    );
+
+    if (itemFabrica) {
+
+      repuesto = window.repuestos?.find(
+        r => String(r.codigoSAP) === String(itemFabrica.codigoSAP)
+      );
+    }
+  }
 
   if (!repuesto) {
     alert("No encontrado");
@@ -47,6 +60,7 @@ function buscarSAP() {
   }
   // Stock
   let stock1409 = 0;
+  let stock1501 = 0;
   let stock1506 = 0;
   let stock1524 = 0;
   if (typeof datosMb52 !== "undefined") {
@@ -57,6 +71,9 @@ function buscarSAP() {
       if (String(item.almacen) === "1409") {
         stock1409 += Number(item.Stock || 0);
       }
+      if (String(item.almacen) === "1501") {
+        stock1501 += Number(item.Stock || 0);
+      }
       if (String(item.almacen) === "1506") {
         stock1506 += Number(item.Stock || 0);
       }
@@ -65,9 +82,10 @@ function buscarSAP() {
       }
     });
   }
-  const stockTotal = stock1409 + stock1506 + stock1524;
+  const stockTotal = stock1409 + stock1501 + stock1506 + stock1524;
   document.getElementById("stockTotal").textContent = stockTotal.toLocaleString("es-CL");
   document.getElementById("stock1409").textContent = stock1409.toLocaleString("es-CL");
+  document.getElementById("stock1501").textContent = stock1501.toLocaleString("es-CL");
   document.getElementById("stock1506").textContent = stock1506.toLocaleString("es-CL");
   document.getElementById("stock1524").textContent = stock1524.toLocaleString("es-CL");
   // reemplazo
@@ -176,7 +194,6 @@ function buscarSAP() {
   const contenedorModelos = document.getElementById("modelos"); // Mostrar los modelos en pantalla
   contenedorModelos.innerHTML = `
     <p></p>
-    <span class="valorDescripcion">Equipos asociados</span>
     <ul>
       ${modelosUnicos.map(m => `
         <li>
@@ -420,6 +437,13 @@ function redirigirACotizador() {
   }
   localStorage.setItem("cotizadorDatos", JSON.stringify(datosCotizador));
   window.open("Cotizador/index.html", "_blank");
+}
+
+function mostrarTab(tab, boton){
+    document.querySelectorAll(".tab-content").forEach(x => x.classList.remove("active"));
+    document.querySelectorAll(".tab-btn").forEach(x => x.classList.remove("active"));
+    document.getElementById("tab-" + tab).classList.add("active");
+    boton.classList.add("active");
 }
 
 //Cuenta Regresiva

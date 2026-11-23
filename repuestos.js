@@ -4166,7 +4166,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500589,
-    "descripcion": "BURLETE HORNO COCINA 7KE230",
+    "descripcion": "BURLETE HORNO COCINA 2000MM (7KE230)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640066"
@@ -66897,6 +66897,13 @@ window.repuestos = [
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "15-09-2026",
     "Proveedor": "640063"
+  },
+  {
+    "codigoSAP": 509552,
+    "descripcion": "CABLE CONEXION TARJETA MADRE-TEC VMH-80C",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "20-11-2026",
+    "Proveedor": "640088"
   },
   {
     "codigoSAP": 509553,
