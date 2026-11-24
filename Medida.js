@@ -56,6 +56,14 @@ const medidaData = [
     "peso": "0,600"
   },
   {
+    "codigoSAP": 102997,
+    "largo": "21",
+    "ancho": "21",
+    "alto": "4",
+    "m3": "0,002",
+    "peso": "0,600"
+  },
+  {
     "codigoSAP": 500001,
     "largo": "12",
     "ancho": "15",
@@ -7153,11 +7161,11 @@ const medidaData = [
   },
   {
     "codigoSAP": 500888,
-    "largo": "12",
-    "ancho": "15",
-    "alto": "5",
+    "largo": "2",
+    "ancho": "1",
+    "alto": "1",
     "m3": "0,001",
-    "peso": "1,000"
+    "peso": "0,009"
   },
   {
     "codigoSAP": 500889,
@@ -7641,10 +7649,10 @@ const medidaData = [
   },
   {
     "codigoSAP": 500949,
-    "largo": "2",
-    "ancho": "13",
-    "alto": "13",
-    "m3": "0,001",
+    "largo": "17",
+    "ancho": "15",
+    "alto": "7",
+    "m3": "0,002",
     "peso": "0,066"
   },
   {
@@ -47369,10 +47377,10 @@ const medidaData = [
   },
   {
     "codigoSAP": 505915,
-    "largo": "12",
-    "ancho": "15",
-    "alto": "5",
-    "m3": "0,001",
+    "largo": "45",
+    "ancho": "45",
+    "alto": "3",
+    "m3": "0,006",
     "peso": "1,000"
   },
   {
@@ -52704,14 +52712,6 @@ const medidaData = [
     "peso": "1,000"
   },
   {
-    "codigoSAP": 506582,
-    "largo": "12",
-    "ancho": "15",
-    "alto": "5",
-    "m3": "0,001",
-    "peso": "1,000"
-  },
-  {
     "codigoSAP": 506583,
     "largo": "12",
     "ancho": "15",
@@ -52720,23 +52720,7 @@ const medidaData = [
     "peso": "1,000"
   },
   {
-    "codigoSAP": 506584,
-    "largo": "12",
-    "ancho": "15",
-    "alto": "5",
-    "m3": "0,001",
-    "peso": "1,000"
-  },
-  {
     "codigoSAP": 506585,
-    "largo": "12",
-    "ancho": "15",
-    "alto": "5",
-    "m3": "0,001",
-    "peso": "1,000"
-  },
-  {
-    "codigoSAP": 506586,
     "largo": "12",
     "ancho": "15",
     "alto": "5",
@@ -52769,14 +52753,6 @@ const medidaData = [
   },
   {
     "codigoSAP": 506590,
-    "largo": "12",
-    "ancho": "15",
-    "alto": "5",
-    "m3": "0,001",
-    "peso": "1,000"
-  },
-  {
-    "codigoSAP": 506591,
     "largo": "12",
     "ancho": "15",
     "alto": "5",

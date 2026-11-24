@@ -48,6 +48,12 @@ const datosDespiece = [
     "modelo": "CA-31"
   },
   {
+    "codigoFabrica": "",
+    "codigoSAP": 102997,
+    "cantidad": 1,
+    "modelo": "CA-31"
+  },
+  {
     "codigoFabrica": "0E0142",
     "codigoSAP": 500001,
     "cantidad": 1,
@@ -60,13 +66,13 @@ const datosDespiece = [
     "modelo": "NERT20EL"
   },
   {
-    "codigoFabrica": "71088018",
+    "codigoFabrica": "0E0052",
     "codigoSAP": 500003,
     "cantidad": 1,
     "modelo": "IC44819"
   },
   {
-    "codigoFabrica": "71088018",
+    "codigoFabrica": "0E0052",
     "codigoSAP": 500003,
     "cantidad": 1,
     "modelo": "IC44832"
@@ -16092,9 +16098,15 @@ const datosDespiece = [
     "modelo": "VSP-40 INOX"
   },
   {
-    "codigoFabrica": "101013100033R025",
+    "codigoFabrica": "3",
     "codigoSAP": 501734,
-    "cantidad": 1,
+    "cantidad": 2,
+    "modelo": "VSP-30S"
+  },
+  {
+    "codigoFabrica": "3",
+    "codigoSAP": 501734,
+    "cantidad": 2,
     "modelo": "VSP-40 INOX"
   },
   {
@@ -57402,18 +57414,6 @@ const datosDespiece = [
     "modelo": "CTVD-600"
   },
   {
-    "codigoFabrica": "101012900045R020",
-    "codigoSAP": 506582,
-    "cantidad": 1,
-    "modelo": "CTVD-215"
-  },
-  {
-    "codigoFabrica": "101012900045R020",
-    "codigoSAP": 506582,
-    "cantidad": 1,
-    "modelo": "CTVD-330"
-  },
-  {
     "codigoFabrica": "101012900045R021",
     "codigoSAP": 506583,
     "cantidad": 1,
@@ -57422,18 +57422,6 @@ const datosDespiece = [
   {
     "codigoFabrica": "101012900045R021",
     "codigoSAP": 506583,
-    "cantidad": 1,
-    "modelo": "CTVD-330"
-  },
-  {
-    "codigoFabrica": "101012900045R211",
-    "codigoSAP": 506584,
-    "cantidad": 1,
-    "modelo": "CTVD-215"
-  },
-  {
-    "codigoFabrica": "101012900045R211",
-    "codigoSAP": 506584,
     "cantidad": 1,
     "modelo": "CTVD-330"
   },
@@ -57442,18 +57430,6 @@ const datosDespiece = [
     "codigoSAP": 506585,
     "cantidad": 1,
     "modelo": "CTVD-215"
-  },
-  {
-    "codigoFabrica": "101012900045R031",
-    "codigoSAP": 506586,
-    "cantidad": 1,
-    "modelo": "CTVD-215"
-  },
-  {
-    "codigoFabrica": "101012900045R031",
-    "codigoSAP": 506586,
-    "cantidad": 1,
-    "modelo": "CTVD-330"
   },
   {
     "codigoFabrica": "101012900045R032",
@@ -57490,18 +57466,6 @@ const datosDespiece = [
     "codigoSAP": 506590,
     "cantidad": 1,
     "modelo": "CTVD-215"
-  },
-  {
-    "codigoFabrica": "101012900045R037",
-    "codigoSAP": 506591,
-    "cantidad": 1,
-    "modelo": "CTVD-215"
-  },
-  {
-    "codigoFabrica": "101012900045R037",
-    "codigoSAP": 506591,
-    "cantidad": 1,
-    "modelo": "CTVD-330"
   },
   {
     "codigoFabrica": "101012900045R038",
@@ -85354,5 +85318,65 @@ const datosDespiece = [
     "codigoSAP": 509655,
     "cantidad": 1,
     "modelo": "ST-305-SH"
+  },
+  {
+    "codigoFabrica": "0W6372",
+    "codigoSAP": 509656,
+    "cantidad": 1,
+    "modelo": "T5550"
+  },
+  {
+    "codigoFabrica": "0W6372",
+    "codigoSAP": 509656,
+    "cantidad": 1,
+    "modelo": "T5675"
+  },
+  {
+    "codigoFabrica": "0W6372",
+    "codigoSAP": 509656,
+    "cantidad": 1,
+    "modelo": "TD6-20"
+  },
+  {
+    "codigoFabrica": "0W4837",
+    "codigoSAP": 509657,
+    "cantidad": 1,
+    "modelo": "IC44819"
+  },
+  {
+    "codigoFabrica": "0W4837",
+    "codigoSAP": 509657,
+    "cantidad": 1,
+    "modelo": "IC44832"
+  },
+  {
+    "codigoFabrica": "2053930",
+    "codigoSAP": 509658,
+    "cantidad": 1,
+    "modelo": "CKE-8V"
+  },
+  {
+    "codigoFabrica": "2053930",
+    "codigoSAP": 509658,
+    "cantidad": 1,
+    "modelo": "K-8V"
+  },
+  {
+    "codigoFabrica": "2053930",
+    "codigoSAP": 509658,
+    "cantidad": 1,
+    "modelo": "KE-8V"
+  },
+  {
+    "codigoFabrica": "CHG56",
+    "codigoSAP": 509659,
+    "cantidad": 1,
+    "modelo": "ROC56"
+  },
+  {
+    "codigoFabrica": "OT-PT-0772-RJ-D",
+    "codigoSAP": 509661,
+    "cantidad": 1,
+    "modelo": "X-8C"
   }
 ];

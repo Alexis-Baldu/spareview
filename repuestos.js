@@ -49,6 +49,13 @@ window.repuestos = [
     "Proveedor": "640063"
   },
   {
+    "codigoSAP": 102997,
+    "descripcion": "DISCO CORTE HOJA CURVA 4MM FCC-4 (CA-31)",
+    "tipoMaterial": "Repuesto",
+    "fechaCreacion": "18-05-2026",
+    "Proveedor": "640063"
+  },
+  {
     "codigoSAP": 500001,
     "descripcion": "JUNTA TORICA ØI=29X3 MM 0E0142",
     "tipoMaterial": "Repuesto",
@@ -6259,7 +6266,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500888,
-    "descripcion": "FILTRO",
+    "descripcion": "FILTRO BOMBA 0C1155",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640068"
@@ -6686,7 +6693,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 500949,
-    "descripcion": "JUNTA QUEMADOR AOSQ",
+    "descripcion": "SELLO QUEMADOR 0C4101",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640068"
@@ -12181,10 +12188,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 501734,
-    "descripcion": "CORREA A1250LI (A49) (VSP-40 INOX)",
+    "descripcion": "CORREA A1250LI (A49) (VSP-30S)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
-    "Proveedor": "640083"
+    "Proveedor": "814482006"
   },
   {
     "codigoSAP": 501735,
@@ -21256,7 +21263,7 @@ window.repuestos = [
     "descripcion": "TRANSFORMADOR 220V 12VDC",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
-    "Proveedor": "640060"
+    "Proveedor": "783034603"
   },
   {
     "codigoSAP": 503031,
@@ -40069,7 +40076,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505718,
-    "descripcion": "DISCO CORTE 3MM FCC-3+ (CA-31)",
+    "descripcion": "DISCO CORTE HOJA CURVA 3MM FCC-3+ (CA-31",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "28-02-2023",
     "Proveedor": "640063"
@@ -40755,7 +40762,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505816,
-    "descripcion": "DISCO CORTE 5MM FCC-5 (CA-31)",
+    "descripcion": "DISCO CORTE HOJA CURVA 5MM FCC-5+ (CA-31",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "03-05-2023",
     "Proveedor": "640063"
@@ -41448,7 +41455,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505915,
-    "descripcion": "0W1533 DOOR GASKET 432184305",
+    "descripcion": "0W1533 BURLETE PUERTA 432184305",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "21-04-2023",
     "Proveedor": "640229"
@@ -46116,13 +46123,6 @@ window.repuestos = [
     "Proveedor": "640004"
   },
   {
-    "codigoSAP": 506582,
-    "descripcion": "TORNILLO (CTVD-215/CTVD-330)",
-    "tipoMaterial": "Repuesto",
-    "fechaCreacion": "30-06-2023",
-    "Proveedor": "640004"
-  },
-  {
     "codigoSAP": 506583,
     "descripcion": "ARANDELA DENTADA (CTVD-215/CTVD-330)",
     "tipoMaterial": "Repuesto",
@@ -46130,22 +46130,8 @@ window.repuestos = [
     "Proveedor": "640004"
   },
   {
-    "codigoSAP": 506584,
-    "descripcion": "TORNILLO (CTVD-215/CTVD-330)",
-    "tipoMaterial": "Repuesto",
-    "fechaCreacion": "30-06-2023",
-    "Proveedor": "640004"
-  },
-  {
     "codigoSAP": 506585,
     "descripcion": "COMPRESOR (CTVD-215)",
-    "tipoMaterial": "Repuesto",
-    "fechaCreacion": "30-06-2023",
-    "Proveedor": "640004"
-  },
-  {
-    "codigoSAP": 506586,
-    "descripcion": "TORNILLO (CTVD-215/CTVD-330)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "30-06-2023",
     "Proveedor": "640004"
@@ -46174,13 +46160,6 @@ window.repuestos = [
   {
     "codigoSAP": 506590,
     "descripcion": "REJILLA TRASERA (CTVD-215)",
-    "tipoMaterial": "Repuesto",
-    "fechaCreacion": "30-06-2023",
-    "Proveedor": "640004"
-  },
-  {
-    "codigoSAP": 506591,
-    "descripcion": "TORNILLO (CTVD-215/CTVD-330)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "30-06-2023",
     "Proveedor": "640004"
@@ -63529,14 +63508,14 @@ window.repuestos = [
     "descripcion": "LAMINA PUERTA NEGRA (ROC56)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "21-11-2025",
-    "Proveedor": "640187"
+    "Proveedor": "640224"
   },
   {
     "codigoSAP": 509071,
     "descripcion": "MANILLA PUERTA (ROC56)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "21-11-2025",
-    "Proveedor": "640187"
+    "Proveedor": "640224"
   },
   {
     "codigoSAP": 509072,
@@ -67652,7 +67631,7 @@ window.repuestos = [
     "descripcion": "REJILLA CARBON ASADOR (ROC56)",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "16-11-2026",
-    "Proveedor": "640187"
+    "Proveedor": "640224"
   },
   {
     "codigoSAP": 509660,
