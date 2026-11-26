@@ -79194,16 +79194,10 @@ const datosDespiece = [
     "modelo": "BBQ601DARKHAWK"
   },
   {
-    "codigoFabrica": "ET05H",
+    "codigoFabrica": "0W7PLN",
     "codigoSAP": 509190,
     "cantidad": 1,
-    "modelo": "BBQ401DARKHAWK"
-  },
-  {
-    "codigoFabrica": "ET05H",
-    "codigoSAP": 509190,
-    "cantidad": 1,
-    "modelo": "BBQ601DARKHAWK"
+    "modelo": "W5180S"
   },
   {
     "codigoFabrica": "ES33BJBSH3B+04-SBS-28-345",

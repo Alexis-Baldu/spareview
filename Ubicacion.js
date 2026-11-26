@@ -2964,6 +2964,10 @@ const ubicacionData = [
     "ubicacion": "RG050301"
   },
   {
+    "codigoSAP": 501736,
+    "ubicacion": "RG050301"
+  },
+  {
     "codigoSAP": 501742,
     "ubicacion": "EF050304"
   },
@@ -6577,7 +6581,7 @@ const ubicacionData = [
   },
   {
     "codigoSAP": 503472,
-    "ubicacion": "ER010101"
+    "ubicacion": "EK030401"
   },
   {
     "codigoSAP": 503473,
@@ -11796,6 +11800,14 @@ const ubicacionData = [
     "ubicacion": "EE060901"
   },
   {
+    "codigoSAP": 506027,
+    "ubicacion": "RC010101"
+  },
+  {
+    "codigoSAP": 506028,
+    "ubicacion": "RC010101"
+  },
+  {
     "codigoSAP": 506029,
     "ubicacion": "RD040401"
   },
@@ -13602,6 +13614,10 @@ const ubicacionData = [
   {
     "codigoSAP": 507479,
     "ubicacion": "EU080101"
+  },
+  {
+    "codigoSAP": 507481,
+    "ubicacion": "EU140301"
   },
   {
     "codigoSAP": 507484,
@@ -18733,7 +18749,7 @@ const ubicacionData = [
   },
   {
     "codigoSAP": 509143,
-    "ubicacion": "EI010901"
+    "ubicacion": "EA040301"
   },
   {
     "codigoSAP": 509144,
@@ -19790,5 +19806,105 @@ const ubicacionData = [
   {
     "codigoSAP": 509598,
     "ubicacion": "RC010101"
+  },
+  {
+    "codigoSAP": 509627,
+    "ubicacion": "EN040101"
+  },
+  {
+    "codigoSAP": 509628,
+    "ubicacion": "EU040301"
+  },
+  {
+    "codigoSAP": 509629,
+    "ubicacion": "EC020804"
+  },
+  {
+    "codigoSAP": 509630,
+    "ubicacion": "EC020804"
+  },
+  {
+    "codigoSAP": 509631,
+    "ubicacion": "EC020804"
+  },
+  {
+    "codigoSAP": 509632,
+    "ubicacion": "EU020501"
+  },
+  {
+    "codigoSAP": 509633,
+    "ubicacion": "EC020804"
+  },
+  {
+    "codigoSAP": 509634,
+    "ubicacion": "EC020701"
+  },
+  {
+    "codigoSAP": 509635,
+    "ubicacion": "EC020701"
+  },
+  {
+    "codigoSAP": 509636,
+    "ubicacion": "EU020501"
+  },
+  {
+    "codigoSAP": 509637,
+    "ubicacion": "EC020702"
+  },
+  {
+    "codigoSAP": 509638,
+    "ubicacion": "EC020201"
+  },
+  {
+    "codigoSAP": 509639,
+    "ubicacion": "EC020201"
+  },
+  {
+    "codigoSAP": 509640,
+    "ubicacion": "EC020201"
+  },
+  {
+    "codigoSAP": 509641,
+    "ubicacion": "EU040301"
+  },
+  {
+    "codigoSAP": 509642,
+    "ubicacion": "RB020101"
+  },
+  {
+    "codigoSAP": 509643,
+    "ubicacion": "EN050101"
+  },
+  {
+    "codigoSAP": 509644,
+    "ubicacion": "EC020701"
+  },
+  {
+    "codigoSAP": 509645,
+    "ubicacion": "EN050101"
+  },
+  {
+    "codigoSAP": 509646,
+    "ubicacion": "EC020701"
+  },
+  {
+    "codigoSAP": 509647,
+    "ubicacion": "EN050101"
+  },
+  {
+    "codigoSAP": 509648,
+    "ubicacion": "EU020501"
+  },
+  {
+    "codigoSAP": 509660,
+    "ubicacion": "EH020801"
+  },
+  {
+    "codigoSAP": 509661,
+    "ubicacion": "RC030101"
+  },
+  {
+    "codigoSAP": 509662,
+    "ubicacion": "EH020801"
   }
 ];

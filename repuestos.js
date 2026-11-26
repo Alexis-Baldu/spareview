@@ -35946,7 +35946,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 505128,
-    "descripcion": "BASKET GUIDE 0L4580",
+    "descripcion": "RIEL GUIA CANASTA 0L4580",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "23-12-2022",
     "Proveedor": "640068"
@@ -53383,7 +53383,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 507623,
-    "descripcion": "GUIA 0L2807",
+    "descripcion": "RIEL GUIA CANASTA 0L2807",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "30-04-2024",
     "Proveedor": "640068"
@@ -64345,10 +64345,10 @@ window.repuestos = [
   },
   {
     "codigoSAP": 509190,
-    "descripcion": "QUEMADOR LATERAL (BBQ401DARKHAWK)",
+    "descripcion": "0W7PLN KIT CONTROL MOTOR 472994602",
     "tipoMaterial": "Repuesto",
-    "fechaCreacion": "31-01-2026",
-    "Proveedor": "640070"
+    "fechaCreacion": "24-11-2026",
+    "Proveedor": "640229"
   },
   {
     "codigoSAP": 509191,
@@ -66109,7 +66109,7 @@ window.repuestos = [
   },
   {
     "codigoSAP": 509442,
-    "descripcion": "0W7S88 KIT OBIWAN EWD1300 472994503",
+    "descripcion": "0W7S88 KIT CONTROL MOTOR 472994503",
     "tipoMaterial": "Repuesto",
     "fechaCreacion": "05-08-2026",
     "Proveedor": "640229"
